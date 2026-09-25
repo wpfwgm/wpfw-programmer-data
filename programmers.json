@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-25T18:33:35.573Z",
+ "generatedAt": "2026-09-25T21:15:34.423Z",
  "count": 23,
  "cats": [
   "Health & Fitness",
@@ -44,6 +44,12 @@
     "Renee Bowser is a veteran labor leader and community activist who has been a devoted part of the WPFW listening family since the early 1990s. As a dedicated trade unionist, Renee spent her career fighting for workers to have a voice on the job, representing diverse employees in fields ranging from nursing to packinghouse work to secure better conditions and stable futures. Her lifelong commitment to justice has spanned from serving as an anti-discrimination investigator to organizing boycotts against corporations doing business with apartheid South Africa and working in the movement to free political prisoners.",
     "Deeply rooted in local advocacy, Renee has served as a volunteer Advisory Neighborhood Commissioner and worked with Empower DC to champion safe, affordable housing and tutor unhoused children. At WPFW, she has been a vital leader for the station, volunteering on the Local Station Board for several years and serving as its chair.",
     "In 2024, Renee brought her expertise to the airwaves as the host of Unionism Drives Community! Through her program, she explores the intertwined lives of the working class and promotes the intentional solidarity needed to advance the status of Black and Brown communities. Beyond her work in the studio, Renee remains active in public service as the Labor Member on the District of Columbia Public Employee Relations Board and continues her community organizing efforts with DC for Democracy."
+   ],
+   "progInfo": [
+    {
+     "name": "Unionism Drives Community",
+     "desc": "A weekly conversation about labor organizing, worker power, and the union strategies shaping Black and working-class communities in Washington, D.C."
+    }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/b0a74a55-cfe2-4a79-a93d-ab7c596b3536/renee+bowser.png",
    "page": "https://www.wpfwdc.org/programmer/renee-bowser",
@@ -146,6 +152,17 @@
     "Jim describes his work as revolutionary radio, fueled by a belief that preserving history is a radical act in an era where community stories are often erased. Using his personal collection of over 20,000 records and pieces of memorabilia, he paints a musical portrait for his listeners, creating multiple access points for both novices and experts to engage with the music. One of his signature segments, \"News According to Mambo,\" specifically connects vintage rhythms to the current events of the day. His expertise is so widely recognized that his program has been integrated into the History of Pop Music curriculum at both Boston College and Boston University.",
     "Outside of his broadcasting and marketing work, Jim is a de facto neighborhood historian for his Southeast D.C. community, where he has led walking tours of Hillcrest and Penn Branch for over 20 years. He is also a documentary filmmaker currently working on a project about 1950s nightclub star Joyce Bryant. In his spare time, he is an avid vintage car enthusiast, with a collection centered on a rare 1971 Plymouth Sport Fury in Mood Indigo Iridescent."
    ],
+   "progInfo": [
+    {
+     "name": "Latin Flavor Classic Edition",
+     "desc": "Palladium Ballroom-era Latin jazz, 1946 to 1966, and one of very few programs in the country doing this work."
+    }
+   ],
+   "genres": [
+    "Latin jazz",
+    "Mambo",
+    "Palladium era"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787426557714-2MW0DJDZX4LN76KQDPJE/jim+byers.png",
    "page": "https://www.wpfwdc.org/programmer/jim-byers",
    "links": [],
@@ -195,6 +212,12 @@
     "Every Saturday, Lady C curates a high-energy noon day mix designed to get listeners moving, whether they are finishing their afternoon housework or relaxing under a shade tree. Her broadcasts feature a carefully selected blend of old and new school Southern Soul, blues, and R&B. She views the microphone as a tool for connection, speaking to her audience with a warmth and familiarity that makes them feel as though they are right there in the studio with her.",
     "Christal is a firm advocate for authentic expression, guided by the personal mantra: \"Everyone deserves to tell their own story.\" For Lady C, the most rewarding part of her work is the joy she brings to her audience. She finds deep fulfillment in meeting loyal listeners of 20 or 30 years at station events and hearing that her music and humor helped make their day a little brighter."
    ],
+   "progInfo": [
+    {
+     "name": "Southern Soul Party",
+     "desc": "Southern Soul Party delivers classic and contemporary southern soul every Saturday, with Lady C spinning records, fielding birthday calls, and keeping the conversation as warm as the music."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787418430568-F4I7WQU4AM9YY0X7ZWVL/Lady+C.jpeg",
    "page": "https://www.wpfwdc.org/programmer/lady-c",
    "links": [],
@@ -240,6 +263,16 @@
    ],
    "bio": [
     "Ellen Williams Carter is the host of Morning Brew — Jazz Notes Edition, a program she has curated since 1986. A cornerstone of the WPFW community, Ellen has been a devoted listener since the station's founding in 1977 and began her service as a volunteer in 1986. Beyond the microphone, she serves the station in a critical governance role as the Secretary of the WPFW Local Station Board."
+   ],
+   "progInfo": [
+    {
+     "name": "A Love Supreme",
+     "desc": "A Love Supreme brings jazz rooted in spirit and history to Monday mornings on WPFW 89.3 FM."
+    },
+    {
+     "name": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "desc": "A Monday morning jazz program on WPFW, pairing live music news and artist tributes with the deep familiarity of a host who has been showing up at 5 AM for her listeners week after week."
+    }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787426074218-YD8LKXFCWT0X1FQYMTPZ/ellen+carter.jpeg",
    "page": "https://www.wpfwdc.org/programmer/ellen-williams-carter",
@@ -300,6 +333,17 @@
     "Eugenia Charles is the Host and Executive Producer of Konbit Lakay, WPFW 89.3 FM’s long-running Haitian public affairs, socio-political, and cultural program. A dedicated political analyst and community organizer, Eugenia uses her platform to promote informed dialogue on immigration, human rights, and issues affecting underserved communities. Her commitment to the airwaves is guided by the mantra, \"Education is Power,\" as she strives to provide an independent platform where overlooked voices can discuss complex issues with depth and honesty.",
     "Eugenia’s journey with WPFW began in 2001, and she joined the Konbit Lakay team in 2002 to help educate listeners about the Haitian diaspora. She stepped into her current leadership role in 2017, continuing the program's more than 40-year legacy of public service. Beyond the studio, she serves as the Executive Director of Fondasyon Mapou and is a co-editor of the book Let Haiti Live: Unjust U.S. Policies Towards Its Oldest Neighbor.",
     "Her dedication to advocacy and legal analysis is furthered by her pursuit of a Juris Doctor degree. Eugenia’s service to the community has been recognized with the \"Haiti Freedom for All\" plaque, honoring her outstanding contributions to the Haitian people's struggle for democracy. Through Konbit Lakay, she continues to educate and empower listeners across the Washington metropolitan region and beyond."
+   ],
+   "progInfo": [
+    {
+     "name": "Konbit Lakay",
+     "desc": "The only Haitian broadcast program serving the DMV, in English and Haitian Creole."
+    }
+   ],
+   "genres": [
+    "Haiti",
+    "Immigration",
+    "Human rights"
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787418229634-8TFLN70N2M9RRSLVI7JX/eugenia%252Bcharles.jpg",
    "page": "https://www.wpfwdc.org/programmer/eugenia-charles",
@@ -410,6 +454,16 @@
     "Through G-Strings, Tom focuses on the beauty of stringed instruments, primarily the guitar, to showcase the deep connections between different peoples and cultures. His program is driven by a belief that music has a universal ability to unite us and that public radio should serve as a vital alternative to the mainstream. He finds great joy in introducing listeners to unfamiliar traditions and sharing music they may have never heard before.",
     "Beyond his decades at WPFW, Tom's professional resume includes nearly ten years at WAMU as a board operator and Production Manager, three years as a producer for Voice of America, and a distinguished 33-year career as an editor and producer for NPR's Cultural Programming and News Divisions. Outside of the studio, he remains dedicated to his D.C. roots, volunteering his time during the school year to tutor students in reading."
    ],
+   "progInfo": [
+    {
+     "name": "G-Strings",
+     "desc": "The guitar and its relatives, tracing the connections between peoples and cultures. On air since 1977."
+    }
+   ],
+   "genres": [
+    "Guitar",
+    "Global string traditions"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/848bdda2-9cf3-4a19-9c06-549c043e638e/tom+cole.webp",
    "page": "https://www.wpfwdc.org/programmer/tom-cole",
    "links": [],
@@ -458,6 +512,17 @@
     "Beyond his work in the studio, Chris serves as the Executive Director of the Labor Heritage Foundation. He is a driving force behind the annual DC Labor FilmFest, one of the few film festivals in the world dedicated to labor themes, and serves as a coordinator for both the Global Labor FilmFest Network and the Labor Radio Podcast Network.",
     "Chris is also a prolific producer of digital content, helping to keep labor history alive through podcasts such as Labor History Today, Labor Radio Podcast Daily, and Labor Radio Podcast Weekly. His deep roots in the movement include previous service as the Union Cities/Street Heat Coordinator for the Metro Washington Council, AFL-CIO.",
     "With an extensive background as a labor communicator across both print and radio, Chris remains dedicated to amplifying the voices and stories of the working class. He invites the WPFW community to join him in exploring the songs, stories, and struggles that define the American worker."
+   ],
+   "progInfo": [
+    {
+     "name": "The Labor Heritage Power Hour",
+     "desc": "The art and soul of the American labor movement: songs, stories, and struggles of the working class."
+    }
+   ],
+   "genres": [
+    "Labor",
+    "Labor history",
+    "Arts and culture"
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/9b3c33a2-bab3-4695-bbae-8b219e0b426c/chris%2Bgarlock.jpg",
    "page": "https://www.wpfwdc.org/programmer/chris-garlock",
@@ -558,6 +623,16 @@
     "Craig Hall is a Pan-Africanist, family man, and dedicated lover of African music and culture who co-hosts Brother Ah's Collectors: Next Generation in Sound on WPFW. A long-time listener and supporter of the station before joining as a volunteer, Craig's journey behind the mic began when he was invited as a guest by the late Robert \"Brother Ah\" Northern. Following Brother Ah's illness, Craig further developed his broadcasting and technical skills by joining the program Voices With Vision alongside his long-time friend and comrade, Netfa Freeman.",
     "Today, Craig is committed to carrying forward the legacy of Brother Ah by curating jazz music that reflects spiritually higher values and deep connections to African culture. His work is driven by a desire to advance WPFW's Jazz and Justice mission, blending exceptional music with a radical political perspective. Craig views his role as a \"Scientist of Sound\" dedicated to providing programming that cuts through the noise of commercial media to help the community emancipate itself from mental slavery. Through his broadcasts, he strives to provide a message of hope and progress while keeping the spirit of truth-telling alive on the airwaves."
    ],
+   "progInfo": [
+    {
+     "name": "Brother Ah’s Collectors: Next Generation in Sound",
+     "desc": "Jazz curated for spiritually higher values, carrying forward the legacy of the late Robert “Brother Ah” Northern."
+    }
+   ],
+   "genres": [
+    "Spiritual jazz",
+    "Pan-African jazz"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787430035575-YLA830AYRM020F1Y6ADH/Craig%2BHall.jpg",
    "page": "https://www.wpfwdc.org/programmer/craig-hall",
    "links": [],
@@ -606,6 +681,16 @@
     "Beyond the studio, Dr. Harris is a driving force in educational reform. He is the co-founder and co-director of The BOND Project and leads Capacity Education, LLC, working with schools and organizations to develop practices that improve outcomes for students and communities. A nationally recognized expert in his field, he is also the author of the book The Antiracist School Leader: What to Know, Say, and Do.",
     "Daman's connection to the station began in 2022 when he moved from being a guest on #UMustLearn to a fill-in host, eventually joining the permanent hosting collective. He is motivated by the belief that education is one of the most powerful tools for strengthening communities and views WPFW as a vital platform for amplifying voices that deserve to be heard. Through his work on the air, he aims to provide listeners with practical insights and thoughtful dialogue that move beyond the headlines to inspire real-world action.",
     "Daman lives by a clear personal mantra: \"Learn deeply. Lead courageously. Leave every community stronger than you found it.\" He encourages the WPFW family to stay curious and engaged, advising listeners to seek out perspectives that challenge their own and to remember that their voice matters."
+   ],
+   "progInfo": [
+    {
+     "name": "#UMustLearn",
+     "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
+    },
+    {
+     "name": "Jam Session - Beats, Bars, and Bangers",
+     "desc": "A midnight hip-hop program on 89.3 FM, mixing beats, bars, and bangers with Kamau Harris and co-host Science live from Washington, D.C."
+    }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787424509094-95HX0GSRIA8UK1P31L1Q/Daman+Harris.jpeg",
    "page": "https://www.wpfwdc.org/programmer/daman-harris",
@@ -731,6 +816,12 @@
     "Beyond his role as a broadcaster, Dr. Howard continues his extensive work as a professor and researcher, focusing on creating more inclusive and effective education systems. Listeners can tune in to hear Dr. Howard and the #UMustLearn collective most Thursdays at 6 p.m.",
     "For more information on his professional work and research, visit darylhowardphd.com or connect with him on social media @darylhowardphd."
    ],
+   "progInfo": [
+    {
+     "name": "#UMustLearn",
+     "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787424718954-MV32DH8OG3XH894M2C11/Daryl+Howard.jpeg",
    "page": "https://www.wpfwdc.org/programmer/daryl-howard",
    "links": [
@@ -838,6 +929,21 @@
     "Willard grew up in Cleveland and is a proud graduate of Kent State University, where his interest in public media began as part of a Black student movement that pushed for, among other things, a Black student newspaper on campus. That is where he started writing about jazz. The work carried him to the Cleveland Plain Dealer and then to jazz and arts publications around the world. He has broadcast at WWOZ in New Orleans, KFAI in Minneapolis-St. Paul, WKSU at Kent State, and WABQ and WERE in Cleveland, nearly all of it as an unpaid volunteer, and spent ten years with the former BET Jazz Channel developing and hosting programming including a weekly show devoted to jazz education. He founded the Northeast Ohio Jazz Society and spent eighteen years as artistic director of Tri-C JazzFest Cleveland. Since 2015 he has served as Artistic Director of the DC Jazz Festival.",
     "He is the author of two books published by Duke University Press: African Rhythms in 2010 and Ain't But a Few of Us: Black Music Writers Tell Their Story in 2022, which was named Book of the Year About Jazz by the Jazz Journalists Association. The JJA gave him its Lifetime Achievement Award in 2013. In 2024 he received the National Endowment for the Arts Jazz Masters A.B. Spellman Award for Jazz Advocacy and an honorary doctorate from Kent State. More of his work is at openskyjazz.com."
    ],
+   "progInfo": [
+    {
+     "name": "Open Sky",
+     "desc": "Two hours on Sunday afternoons: the first for the classic side of the music, the second for what's new."
+    },
+    {
+     "name": "The Atlantic Trane",
+     "desc": "A jazz program hosted by author and critic Willard Jenkins, rooted in deep knowledge of the music and its makers."
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Classic and contemporary",
+    "New releases"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1785635445078-L6XFDOBX3FC8BASAQQDL/willard+jenkins.jpeg",
    "page": "https://www.wpfwdc.org/programmer/willard-jenkins",
    "links": [
@@ -904,6 +1010,21 @@
     "After a hiatus to earn his doctorate in ethnomusicology, Saïs was invited back to the station in 2019. In his professional life beyond the booth, he has served as an Associate Professor of Music at Howard University for 27 years. He views independent community radio as an indispensable tool for navigating the complexities of modern life, drawn to the platform by the diverse range of opinions and viewpoints it allows.",
     "On his program, Saïs provides a 360-degree exposure to the most potent musical traditions in existence, blending genres such as Jazz, Latin, Classical, and Folk. Guided by the mantra \"Music is the healing force of the universe,\" he views WPFW programmers as \"Scientists of Sound\" who are mathematically laying it down on behalf of the community. He purposefully keeps his broadcasts unpredictable, never informing listeners what to expect next week to ensure each show is something completely different and of the highest quality.",
     "Saïs is a firm advocate for intellectual autonomy and cultural freedom, especially as he observes the increasing gentrification of the District. He believes it is essential for the community to be knowledgeable about the full spectrum of global musical contributions. His advice to the WPFW family, and particularly to younger listeners, is to never stop seeking greater levels of wisdom and understanding, and to find like-minded companions to join them on that journey."
+   ],
+   "progInfo": [
+    {
+     "name": "Jam Session - Life Music",
+     "desc": "A 360-degree exposure to the world's most potent musical traditions, and never the same show twice."
+    },
+    {
+     "name": "Afro-Cuban Music:",
+     "desc": "Afro-Cuban music rooted in the living tradition that runs from Havana to New York and across the diaspora."
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin",
+    "African diaspora"
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1789588627393-OAGA4UYG222RSGAMANH5/Sais.jpeg",
    "page": "https://www.wpfwdc.org/programmer/sas-kamalidiin",
@@ -974,6 +1095,17 @@
     "Beyond the studio, Jevon serves the DMV community through his professional career in HVAC for a local school district. In his spare time, he is a true student of sound, constantly collecting and listening to records to find the next great discovery for his audience.",
     "Guided by a personal commitment to advance the culture, Jevon encourages the WPFW family to look beyond what is popular or trending. His advice to listeners is to always stay curious and be willing to navigate outside the box to find the profound wisdom and creativity that independent radio has to offer."
    ],
+   "progInfo": [
+    {
+     "name": "Decipher",
+     "desc": "Golden Era hip hop and the original samples behind it, from the collective that fought to put the genre on WPFW."
+    }
+   ],
+   "genres": [
+    "Hip hop",
+    "Golden era",
+    "Sampling"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/125811f1-433d-46b0-8cec-b50deb3083b8/dj+machete.png",
    "page": "https://www.wpfwdc.org/programmer/dj-machete",
    "links": [],
@@ -1021,6 +1153,12 @@
     "Warren \"Scooter\" Magruder is a D.C. native and a lifelong lover of radio, R&B, and baseball who brings his passion to the airwaves as the host of Don't Forget the Blues. A veteran of the local music scene, Scooter has been a party street DJ since 1973 and a prominent voice on DMV radio since 1988. He officially joined the WPFW family in 2006 at the age of 58 after being invited by the station's Program Director to share his craft with the community.",
     "On his program, Scooter uses a signature style of storytelling to guide listeners through the history of vintage R&B and the blues. He views his work as a way to honor the remembrance of Black America's original music and show how those roots paved the way for almost every other style of American music we enjoy today. Whether he is spinning records or hosting Community Watch and Comment, his goal is always to provide news you can use and a message of hope. He lives by a simple mantra: let the musical memories set the mood.",
     "Off the air, Scooter is a dedicated community activist. He is deeply involved in social justice causes, including advocating for Palestinian rights, and is committed to mentoring young people in both broadcasting and essential life skills like reading. For Scooter, WPFW is a vital space to keep the truth alive and use the power of music and information to strengthen the community."
+   ],
+   "progInfo": [
+    {
+     "name": "Don't Forget The Blues-Scooter Magruder",
+     "desc": "Don’t Forget the Blues with Warren “Scooter” Magruder uses storytelling to guide listeners through the history of vintage R&B and the blues."
+    }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/5fdcc832-8234-45a0-b458-8b5b4902aa39/Warren+Scooter+Magruder.png",
    "page": "https://www.wpfwdc.org/programmer/warren-scooter-magruder",
@@ -1080,6 +1218,12 @@
     "Jamil's journey behind the microphone began at age 56 when he had the opportunity to co-host with the late Askia Muhammad. Guided by the principles and spirit of his radio elder, he remains committed to the station's mission of spreading \"Jazz, Justice, and Joy.\" He is particularly passionate about the future of the airwaves, seeing WPFW as a vital space where younger Washingtonians can find a place of expression and receive training in the methods of community outreach.",
     "Beyond the studio, Brother Jamil has served as a Muslim cleric for nearly five decades, a role that fills him with gratitude each day. Known affectionately as \"Pop Pops\" by his twelve grandchildren, he enjoys spending his spare time collecting jazz records and tinkering with his grandchildren's gadgets. His deep roots with the station, dating back to the era of Petey Greene, reflect a lifelong commitment to serving as a guardian of freedom and liberation for the community."
    ],
+   "progInfo": [
+    {
+     "name": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "desc": "Jazz curated around birthdays, anniversaries, and the living history of the music, broadcast in the early-morning hours on WPFW."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/09528293-1476-4f05-a955-d185b3d60ed3/brother+jamil.png",
    "page": "https://www.wpfwdc.org/programmer/brother-jamil-muhammad",
    "links": [],
@@ -1127,6 +1271,17 @@
     "David Rabin is a dedicated public affairs programmer at WPFW who believes in building a better world, one broadcast at a time. A long-time member of the station family, David's connection to 89.3 FM began in the mid-1990s while he was working for Pacifica Network News, which was housed in the same building as WPFW. He fondly remembers his first direct contact with the station being Askia Muhammad, WPFW's beloved News Director, who would walk through the PNN offices passing out birthday cake to the staff.",
     "David eventually transitioned from a neighbor in the building to an on-air personality, starting as a substitute host for several programs before establishing his own show. Over the years, he has become known for his compelling and high-impact interviews with figures who have shaped American history and advocacy. Some of his most memorable broadcasts have featured conversations with consumer advocate Ralph Nader, Tuskegee Airman Charles McGee, and Freedom Rider Charles Person. He has also used his program to explore deep systemic issues, such as discussing the history of enforced racial segregation with author Richard Rothstein.",
     "Driven by a passion for community service, David views his role as a way to provide listeners with essential information that they might not find in mainstream media. He remains committed to using the power of the microphone to inform, support, and strengthen the community he serves."
+   ],
+   "progInfo": [
+    {
+     "name": "Community Watch & Comment - Tuesday",
+     "desc": "In-depth interviews with the advocates, organizers, and historians who have shaped American life."
+    }
+   ],
+   "genres": [
+    "Civil rights",
+    "Housing segregation",
+    "Movement history"
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787425709719-NKANJTY31P7UEDPT26B5/david+rabin+%281%29.png",
    "page": "https://www.wpfwdc.org/programmer/david-rabin",
@@ -1247,6 +1402,12 @@
     "A globally recognized expert in his field, Ayize is widely known as the \"#GodFather of Black Montessori work.\" His lifelong commitment to educational excellence was notably recognized by former First Lady Michelle Obama for his work with M.O.M.I.E's TLC. His research and community organizing efforts have been featured in major national publications, including the New York Times and Black Enterprise.",
     "Beyond the airwaves, Ayize is a man of deep reflection and resilience who finds inspiration in reading, positive company, and conscious Hip-Hop. He brings a profound sense of empathy to his work, shaped by his personal journey navigating significant life hardships, including the loss of his namesake son to a mental health crisis. Guided by his mantra to \"Advance the Culture,\" Ayize remains dedicated to using the power of the microphone to educate, empower, and strengthen the community he serves."
    ],
+   "progInfo": [
+    {
+     "name": "#UMustLearn",
+     "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/64fefb4b-fb36-43b4-a2f1-3ff96cfcbe8b/ayize.png",
    "page": "https://www.wpfwdc.org/programmer/ayize-sabater",
    "links": [],
@@ -1347,6 +1508,16 @@
     "Throughout her distinguished career in the nation's capital, Candy has worn many hats, including narrating books for the Library of Congress, hosting a late-night video show on WUSA-Channel 9, and working in news at Voice of America and satellite radio with WorldSpace. She also served as the Host and Program Director for WDCU (Jazz 90) during its final five years of operation. Beyond her work in the booth, she is a retired educator who served as an adjunct professor and director at Howard University's Cathy Hughes School of Communications.",
     "Today, Candy produces and hosts The Friday Morning Brew, where she celebrates the rich history and contemporary sounds of Jazz. She views the music as more than just entertainment; it is the essential soundtrack of Black life, rooted in African heritage and born out of a legacy of survival and creativity. Through her program, she aims to lift the spirits of her listeners and provide a platform that honors the stories of the musicians who keep this vital art form alive."
    ],
+   "progInfo": [
+    {
+     "name": "Morning Brew Jazz Edition feat. Union City Radio",
+     "desc": "Friday morning jazz on WPFW, with Candy Shannon drawing from decades of recordings to open the weekend with intention and depth."
+    },
+    {
+     "name": "My Favorite Things: The Artists Surveyed",
+     "desc": "A survey of John Coltrane's music as heard through the ears of the musicians who lived with it."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787418150726-2AU0O1LR3JGK14HELP08/candy%252Bshannon.jpg",
    "page": "https://www.wpfwdc.org/programmer/candy-shannon",
    "links": [],
@@ -1417,6 +1588,16 @@
     "Andrea is an advocate for people telling their own stories, and the chance to do that at scale for women from all over the world is what keeps her in the chair. Her mantra is that everyone deserves to tell their own story, whether through their voice or through their music.",
     "Two broadcasts stand out in her memory. While living in China between 2007 and 2008, she used Skype to call into the studio and co-produce two shows with guests in Washington, years before the pandemic made remote broadcasting routine. Colleagues at the station were amazed it worked. The other was a Saturday in the mid-2000s when Sophie's Parlor took over the station for several hours of International Women's Day programming featuring local women artists across every genre.",
     "Sophie's Parlor is a show by women, about women, for everyone. It is the oldest continuously running women's music radio collective in the United States and has been on WPFW since 1977, carrying a music and public affairs format."
+   ],
+   "progInfo": [
+    {
+     "name": "Jazz and Justice - Sophie's Parlor",
+     "desc": "Sophie's Parlor, the oldest continuous women's radio program, plays music by women and about women for everyone to hear."
+    },
+    {
+     "name": "Make It Plain",
+     "desc": "Make It Plain brings Reverend Mark Thompson's weekly examination of Black politics, education, and justice to Monday mornings on 89.3 FM."
+    }
    ],
    "photo": "https://static1.squarespace.com/static/62e6d591fbd0f929e5e278f6/6a623c49203b096df6edcce5/6a8a23a021c1670907d1e910/1787438136087/",
    "page": "https://www.wpfwdc.org/programmer/urysaosgg1lugeno755gt5wwmz78rr",
@@ -1532,6 +1713,17 @@
     "Beyond the station, DJ Underdog is a prominent figure in the creative community who has produced events and performed alongside world-renowned artists such as Questlove, Thundercat, Sango, and Femi Kuti. His work and insights have also been featured on platforms like OkayAfrica, AFROPUNK, and MoCADA. Despite navigating personal hardships and health challenges, he remains deeply committed to using music and education as tools for community resilience and transformation.",
     "Guided by the mantra \"Music is the message, community is the purpose,\" DJ Underdog is passionate about the future of public media. He encourages the WPFW family, especially younger listeners, to stay curious and bring their own imagination and technology to the airwaves. His advice to the next generation is simple: do not allow trends or algorithms to define your identity."
    ],
+   "progInfo": [
+    {
+     "name": "Black Star Radio",
+     "desc": "A late-night journey through the music and voices of Africa, the Caribbean, and the global Black diaspora."
+    }
+   ],
+   "genres": [
+    "African diaspora",
+    "Food sovereignty",
+    "Wellness"
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1f395c60-4836-477c-bfe1-a0276c390358/dj+underdog.png",
    "page": "https://www.wpfwdc.org/programmer/dj-underdog",
    "links": [],
@@ -1579,6 +1771,16 @@
     "Amy L. Watkins is a National Board Certified teacher, award-winning children's author, and dedicated literacy advocate who serves as a collective member and host for #UMustLearn on WPFW. A lifelong resident of the DMV, Amy grew up with 89.3 FM as a constant companion, always keeping a button on her car radio programmed to the station.",
     "In her professional life, Amy is the founder of Sadie Bug Publishing LLC and has focused much of her career on supporting multilingual learners. She is passionate about mentoring aspiring authors through community events and her podcast, always seeking to create opportunities for people of all ages to learn and grow. On the airwaves, she finds joy in amplifying the voices of educators and changemakers to spark curiosity and connection. She is guided by the firm belief that everyone has a story worth telling, and every story has the power to teach.",
     "Amy views WPFW as an essential space for thoughtful conversation and diverse perspectives that encourage critical thinking rather than quick reactions. She is particularly rewarded when listeners are inspired by her interviews to pick up a new book or see a community issue from a fresh perspective. Her advice to the WPFW community, especially younger listeners, is to stay curious, ask deep questions, and never underestimate the power of their own stories."
+   ],
+   "progInfo": [
+    {
+     "name": "To Your Health",
+     "desc": "A weekly program built to inform listeners and turn their health around, hosted by Dr. Theodore Watkins alongside producer Frank Smith."
+    },
+    {
+     "name": "#UMustLearn",
+     "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
+    }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/e2d1afc2-8bd3-4c87-becc-917e3ed55651/Amy+Watkins.jpeg",
    "page": "https://www.wpfwdc.org/programmer/amy-watkins",
@@ -1755,6 +1957,28 @@
     "Today, Craig hosts Morning Brew — Classic Jazz Edition, where he guides listeners through a curated selection of straight-ahead jazz, bebop, and brand-new releases. A self-proclaimed jazz nerd, he loves to experiment by blending blues, gospel, and even rock and roll into his sets to create a unique, curated experience for his audience. Craig believes deeply in the power of curated radio over computer algorithms, aiming to provide programming that enlightens the mind and strengthens the soul.",
     "Beyond the airwaves, Craig is a mostly-retired architect with a passion for urban photography, dog rescue, and world travel. When he isn't attending live jazz performances, he is often in his kitchen, cooking gourmet meals without recipes using fresh ingredients from his own backyard garden."
    ],
+   "progInfo": [
+    {
+     "name": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "desc": "Morning Brew Classic Jazz Edition, where Craig Williams guides two-plus hours of classic jazz on WPFW every Thursday morning."
+    },
+    {
+     "name": "Coltraane in Europe - 1961-65",
+     "desc": "A centennial tribute tracing John Coltrane's European recordings from 1961 to 1965, built around the live performances that reveal the music in motion."
+    },
+    {
+     "name": "Sunday Kind Of Love",
+     "desc": "A Sunday afternoon program weaving blues, jazz, and conversation about history, art, and community into two hours of music and meaning."
+    },
+    {
+     "name": "Wake Up, Stay Woke",
+     "desc": "A weekly public affairs program on WPFW where host Faye Williams brings community voices together around Black history, health, politics, and family."
+    },
+    {
+     "name": "Buena Vista Social Club and Beyond",
+     "desc": "Craig Williams's deep dive into Cuban music, standing in for Morning Brew as part of WPFW's Cuba Libre special programming."
+    }
+   ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/7c95bee3-f6f2-4284-98b2-78978fe5f346/Craig+Williams.jpg",
    "page": "https://www.wpfwdc.org/programmer/craig-williams",
    "links": [],
@@ -1930,6 +2154,16 @@
     "Ziah's journey with the station began after he moved to the D.C. area and found himself drawn to WPFW for its unique style of music and essential information. Already established as a musician, he joined the programming team in 2016 after a friend informed him the station was looking for a reggae host. For Ziah, radio is a vital tool for connection; he believes that music is the healing of the nation and uses his program to represent the full spectrum of sounds from across the African diaspora.",
     "An accomplished artist beyond the studio, Ziah is the founder of the Proverbs Reggae Band and has released two albums along with several singles. His musical contributions have earned him significant recognition, including being a five-time DC Reggae Award winner and a DC Wammie Award winner. He has performed as a main act regionally, opened for numerous international reggae artists, and took second place during Caribbean night at the legendary Apollo Theater.",
     "In his life outside of music and broadcasting, Ziah remains dedicated to the well-being of his neighbors. He is passionate about working within the community to help people access and understand natural foods, herbs, and supplements. Guided by the principle to think globally and act locally, Ziah encourages the WPFW community to stay involved in local efforts and support one another to create lasting progress."
+   ],
+   "progInfo": [
+    {
+     "name": "Kulcha Shak",
+     "desc": "Reggae and diaspora sounds from an award-winning musician who lived the culture before he broadcast it."
+    }
+   ],
+   "genres": [
+    "Reggae",
+    "African diaspora"
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1788297928569-U01X7PVIUXPJETXNFBA0/Ziah+Ayubu+%281%29.png",
    "page": "https://www.wpfwdc.org/programmer/dj-zee-lion",
