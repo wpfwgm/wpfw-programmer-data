@@ -247,9 +247,19 @@
   var PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg>';
 
   function episodeRow(e) {
-    var body = '<div class="wp-ep-main">' +
-      '<div class="wp-ep-t">' + esc(e.t) + '</div>' +
-      '<div class="wp-ep-when">' + esc(when(e.d)) + (e.len ? ' &middot; ' + esc(e.len) : '') + '</div>' +
+    /* The archive names every episode after its programme, so without a
+       written title the heading would repeat the programme name down the
+       whole list -- and the programme name is already at the top of the
+       profile. So a titled episode leads with its title and carries the date
+       underneath; an untitled one leads with the date itself. Either way the
+       day and date are there, and nothing is invented to fill the heading. */
+    var head = e.pithy
+      ? '<div class="wp-ep-t">' + esc(e.pithy) + '</div>' +
+        '<div class="wp-ep-when">' + esc(when(e.d)) + (e.len ? ' &middot; ' + esc(e.len) : '') + '</div>'
+      : '<div class="wp-ep-t">' + esc(when(e.d)) + '</div>' +
+        (e.len ? '<div class="wp-ep-when">' + esc(e.len) + '</div>' : '');
+
+    var body = '<div class="wp-ep-main">' + head +
       (e.desc ? '<div class="wp-ep-desc">' + esc(e.desc.replace(/\n+/g, ' ')) + '</div>' +
                 '<button class="wp-ep-more" type="button">Read more</button>' : '') +
     '</div>';

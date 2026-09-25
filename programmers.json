@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-25T21:29:58.456Z",
+ "generatedAt": "2026-09-25T22:50:10.470Z",
  "count": 23,
  "cats": [
   "Health & Fitness",
@@ -76,6 +76,7 @@
     {
      "id": "121949",
      "t": "Unionism Drives Community",
+     "pithy": "Carpenters paid as laborers, payroll records falsified",
      "d": 1789678800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_170000unionismdrivescommunit.mp3",
@@ -85,6 +86,7 @@
     {
      "id": "121850",
      "t": "Unionism Drives Community",
+     "pithy": "Cedric DeLeon: Black workers built union solidarity",
      "d": 1789074000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_170000unionismdrivescommunit.mp3",
@@ -94,6 +96,7 @@
     {
      "id": "121751",
      "t": "Unionism Drives Community",
+     "pithy": "Eight years at Starbucks, insured once",
      "d": 1788469201,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_170001unionismdrivescommunit.mp3",
@@ -103,6 +106,7 @@
     {
      "id": "121652",
      "t": "Unionism Drives Community",
+     "pithy": "The pension that pays more than the job",
      "d": 1787864400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_170000unionismdrivescommunit.mp3",
@@ -112,6 +116,7 @@
     {
      "id": "121553",
      "t": "Unionism Drives Community",
+     "pithy": "Green jobs that pay more without a degree",
      "d": 1787259600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_170000unionismdrivescommunit.mp3",
@@ -121,6 +126,7 @@
     {
      "id": "121349",
      "t": "Unionism Drives Community",
+     "pithy": "Amazon spent $5 million to stop one organizer",
      "d": 1786050000,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_170000unionismdrivescommunit.mp3",
@@ -130,6 +136,7 @@
     {
      "id": "121250",
      "t": "Unionism Drives Community",
+     "pithy": "Do project labor agreements really cost more?",
      "d": 1785445200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_170000unionismdrivescommunit.mp3",
@@ -179,6 +186,7 @@
     {
      "id": "121986",
      "t": "Latin Flavor Classic Edition",
+     "pithy": "Charlie Palmieri, and the teacher both brothers shared",
      "d": 1789941601,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_180001latinflimbyers.mp3",
@@ -189,6 +197,7 @@
     {
      "id": "121887",
      "t": "Latin Flavor Classic Edition",
+     "pithy": "Tito Puente on how the Latin Grammys came to be",
      "d": 1789336800,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_180000latinflimbyers.mp3",
@@ -234,6 +243,7 @@
     {
      "id": "121973",
      "t": "Southern Soul Party",
+     "pithy": "Kennedy Center protests, then the soul set",
      "d": 1789833600,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260919_120000southesoulparty.mp3",
@@ -244,6 +254,7 @@
     {
      "id": "121874",
      "t": "Southern Soul Party",
+     "pithy": "Jessie Terrell sings pretty for the people",
      "d": 1789228800,
      "len": "2:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_120000southesoulparty.mp3",
@@ -293,6 +304,7 @@
     {
      "id": "122026",
      "t": "A Love Supreme",
+     "pithy": "Lakecia Benjamin found Alice Coltrane first",
      "d": 1790175600,
      "len": "1:59:56",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_110000lovesuprem.mp3",
@@ -302,6 +314,7 @@
     {
      "id": "121991",
      "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "pithy": "Slam Stewart, who bowed and sang at once",
      "d": 1789981200,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_050000amaltmon.mp3",
@@ -312,6 +325,7 @@
     {
      "id": "121892",
      "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "pithy": "Cannonball Adderley and Joseph Jarman birthdays",
      "d": 1789376400,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_050000amaltmon.mp3",
@@ -361,6 +375,7 @@
     {
      "id": "121935",
      "t": "Konbit Lakay",
+     "pithy": "Trump's ambassador pick for Haiti, examined",
      "d": 1789599600,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_190000konbitlsdayiti.mp3",
@@ -370,6 +385,7 @@
     {
      "id": "121836",
      "t": "Konbit Lakay",
+     "pithy": "Kenscoff: a witness counts the dead",
      "d": 1788994800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260909_190000konbitlsdayiti.mp3",
@@ -379,6 +395,7 @@
     {
      "id": "121737",
      "t": "Konbit Lakay",
+     "pithy": "Yvon Florival, who designed for Theatre Mapou",
      "d": 1788390000,
      "len": "0:59:59",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260902_190000konbitlsdayiti.mp3",
@@ -388,6 +405,7 @@
     {
      "id": "121638",
      "t": "Konbit Lakay",
+     "pithy": "Banga's representative on the August 23rd killings",
      "d": 1787785200,
      "len": "0:58:29",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260826_190000konbitlsdayiti.mp3",
@@ -397,6 +415,7 @@
     {
      "id": "121539",
      "t": "Konbit Lakay",
+     "pithy": "104 parties and a December election",
      "d": 1787180400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260819_190000konbitlsdayiti.mp3",
@@ -406,6 +425,7 @@
     {
      "id": "121435",
      "t": "Konbit Lakay",
+     "pithy": "Bois-Caiman as strategy, not ceremony",
      "d": 1786575600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260812_190000konbitlsdayiti.mp3",
@@ -415,6 +435,7 @@
     {
      "id": "121335",
      "t": "Konbit Lakay",
+     "pithy": "TPS holders, ankle monitors, and $2,600",
      "d": 1785970800,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260805_190000konbitlsdayiti.mp3",
@@ -424,6 +445,7 @@
     {
      "id": "121236",
      "t": "Konbit Lakay",
+     "pithy": "State Department not consulted on Haitian TPS",
      "d": 1785366000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260729_190000konbitlsdayiti.mp3",
@@ -472,6 +494,7 @@
     {
      "id": "121982",
      "t": "G-Strings",
+     "pithy": "Red Mitchell, from West Coast sessions to Stockholm",
      "d": 1789909201,
      "len": "3:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_090001gstringomecole.mp3",
@@ -482,6 +505,7 @@
     {
      "id": "121883",
      "t": "G-Strings",
+     "pithy": "Butch Warren, Blue Note's D.C. bassist",
      "d": 1789304400,
      "len": "3:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_090000gstringomecole.mp3",
@@ -541,6 +565,7 @@
     {
      "id": "121946",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "How '9 to 5' came out of a real meeting",
      "d": 1789664401,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_130001dcpolitebarras.mp3",
@@ -550,6 +575,7 @@
     {
      "id": "121847",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "The tapestry Sean Fain recognized himself in",
      "d": 1789059600,
      "len": "0:59:56",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_130000dcpolitebarras.mp3",
@@ -559,6 +585,7 @@
     {
      "id": "121748",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "Transcending: labor's largest public artwork",
      "d": 1788454800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_130000dcpolitebarras.mp3",
@@ -568,6 +595,7 @@
     {
      "id": "121649",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "Where Scabby the Rat is made",
      "d": 1787850000,
      "len": "0:59:14",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_130000dcpolitebarras.mp3",
@@ -577,6 +605,7 @@
     {
      "id": "121550",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "115 years of the Little Red Songbook",
      "d": 1787245201,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_130001dcpolitebarras.mp3",
@@ -586,6 +615,7 @@
     {
      "id": "121346",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "The kid who heard Howard Zinn typing",
      "d": 1786035600,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_130000dcpolitebarras.mp3",
@@ -595,6 +625,7 @@
     {
      "id": "121247",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "A folk award speech about $200,000 of debt",
      "d": 1785430800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_130000dcpolitebarras.mp3",
@@ -641,6 +672,7 @@
     {
      "id": "122003",
      "t": "Brother Ah’s Collectors: Next Generation in Sound",
+     "pithy": "Coltrane at 100, dedication by dedication",
      "d": 1790035201,
      "len": "1:59:59",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_200001brotherahrsquocollectnextgeneratins.mp3",
@@ -651,6 +683,7 @@
     {
      "id": "121904",
      "t": "Brother Ah’s Collectors: Next Generation in Sound",
+     "pithy": "An all-1976 hour, with every credit named",
      "d": 1789430401,
      "len": "2:00:05",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_200001brotherahrsquocollectnextgeneratins.mp3",
@@ -712,6 +745,7 @@
     {
      "id": "122021",
      "t": "Jam Session - Beats, Bars, and Bangers",
+     "pithy": "Hip-hop that samples Coltrane, for his 100th",
      "d": 1790136000,
      "len": "2:00:00",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_000000beatsbarsandbangea.mp3",
@@ -722,6 +756,7 @@
     {
      "id": "121950",
      "t": "#UMustLearn",
+     "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
@@ -731,6 +766,7 @@
     {
      "id": "121922",
      "t": "Jam Session - Beats, Bars, and Bangers",
+     "pithy": "Midwest hip-hop, and where the rappers really came from",
      "d": 1789531200,
      "len": "2:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_000000beatsbarsandbangea.mp3",
@@ -741,6 +777,7 @@
     {
      "id": "121851",
      "t": "#UMustLearn",
+     "pithy": "Weathering: why sustained trauma ages Black men faster",
      "d": 1789077600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
@@ -750,6 +787,7 @@
     {
      "id": "121752",
      "t": "#UMustLearn",
+     "pithy": "Eighty years of exclusion in D.C. chess",
      "d": 1788472800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
@@ -759,6 +797,7 @@
     {
      "id": "121653",
      "t": "#UMustLearn",
+     "pithy": "Toussaint betrayed, and who finished the revolution",
      "d": 1787868000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
@@ -768,6 +807,7 @@
     {
      "id": "121554",
      "t": "#UMustLearn",
+     "pithy": "Tracing a family back to Ndongo, 1628",
      "d": 1787263200,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
@@ -777,6 +817,7 @@
     {
      "id": "121350",
      "t": "#UMustLearn",
+     "pithy": "Montessori with go-go drums in Anacostia",
      "d": 1786053600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
@@ -786,6 +827,7 @@
     {
      "id": "121251",
      "t": "#UMustLearn",
+     "pithy": "Real Men Teach, back to John Chavis",
      "d": 1785448800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
@@ -845,6 +887,7 @@
     {
      "id": "121950",
      "t": "#UMustLearn",
+     "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
@@ -854,6 +897,7 @@
     {
      "id": "121851",
      "t": "#UMustLearn",
+     "pithy": "Weathering: why sustained trauma ages Black men faster",
      "d": 1789077600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
@@ -863,6 +907,7 @@
     {
      "id": "121752",
      "t": "#UMustLearn",
+     "pithy": "Eighty years of exclusion in D.C. chess",
      "d": 1788472800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
@@ -872,6 +917,7 @@
     {
      "id": "121653",
      "t": "#UMustLearn",
+     "pithy": "Toussaint betrayed, and who finished the revolution",
      "d": 1787868000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
@@ -881,6 +927,7 @@
     {
      "id": "121554",
      "t": "#UMustLearn",
+     "pithy": "Tracing a family back to Ndongo, 1628",
      "d": 1787263200,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
@@ -890,6 +937,7 @@
     {
      "id": "121350",
      "t": "#UMustLearn",
+     "pithy": "Montessori with go-go drums in Anacostia",
      "d": 1786053600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
@@ -899,6 +947,7 @@
     {
      "id": "121251",
      "t": "#UMustLearn",
+     "pithy": "Real Men Teach, back to John Chavis",
      "d": 1785448800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
@@ -961,6 +1010,7 @@
     {
      "id": "122028",
      "t": "The Atlantic Trane",
+     "pithy": "Coltrane's Atlantic years, at 100",
      "d": 1790186400,
      "len": "1:59:55",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_140000atlantitrane.mp3",
@@ -970,6 +1020,7 @@
     {
      "id": "121984",
      "t": "Open Sky",
+     "pithy": "Cassandra Wilson, a desert island disc",
      "d": 1789927200,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_140000opensky.mp3",
@@ -980,6 +1031,7 @@
     {
      "id": "121885",
      "t": "Open Sky",
+     "pithy": "The jazz centenarians of 2026",
      "d": 1789322400,
      "len": "2:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_140000opensky.mp3",
@@ -1036,6 +1088,7 @@
     {
      "id": "122033",
      "t": "Jam Session - Life Music",
+     "pithy": "Kamala Dean's Coltrane Cooldown",
      "d": 1790222400,
      "len": "2:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_000000jamsesslifemusi.mp3",
@@ -1046,6 +1099,7 @@
     {
      "id": "121938",
      "t": "Jam Session - Life Music",
+     "pithy": "Shaboozy's outlaw tales, played in full",
      "d": 1789617600,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_000000jamsesslifemusi.mp3",
@@ -1056,6 +1110,7 @@
     {
      "id": "121839",
      "t": "Jam Session - Life Music",
+     "pithy": "TV theme songs, and the calls they brought in",
      "d": 1789012800,
      "len": "",
      "mp3": null,
@@ -1065,6 +1120,7 @@
     {
      "id": "121438",
      "t": "Afro-Cuban Music:",
+     "pithy": "Castro's centennial, and 24 hours of Cuba",
      "d": 1786593600,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260813_000000afrocubamusic.mp3",
@@ -1114,6 +1170,7 @@
     {
      "id": "121977",
      "t": "Decipher",
+     "pithy": "DJ Senpai on imposter syndrome and arrival",
      "d": 1789866000,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260919_210000deciphersat.mp3",
@@ -1124,6 +1181,7 @@
     {
      "id": "121878",
      "t": "Decipher",
+     "pithy": "A tribute to the voice of Optimus Prime",
      "d": 1789261200,
      "len": "3:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_210000deciphersat.mp3",
@@ -1178,6 +1236,7 @@
     {
      "id": "121945",
      "t": "Don't Forget The Blues-Scooter Magruder",
+     "pithy": "Who really wrote 'Stormy Monday'",
      "d": 1789660800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_120000dontforgebluesthurs.mp3",
@@ -1188,6 +1247,7 @@
     {
      "id": "121846",
      "t": "Don't Forget The Blues-Scooter Magruder",
+     "pithy": "B.B. King and Bobby Blue Bland, paired",
      "d": 1789056000,
      "len": "0:50:09",
      "mp3": null,
@@ -1232,6 +1292,7 @@
     {
      "id": "122007",
      "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "pithy": "Gary Bartz, Marlena Shaw, and a week of birthdays",
      "d": 1790067600,
      "len": "3:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_050000amalttue.mp3",
@@ -1242,6 +1303,7 @@
     {
      "id": "121908",
      "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "pithy": "Four girls, remembered 63 years on",
      "d": 1789462800,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260915_050000amalttue.mp3",
@@ -1291,6 +1353,7 @@
     {
      "id": "122011",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Niagara Falls and the Manhattan Project's waste",
      "d": 1790089201,
      "len": "1:00:01",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_110001comcomb.mp3",
@@ -1300,6 +1363,7 @@
     {
      "id": "121912",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "The minimum wage that should have been $26",
      "d": 1789484400,
      "len": "0:57:23",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260915_110000comcomb.mp3",
@@ -1309,6 +1373,7 @@
     {
      "id": "121813",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Arsenic debris dumped at Hains Point",
      "d": 1788879600,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260908_110000comcomb.mp3",
@@ -1318,6 +1383,7 @@
     {
      "id": "121714",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Richard Pryor wept at Lorton",
      "d": 1788274800,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260901_110000comcomb.mp3",
@@ -1327,6 +1393,7 @@
     {
      "id": "121615",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Head Start under the Trump administration",
      "d": 1787670000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260825_110000comcomb.mp3",
@@ -1336,6 +1403,7 @@
     {
      "id": "121516",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "The Sheridan Circle car bomb, fifty years on",
      "d": 1787065200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260818_110000comcomb.mp3",
@@ -1345,6 +1413,7 @@
     {
      "id": "121412",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Fighting an 820-megawatt data center in Landover",
      "d": 1786460400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260811_110000comcomb.mp3",
@@ -1354,6 +1423,7 @@
     {
      "id": "121312",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Frances Cress Welsing saved him from the chair",
      "d": 1785855600,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260804_110000comcomb.mp3",
@@ -1366,12 +1436,13 @@
      "d": 1785254368,
      "len": "0:00:35",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_115928comcomb.mp3",
-     "desc": "I don't have enough transcript content to write an accurate description of this episode. The provided text contains only a station announcement about 5K Trail classes (yoga, meditation, and double dutch) and a WPFW station identification — there are no actual episode segments, guests, music, or host present in what was shared.\n\nCould you provide the full episode transcript? Once you do, I'm happy to write the archive description for David Rabin.",
+     "desc": null,
      "prog": "Community Watch & Comment - Tuesday"
     },
     {
      "id": "121191",
      "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Elders using psychedelics to face mortality",
      "d": 1785251902,
      "len": "0:41:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_111822comcomb.mp3",
@@ -1425,6 +1496,7 @@
     {
      "id": "121950",
      "t": "#UMustLearn",
+     "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
@@ -1434,6 +1506,7 @@
     {
      "id": "121851",
      "t": "#UMustLearn",
+     "pithy": "Weathering: why sustained trauma ages Black men faster",
      "d": 1789077600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
@@ -1443,6 +1516,7 @@
     {
      "id": "121752",
      "t": "#UMustLearn",
+     "pithy": "Eighty years of exclusion in D.C. chess",
      "d": 1788472800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
@@ -1452,6 +1526,7 @@
     {
      "id": "121653",
      "t": "#UMustLearn",
+     "pithy": "Toussaint betrayed, and who finished the revolution",
      "d": 1787868000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
@@ -1461,6 +1536,7 @@
     {
      "id": "121554",
      "t": "#UMustLearn",
+     "pithy": "Tracing a family back to Ndongo, 1628",
      "d": 1787263200,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
@@ -1470,6 +1546,7 @@
     {
      "id": "121350",
      "t": "#UMustLearn",
+     "pithy": "Montessori with go-go drums in Anacostia",
      "d": 1786053600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
@@ -1479,6 +1556,7 @@
     {
      "id": "121251",
      "t": "#UMustLearn",
+     "pithy": "Real Men Teach, back to John Chavis",
      "d": 1785448800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
@@ -1539,6 +1617,7 @@
     {
      "id": "122029",
      "t": "My Favorite Things: The Artists Surveyed",
+     "pithy": "The night he drove to Newport to hear Coltrane",
      "d": 1790193600,
      "len": "1:59:44",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_160000myfavoritthingsartistssurveye.mp3",
@@ -1548,6 +1627,7 @@
     {
      "id": "121955",
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
+     "pithy": "Emily Remler, in her own words",
      "d": 1789722000,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260918_050000amaltfri.mp3",
@@ -1558,6 +1638,7 @@
     {
      "id": "121856",
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
+     "pithy": "Jaribu Shahid, from Sun Ra to the Art Ensemble",
      "d": 1789117200,
      "len": "3:00:06",
      "mp3": null,
@@ -1610,6 +1691,7 @@
     {
      "id": "121995",
      "t": "Make It Plain",
+     "pithy": "Glenda Glover on what Tennessee owed TSU",
      "d": 1790002800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_110000makeitplai.mp3",
@@ -1619,6 +1701,7 @@
     {
      "id": "121932",
      "t": "Jazz and Justice - Sophie's Parlor",
+     "pithy": "Four movements on the word 'move'",
      "d": 1789585200,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_150000jjsophie.mp3",
@@ -1629,6 +1712,7 @@
     {
      "id": "121896",
      "t": "Make It Plain",
+     "pithy": "Errin Haines and Latasha Brown on voting rights",
      "d": 1789398000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_110000makeitplai.mp3",
@@ -1638,6 +1722,7 @@
     {
      "id": "121797",
      "t": "Make It Plain",
+     "pithy": "Black women and 84% of D.C. maternal deaths",
      "d": 1788793200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260907_110000makeitplai.mp3",
@@ -1647,6 +1732,7 @@
     {
      "id": "121698",
      "t": "Make It Plain",
+     "pithy": "Gabriel Prosser's plan, 1800",
      "d": 1788188400,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260831_110000makeitplai.mp3",
@@ -1656,6 +1742,7 @@
     {
      "id": "121599",
      "t": "Make It Plain",
+     "pithy": "How D.C. residents lost the vote",
      "d": 1787583600,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260824_110000makeitplai.mp3",
@@ -1665,6 +1752,7 @@
     {
      "id": "121500",
      "t": "Make It Plain",
+     "pithy": "Seventy years without voting, and third parties",
      "d": 1786978800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260817_110000makeitplai.mp3",
@@ -1674,6 +1762,7 @@
     {
      "id": "121396",
      "t": "Make It Plain",
+     "pithy": "Black women, Gen Z, and democratic socialism",
      "d": 1786374000,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260810_110000makeitplai.mp3",
@@ -1683,6 +1772,7 @@
     {
      "id": "121296",
      "t": "Make It Plain",
+     "pithy": "Walking out on Zuckerberg rather than sign",
      "d": 1785769200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260803_110000makeitplai.mp3",
@@ -1732,6 +1822,7 @@
     {
      "id": "122004",
      "t": "Black Star Radio",
+     "pithy": "Zaya Ross on what France took from Haiti",
      "d": 1790042400,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_220000blackstarradio.mp3",
@@ -1742,6 +1833,7 @@
     {
      "id": "121905",
      "t": "Black Star Radio",
+     "pithy": "Black Consciousness, in archival voices",
      "d": 1789437600,
      "len": "2:00:05",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_220000blackstarradio.mp3",
@@ -1802,6 +1894,7 @@
     {
      "id": "121998",
      "t": "To Your Health",
+     "pithy": "A veteran, a three-legged hound, and therapy",
      "d": 1790013600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_140000tohealth.mp3",
@@ -1811,6 +1904,7 @@
     {
      "id": "121950",
      "t": "#UMustLearn",
+     "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
@@ -1820,6 +1914,7 @@
     {
      "id": "121899",
      "t": "To Your Health",
+     "pithy": "A grain of lead, one IQ point",
      "d": 1789408800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_140000tohealth.mp3",
@@ -1829,6 +1924,7 @@
     {
      "id": "121851",
      "t": "#UMustLearn",
+     "pithy": "Weathering: why sustained trauma ages Black men faster",
      "d": 1789077600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
@@ -1838,6 +1934,7 @@
     {
      "id": "121800",
      "t": "To Your Health",
+     "pithy": "Lifeguarding is mostly prevention",
      "d": 1788804000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260907_140000tohealth.mp3",
@@ -1847,6 +1944,7 @@
     {
      "id": "121752",
      "t": "#UMustLearn",
+     "pithy": "Eighty years of exclusion in D.C. chess",
      "d": 1788472800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
@@ -1856,6 +1954,7 @@
     {
      "id": "121701",
      "t": "To Your Health",
+     "pithy": "Why prisons banned recording equipment",
      "d": 1788199200,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260831_140000tohealth.mp3",
@@ -1865,6 +1964,7 @@
     {
      "id": "121653",
      "t": "#UMustLearn",
+     "pithy": "Toussaint betrayed, and who finished the revolution",
      "d": 1787868000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
@@ -1874,6 +1974,7 @@
     {
      "id": "121602",
      "t": "To Your Health",
+     "pithy": "The physiology of walking",
      "d": 1787594401,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260824_140001tohealth.mp3",
@@ -1883,6 +1984,7 @@
     {
      "id": "121554",
      "t": "#UMustLearn",
+     "pithy": "Tracing a family back to Ndongo, 1628",
      "d": 1787263200,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
@@ -1892,6 +1994,7 @@
     {
      "id": "121503",
      "t": "To Your Health",
+     "pithy": "Off diabetes medication, on asparagus and kale",
      "d": 1786989600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260817_140000tohealth.mp3",
@@ -1901,6 +2004,7 @@
     {
      "id": "121399",
      "t": "To Your Health",
+     "pithy": "The strawberry milkshake behind the headaches",
      "d": 1786384800,
      "len": "0:52:27",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260810_140000tohealth.mp3",
@@ -1910,6 +2014,7 @@
     {
      "id": "121350",
      "t": "#UMustLearn",
+     "pithy": "Montessori with go-go drums in Anacostia",
      "d": 1786053600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
@@ -1919,6 +2024,7 @@
     {
      "id": "121299",
      "t": "To Your Health",
+     "pithy": "Twenty medications and a lifelong pork habit",
      "d": 1785780000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260803_140000tohealth.mp3",
@@ -1928,6 +2034,7 @@
     {
      "id": "121251",
      "t": "#UMustLearn",
+     "pithy": "Real Men Teach, back to John Chavis",
      "d": 1785448800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
@@ -2005,6 +2112,7 @@
     {
      "id": "122025",
      "t": "Coltraane in Europe - 1961-65",
+     "pithy": "Coltrane in Europe, in order",
      "d": 1790168400,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_090000coltraaineurope.mp3",
@@ -2014,6 +2122,7 @@
     {
      "id": "121983",
      "t": "Sunday Kind Of Love",
+     "pithy": "Dave Zirin on Howard Zinn's outsized life",
      "d": 1789920000,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_120000sundaykilliams.mp3",
@@ -2024,6 +2133,7 @@
     {
      "id": "121940",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "pithy": "A seventy-five minute set about water",
      "d": 1789635600,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_050000amalt.mp3",
@@ -2034,6 +2144,7 @@
     {
      "id": "121927",
      "t": "Wake Up, Stay Woke",
+     "pithy": "Cuba's infant mortality under sanctions",
      "d": 1789567200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_100000wakeupstaywoke.mp3",
@@ -2043,6 +2154,7 @@
     {
      "id": "121884",
      "t": "Sunday Kind Of Love",
+     "pithy": "Stepping, traced to the 1740 drum ban",
      "d": 1789315200,
      "len": "2:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_120000sundaykilliams.mp3",
@@ -2053,6 +2165,7 @@
     {
      "id": "121841",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "pithy": "Two college roommates, reunited on stage",
      "d": 1789030800,
      "len": "",
      "mp3": null,
@@ -2062,6 +2175,7 @@
     {
      "id": "121828",
      "t": "Wake Up, Stay Woke",
+     "pithy": "Who actually built the U.S. Capitol",
      "d": 1788962400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260909_100000wakeupstaywoke.mp3",
@@ -2071,6 +2185,7 @@
     {
      "id": "121729",
      "t": "Wake Up, Stay Woke",
+     "pithy": "Sharon Pratt on what the documentary recovers",
      "d": 1788357600,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260902_100000wakeupstaywoke.mp3",
@@ -2080,6 +2195,7 @@
     {
      "id": "121630",
      "t": "Wake Up, Stay Woke",
+     "pithy": "A delegation returns from Cuba",
      "d": 1787752800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260826_100000wakeupstaywoke.mp3",
@@ -2089,6 +2205,7 @@
     {
      "id": "121531",
      "t": "Wake Up, Stay Woke",
+     "pithy": "The grandmother who did three heads that morning",
      "d": 1787148000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260819_100000wakeupstaywoke.mp3",
@@ -2098,6 +2215,7 @@
     {
      "id": "121440",
      "t": "Buena Vista Social Club and Beyond",
+     "pithy": "Kennedy Center ordered to pay Chuck Redd",
      "d": 1786611600,
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260813_050000buenavistasociaclubandbeyon.mp3",
@@ -2107,6 +2225,7 @@
     {
      "id": "121427",
      "t": "Wake Up, Stay Woke",
+     "pithy": "The unopened mail that signals dementia",
      "d": 1786543200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260812_100000wakeupstaywoke.mp3",
@@ -2116,6 +2235,7 @@
     {
      "id": "121327",
      "t": "Wake Up, Stay Woke",
+     "pithy": "Fatherlessness, not violence, as the root problem",
      "d": 1785938400,
      "len": "0:59:56",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260805_100000wakeupstaywoke.mp3",
@@ -2125,6 +2245,7 @@
     {
      "id": "121221",
      "t": "Wake Up, Stay Woke",
+     "pithy": "Baltimore youth before the Congressional Black Caucus",
      "d": 1785333600,
      "len": "0:59:46",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260729_100000wakeupstaywoke.mp3",
@@ -2173,6 +2294,7 @@
     {
      "id": "121975",
      "t": "Kulcha Shak",
+     "pithy": "Solo, with two D.C. artists in the spotlight",
      "d": 1789848000,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260919_160000kulcha.mp3",
@@ -2183,6 +2305,7 @@
     {
      "id": "121876",
      "t": "Kulcha Shak",
+     "pithy": "Bridging Africa and the diaspora, in two hours",
      "d": 1789243200,
      "len": "0:58:14",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_160000kulcha.mp3",
