@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-26T01:21:22.174Z",
+ "generatedAt": "2026-09-26T01:26:17.409Z",
  "count": 23,
  "cats": [
   "Health & Fitness",
@@ -67,6 +67,7 @@
     {
      "id": "122045",
      "t": "Unionism Drives Community",
+     "pithy": "Unite Here Local 25 boycotts five D.C. restaurants",
      "d": 1790283600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_170000unionismdrivescommunit.mp3",
@@ -531,6 +532,7 @@
     {
      "id": "122042",
      "t": "The Labor Heritage Power Hour",
+     "pithy": "Joe Uline walked a picket line at age six",
      "d": 1790269200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_130000dcpolitebarras.mp3",
@@ -645,6 +647,7 @@
     {
      "id": "122009",
      "t": "Voices With Vision",
+     "pithy": "Tamayo Chaveco saw 11,000 children waiting for surgery",
      "d": 1790082000,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_090000voiceswdiocoop.mp3",
@@ -663,6 +666,7 @@
     {
      "id": "121910",
      "t": "Voices With Vision",
+     "pithy": "43,000 Gary residents lost power while data centers kept running",
      "d": 1789477200,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260915_090000voiceswdiocoop.mp3",
@@ -681,6 +685,7 @@
     {
      "id": "121811",
      "t": "Voices With Vision",
+     "pithy": "Naumodja on Guinea-Bissau's offshore oil handed to Chevron",
      "d": 1788872400,
      "len": "0:59:59",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260908_090000voiceswdiocoop.mp3",
@@ -689,6 +694,7 @@
     {
      "id": "121712",
      "t": "Voices With Vision",
+     "pithy": "Mumia Abu-Jamal spent eight years in isolation for his hair",
      "d": 1788267600,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260901_090000voiceswdiocoop.mp3",
@@ -697,6 +703,7 @@
     {
      "id": "121613",
      "t": "Voices With Vision",
+     "pithy": "Mumia Abu-Jamal spent 28 years on death row",
      "d": 1787662800,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260825_090000voiceswdiocoop.mp3",
@@ -705,6 +712,7 @@
     {
      "id": "121514",
      "t": "Voices With Vision",
+     "pithy": "Mumia Abu-Jamal mourns Johanna Fernandez, dead at 55",
      "d": 1787058000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260818_090000voiceswdiocoop.mp3",
@@ -713,6 +721,7 @@
     {
      "id": "121410",
      "t": "Voices With Vision",
+     "pithy": "Onyeka Igwe imagined Ransome-Kuti and Wynter writing together",
      "d": 1786453200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260811_090000voiceswdiocoop.mp3",
@@ -721,6 +730,7 @@
     {
      "id": "121310",
      "t": "Voices With Vision",
+     "pithy": "Mumia Abu-Jamal traces Black August from 1967 to MOVE",
      "d": 1785848400,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260804_090000voiceswdiocoop.mp3",
@@ -779,6 +789,7 @@
     {
      "id": "122046",
      "t": "#UMustLearn",
+     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
      "d": 1790287200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
@@ -911,6 +922,7 @@
     {
      "id": "122046",
      "t": "#UMustLearn",
+     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
      "d": 1790287200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
@@ -1242,6 +1254,7 @@
     {
      "id": "122041",
      "t": "Don't Forget The Blues-Scooter Magruder",
+     "pithy": "Bobby Parker and Ray Charles Robinson's 96th birthday",
      "d": 1790265601,
      "len": "1:00:05",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_120001dontforgebluesthurs.mp3",
@@ -1488,6 +1501,7 @@
     {
      "id": "122046",
      "t": "#UMustLearn",
+     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
      "d": 1790287200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
@@ -1600,6 +1614,7 @@
     {
      "id": "122051",
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
+     "pithy": "Heidi Martin traced Coltrane to a Marshall Keys mixtape",
      "d": 1790326800,
      "len": "2:59:52",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260925_050000amaltfri.mp3",
@@ -1863,6 +1878,7 @@
     {
      "id": "122046",
      "t": "#UMustLearn",
+     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
      "d": 1790287200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
@@ -2071,6 +2087,7 @@
     {
      "id": "122055",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Judge Kelly ordered CNN and MSNBC access restored",
      "d": 1790348400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260925_110000comcomfri.mp3",
@@ -2079,6 +2096,7 @@
     {
      "id": "122035",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "pithy": "Craig Williams finds \"Equinox\" after a CD misprint",
      "d": 1790240400,
      "len": "2:59:46",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_050000amalt.mp3",
@@ -2107,6 +2125,7 @@
     {
      "id": "121959",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "JT says Republican Trump opponents are faking the funk",
      "d": 1789743600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260918_110000comcomfri.mp3",
@@ -2144,6 +2163,7 @@
     {
      "id": "121860",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Ron Pinchback and Chipp Jones on 9/11 questions still unanswered",
      "d": 1789138800,
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260911_110000comcomfri.mp3",
@@ -2170,6 +2190,7 @@
     {
      "id": "121761",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Federal judge blocked Trump's postal ballot overhaul",
      "d": 1788534000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260904_110000comcomfri.mp3",
@@ -2187,6 +2208,7 @@
     {
      "id": "121662",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Ron Daniels called live from the National Mall",
      "d": 1787929200,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260828_110000comcomfri.mp3",
@@ -2204,6 +2226,7 @@
     {
      "id": "121563",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Flock camera pulled 6-year-olds from an SUV at gunpoint",
      "d": 1787324400,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260821_110000comcomfri.mp3",
@@ -2221,6 +2244,7 @@
     {
      "id": "121463",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "South Carolina congresswoman's bill to reinstate death penalty in D.C",
      "d": 1786719600,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260814_110000comcomfri.mp3",
@@ -2247,6 +2271,7 @@
     {
      "id": "121359",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Maryland kid arrested for holding Doritos by AI",
      "d": 1786114800,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260807_110000comcomfri.mp3",
@@ -2264,6 +2289,7 @@
     {
      "id": "121260",
      "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "pithy": "Physician signed more death certificates before the vaccine",
      "d": 1785510000,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260731_110000comcomfri.mp3",
