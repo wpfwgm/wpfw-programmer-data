@@ -96,7 +96,10 @@
   var archiveText = null;
   function descriptions() {
     if (!archiveText) {
-      archiveText = fetch(WP_ARCHIVE_DATA)
+      /* Revalidate rather than trust the browser's copy: GitHub Pages sets
+         max-age=600 on this file, and a profile showing ten-minute-old text
+         is the drift this fetch exists to remove. A 304 costs nothing. */
+      archiveText = fetch(WP_ARCHIVE_DATA, { cache: 'no-cache' })
         .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
         .then(function (j) {
           var m = {};
