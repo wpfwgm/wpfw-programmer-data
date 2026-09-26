@@ -58,6 +58,12 @@
   /* Where the on-demand archive embed lives, for "hear everything" links.
      Empty string hides those links rather than pointing them at a 404. */
   var WP_ARCHIVE_PAGE = 'https://www.wpfwdc.org/archive';
+  /* The published archive, read at runtime rather than copied into this file
+     at build time. An episode's description is edited after it is published
+     -- reviewed, restyled, corrected -- and a baked copy is wrong from that
+     moment until somebody happens to rebuild. Reading it here means the
+     profile and the archive can never disagree. */
+  var WP_ARCHIVE_DATA = 'https://wpfwgm.github.io/wpfw-archive-data/archive.json';
 
   var root = document.getElementById('wpfw-programmers');
   if (!root) return;
@@ -81,6 +87,30 @@
   var resetBtn= $('.wp-reset', root);
 
   var S = { all: [], view: [], open: null, audioOnly: false, showAllEps: false };
+
+  /* Fetched once, on the first profile opened, and shared by every profile
+     after it. Resolves to {} if the archive cannot be reached, which renders
+     episodes without their descriptions -- the same as an episode that has
+     none, which the row already handles. A profile is still useful without
+     the text; it must not fail to open because of it. */
+  var archiveText = null;
+  function descriptions() {
+    if (!archiveText) {
+      archiveText = fetch(WP_ARCHIVE_DATA)
+        .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function (j) {
+          var m = {};
+          /* `past` too: an episode whose audio has aged out keeps its
+             description, and the profile still lists it. */
+          [].concat(j.shows || [], j.past || []).forEach(function (x) {
+            if (x && x.id && x.desc) m[x.id] = x.desc;
+          });
+          return m;
+        })
+        .catch(function () { return {}; });
+    }
+    return archiveText;
+  }
 
   /* --- small helpers ---------------------------------------------------- */
 
@@ -246,7 +276,9 @@
   var PLAY_SVG  = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
   var PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg>';
 
-  function episodeRow(e) {
+  /* `desc` comes from the live archive, not from the episode record. Never
+     pass this to .map() bare: .map would hand it the array index. */
+  function episodeRow(e, desc) {
     /* The archive names every episode after its programme, so without a
        written title the heading would repeat the programme name down the
        whole list -- and the programme name is already at the top of the
@@ -267,8 +299,8 @@
       (meta.length ? '<div class="wp-ep-when">' + meta.join(' &middot; ') + '</div>' : '');
 
     var body = '<div class="wp-ep-main">' + head +
-      (e.desc ? '<div class="wp-ep-desc">' + esc(e.desc.replace(/\n+/g, ' ')) + '</div>' +
-                '<button class="wp-ep-more" type="button">Read more</button>' : '') +
+      (desc ? '<div class="wp-ep-desc">' + esc(String(desc).replace(/\n+/g, ' ')) + '</div>' +
+              '<button class="wp-ep-more" type="button">Read more</button>' : '') +
     '</div>';
 
     if (!e.mp3) {
@@ -376,7 +408,19 @@
     var shown = S.showAllEps ? p.eps : p.eps.slice(0, EP_LIMIT);
     $('.wp-eps-head', sheet).textContent =
       p.eps.length === 1 ? 'Past episode' : 'Past episodes';
-    box.innerHTML = shown.map(episodeRow).join('');
+
+    /* Twice: once immediately so the panel is never waiting on the network,
+       and again with the descriptions once they arrive. On a warm cache the
+       two happen in the same frame and nothing is seen to change. */
+    var render = function (m) {
+      box.innerHTML = shown.map(function (e) { return episodeRow(e, m && m[e.id]); }).join('');
+    };
+    render(null);
+    descriptions().then(function (m) {
+      /* The reader may have closed this profile or opened another while the
+         archive was loading; painting into it then would be wrong. */
+      if (S.open === p) render(m);
+    });
 
     var bits = [];
     if (p.eps.length > EP_LIMIT) {
