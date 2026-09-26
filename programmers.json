@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-26T00:51:48.954Z",
+ "generatedAt": "2026-09-26T01:21:22.174Z",
  "count": 23,
  "cats": [
   "Health & Fitness",
@@ -617,6 +617,10 @@
     {
      "name": "Brother Ah’s Collectors: Next Generation in Sound",
      "desc": "Jazz curated for spiritually higher values, carrying forward the legacy of the late Robert “Brother Ah” Northern."
+    },
+    {
+     "name": "Voices With Vision",
+     "desc": "News and analysis on cutting-edge social justice issues, mixing voices, information, cultural expressions, and commentary — not for the politically faint of heart."
     }
    ],
    "genres": [
@@ -627,15 +631,25 @@
    "page": "https://www.wpfwdc.org/programmer/craig-hall",
    "links": [],
    "shows": [
-    "brotherahrsquocollectnextgeneratins"
+    "brotherahrsquocollectnextgeneratins",
+    "voiceswdiocoop"
    ],
    "cats": [
-    "Music"
+    "Music",
+    "Public Affairs"
    ],
    "days": [
     2
    ],
    "eps": [
+    {
+     "id": "122009",
+     "t": "Voices With Vision",
+     "d": 1790082000,
+     "len": "1:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
     {
      "id": "122003",
      "t": "Brother Ah’s Collectors: Next Generation in Sound",
@@ -647,6 +661,14 @@
      "listen": true
     },
     {
+     "id": "121910",
+     "t": "Voices With Vision",
+     "d": 1789477200,
+     "len": "1:00:04",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260915_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
      "id": "121904",
      "t": "Brother Ah’s Collectors: Next Generation in Sound",
      "pithy": "An all-1976 hour, with every credit named",
@@ -655,9 +677,65 @@
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_200001brotherahrsquocollectnextgeneratins.mp3",
      "prog": "Brother Ah’s Collectors: Next Generation in Sound",
      "listen": true
+    },
+    {
+     "id": "121811",
+     "t": "Voices With Vision",
+     "d": 1788872400,
+     "len": "0:59:59",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260908_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121712",
+     "t": "Voices With Vision",
+     "d": 1788267600,
+     "len": "1:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260901_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121613",
+     "t": "Voices With Vision",
+     "d": 1787662800,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260825_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121514",
+     "t": "Voices With Vision",
+     "d": 1787058000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260818_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121410",
+     "t": "Voices With Vision",
+     "d": 1786453200,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260811_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121310",
+     "t": "Voices With Vision",
+     "d": 1785848400,
+     "len": "1:00:04",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260804_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "121498",
+     "t": "Voices With Vision",
+     "d": 1785243600,
+     "len": "0:55:11",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
     }
    ],
-   "audio": 2
+   "audio": 11
   },
   {
    "slug": "daman-harris",
@@ -1942,6 +2020,10 @@
    ],
    "progInfo": [
     {
+     "name": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)",
+     "desc": "A weekly open-phones program where Ron Pinchback and Chipp Jones invite listeners to weigh in on the political stories shaping their lives."
+    },
+    {
      "name": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "desc": "Morning Brew Classic Jazz Edition, where Craig Williams guides two-plus hours of classic jazz on WPFW every Thursday morning."
     },
@@ -1966,6 +2048,7 @@
    "page": "https://www.wpfwdc.org/programmer/craig-williams",
    "links": [],
    "shows": [
+    "comcomfri",
     "amalt",
     "coltraaineurope",
     "sundaykilliams",
@@ -1973,6 +2056,7 @@
     "buenavistasociaclubandbeyon"
    ],
    "cats": [
+    "Public Access",
     "Music",
     "Special Program",
     "Public Affairs"
@@ -1980,9 +2064,18 @@
    "days": [
     0,
     3,
-    4
+    4,
+    5
    ],
    "eps": [
+    {
+     "id": "122055",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1790348400,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260925_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
+    },
     {
      "id": "122035",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
@@ -2010,6 +2103,14 @@
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_120000sundaykilliams.mp3",
      "prog": "Sunday Kind Of Love",
      "listen": true
+    },
+    {
+     "id": "121959",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1789743600,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260918_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
     },
     {
      "id": "121940",
@@ -2041,6 +2142,14 @@
      "listen": true
     },
     {
+     "id": "121860",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1789138800,
+     "len": "1:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260911_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
+    },
+    {
      "id": "121841",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "pithy": "Two college roommates, reunited on stage",
@@ -2059,6 +2168,14 @@
      "prog": "Wake Up, Stay Woke"
     },
     {
+     "id": "121761",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1788534000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260904_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
+    },
+    {
      "id": "121729",
      "t": "Wake Up, Stay Woke",
      "pithy": "Sharon Pratt on what the documentary recovers",
@@ -2066,6 +2183,14 @@
      "len": "1:00:06",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260902_100000wakeupstaywoke.mp3",
      "prog": "Wake Up, Stay Woke"
+    },
+    {
+     "id": "121662",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1787929200,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260828_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
     },
     {
      "id": "121630",
@@ -2077,6 +2202,14 @@
      "prog": "Wake Up, Stay Woke"
     },
     {
+     "id": "121563",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1787324400,
+     "len": "1:00:04",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260821_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
+    },
+    {
      "id": "121531",
      "t": "Wake Up, Stay Woke",
      "pithy": "The grandmother who did three heads that morning",
@@ -2084,6 +2217,14 @@
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260819_100000wakeupstaywoke.mp3",
      "prog": "Wake Up, Stay Woke"
+    },
+    {
+     "id": "121463",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1786719600,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260814_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
     },
     {
      "id": "121440",
@@ -2104,6 +2245,14 @@
      "prog": "Wake Up, Stay Woke"
     },
     {
+     "id": "121359",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1786114800,
+     "len": "1:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260807_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
+    },
+    {
      "id": "121327",
      "t": "Wake Up, Stay Woke",
      "pithy": "Fatherlessness, not violence, as the root problem",
@@ -2111,6 +2260,14 @@
      "len": "0:59:56",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260805_100000wakeupstaywoke.mp3",
      "prog": "Wake Up, Stay Woke"
+    },
+    {
+     "id": "121260",
+     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
+     "d": 1785510000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260731_110000comcomfri.mp3",
+     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
     },
     {
      "id": "121221",
@@ -2122,7 +2279,7 @@
      "prog": "Wake Up, Stay Woke"
     }
    ],
-   "audio": 14
+   "audio": 23
   },
   {
    "slug": "dj-zee-lion",
