@@ -5587,7 +5587,30 @@
       what: "Singer, Staple Singers; the last surviving member",
       beat: "gospel",
       why: "“Sad and Beautiful World” (November 2025) with 2026 dates. Sang the civil rights movement as it happened — she is a primary source.",
-      find: "mavisstaples.com" }
+      find: "mavisstaples.com" },
+  
+    { name: "Wes Felton",
+      what: "Singer, poet, rapper and actor, born and raised here",
+      beat: "hiphop",
+      why: "Half of CrossRhodes with Raheem DeVaughn. Came up in DC's spoken-word scene and never left it — a poet who can also carry a whole hour of talk.",
+      find: "Through Raheem DeVaughn's team, raheemdevaughn.com, or the Go-Go Museum & Café",
+      dc: true },
+  
+    { name: "Head-Roc",
+      what: "Rapper, long called the Mayor of DC Hip Hop",
+      beat: "hiphop",
+      caution: "No website and no Wikipedia page, so we could not confirm what he is doing right now. Confirm he is active before you book.",
+      why: "Has spent his career on DC's own fights — gentrification, statehood, who the city is for. Says it in his own work, not through a press release.",
+      find: "Through the Go-Go Museum & Café, 1920 Martin Luther King Jr. Ave SE",
+      dc: true },
+  
+    { name: "Michelle Blackwell",
+      what: "Go-go and soul vocalist who has fronted several DMV bands",
+      beat: "gogo",
+      caution: "No working website and no Wikipedia page, so current activity is unconfirmed. Check before you book.",
+      why: "One of the women's voices in a scene that does not put many of them out front.",
+      find: "Through the Go-Go Museum & Café, 1920 Martin Luther King Jr. Ave SE",
+      dc: true }
   ];
 
   /* content-guest-log.js */
