@@ -3625,6 +3625,102 @@
       why: "Organising strategy, Black queer and trans organising, and movement infrastructure.",
       find: "forgeorganizing.org" },
   
+    /* BLUES AND GOSPEL — verified September 2026. */
+  
+    { name: "Anthony Brown",
+      what: "Gospel singer, songwriter and bandleader of group therAPy, Grammy-nominated",
+      org: "Tyscot Records",
+      beat: "gospel",
+      why: "Seventh album “Disclosure” (September 2026) after a three-year break, and he is open that it came out of counselling. Baltimore, so an hour’s drive.",
+      find: "tyscot.com",
+      dc: true },
+  
+    { name: "Nolan Williams Jr.",
+      what: "Composer, choir director and founding chief executive of NEWorks Productions",
+      beat: "gospel",
+      why: "Wrote the voting-rights hymn “Just Like Selma” — his own lyric calls listeners to “protest, resist, endure, agitate”. It has run in 87 cities across 19 denominations. A true in-town booking.",
+      find: "nolanwilliamsjr.com",
+      dc: true },
+  
+    { name: "Nella B.",
+      what: "Blues singer, 64, DC native in Prince George’s County who started performing at 60",
+      beat: "blues",
+      why: "Won the DC Blues Society Battle of the Bands in 2025 and headlines the DC Blues Festival. The other true in-town booking.",
+      find: "nellabblues.com",
+      dc: true },
+  
+    { name: "Cedric Burnside",
+      what: "Guitarist, drummer and singer, 48; R.L. Burnside’s grandson",
+      beat: "blues",
+      why: "“Hill Country Love”, cut in two days in a Ripley, Mississippi office.",
+      find: "cedricburnside.net" },
+  
+    { name: "Shemekia Copeland",
+      what: "Blues and soul-blues singer, 47, an eight-time Grammy nominee",
+      beat: "blues",
+      why: "“Blame It On Eve” — her own songs take on a woman’s right to choose and the climate.",
+      find: "shemekiacopeland.com" },
+  
+    { name: "Buffalo Nichols",
+      what: "Singer and guitarist, second album, recording again in 2026",
+      org: "Fat Possum Records",
+      beat: "blues",
+      why: "“The Fatalist” builds blues out of drum machines, samples and synths. His own domain is a parked page — use the label.",
+      find: "fatpossum.com" },
+  
+    { name: "Jerron “Blind Boy” Paxton",
+      what: "Multi-instrumentalist and singer, 37",
+      beat: "blues",
+      why: "“Things Done Changed” is all original songs written in a pre-war Black idiom.",
+      find: "jerronpaxton.com" },
+  
+    { name: "Dylan Triplett",
+      what: "Vocalist, 22, St. Louis; Blues Foundation Best Emerging Artist",
+      org: "Red Zero Records",
+      beat: "blues",
+      why: "Signed to Kingfish’s label, with an album due. The youngest name on this list.",
+      find: "dylantriplettmusic.com" },
+  
+    { name: "Toronzo Cannon",
+      what: "Guitarist, singer and songwriter, 58, Chicago",
+      org: "Alligator Records",
+      beat: "blues",
+      why: "“Shut Up And Play!” — eleven songs, all his own. He drove a CTA bus while making records.",
+      find: "toronzocannon.com" },
+  
+    { name: "Robert Finley",
+      what: "Singer and guitarist, 72; lost his sight to glaucoma and was busking when he was recorded at 62",
+      beat: "blues",
+      why: "“Hallelujah! Don’t Let The Devil Fool Ya”, cut with Dan Auerbach. No dates listed — book with lead time.",
+      find: "robertfinleyofficial.com" },
+  
+    { name: "The Campbell Brothers",
+      what: "House of God church steel-guitar family band; Chuck Campbell is an NEA National Heritage Fellow",
+      beat: "gospel",
+      why: "Sacred steel — the pedal steel guitar as a church instrument. Singles include “Lift Every Voice”.",
+      find: "c-brosmusic.com" },
+  
+    { name: "Ricky Dillard",
+      what: "Chicago choirmaster, two 2026 Grammy nominations",
+      org: "Motown Gospel",
+      beat: "gospel",
+      why: "“Sweet, Sweet Spirit” (February 2026). Choir gospel done at full size. No working personal domain — use the label.",
+      find: "capitolcmglabelgroup.com" },
+  
+    { name: "Evan Nicole Bell",
+      what: "Baltimore-based, Texas-born, early career",
+      beat: "blues",
+      why: "“Shades of Blue” went to number one on the Roots Music Report singer-songwriter chart. She brands herself Americana — psychedelic soul and electric blues-rock — rather than blues, so take her on her own terms.",
+      find: "evannicolebell.com",
+      dc: true },
+  
+    { name: "Corey Ledet Zydeco & Black Magic",
+      what: "Creole zydeco accordionist, Louisiana, Grammy-nominated",
+      org: "Nouveau Electric Records",
+      beat: "blues",
+      why: "Recorded “Médikamen” entirely in Kouri-Vini, the Louisiana Creole language with fewer than ten thousand speakers, and describes it as reclaiming his family’s language. His domain refuses fetching — reach him through the label.",
+      find: "Nouveau Electric Records, Louisiana" },
+  
     /* AFRICAN, REGGAE AND AFRO-CARIBBEAN — verified September 2026. Politics
        appears only where the artist put it in their own work or their own
        words; most of these are recommended on musical grounds alone. */
