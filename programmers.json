@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-27T02:16:08.518Z",
+ "generatedAt": "2026-09-27T02:21:55.169Z",
  "count": 23,
  "cats": [
   "Music",
@@ -1556,19 +1556,8 @@
    "days": [
     3
    ],
-   "eps": [
-    {
-     "id": "121932",
-     "t": "Jazz and Justice - Sophie's Parlor",
-     "pithy": "Four movements on the word 'move'",
-     "d": 1789585200,
-     "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_150000jjsophie.mp3",
-     "prog": "Jazz and Justice - Sophie's Parlor",
-     "listen": true
-    }
-   ],
-   "audio": 1
+   "eps": [],
+   "audio": 0
   },
   {
    "slug": "dj-underdog",
