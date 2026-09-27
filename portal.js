@@ -1254,8 +1254,7 @@
       intro: "You are responsible for the quality of what you send us. That sounds daunting and is not — almost all of it comes down to three decisions you make once, and then never think about again." },
     { key: "show",
       label: "Running a Good Show",
-      blurb: "The clock, the guests, the questions, and the things worth getting better at.",
-      intro: "Nobody at WPFW is going to tell you what your show should be. That is the point of the place. What follows is craft rather than policy — take what is useful and leave the rest." }
+      blurb: "The clock, the guests, the questions, and the things worth getting better at." }
   ];
   
   window.WPFW_CRAFT = [
