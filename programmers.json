@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-27T02:03:12.646Z",
+ "generatedAt": "2026-09-27T02:16:08.518Z",
  "count": 23,
  "cats": [
   "Music",
@@ -787,30 +787,12 @@
    ],
    "eps": [
     {
-     "id": "122046",
-     "t": "#UMustLearn",
-     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
-     "d": 1790287200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121851",
-     "t": "#UMustLearn",
-     "pithy": "Weathering: why sustained trauma ages Black men faster",
-     "d": 1789077600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
      "prog": "#UMustLearn"
     },
     {
@@ -823,30 +805,12 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121653",
-     "t": "#UMustLearn",
-     "pithy": "Toussaint betrayed, and who finished the revolution",
-     "d": 1787868000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121554",
      "t": "#UMustLearn",
      "pithy": "Tracing a family back to Ndongo, 1628",
      "d": 1787263200,
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121350",
-     "t": "#UMustLearn",
-     "pithy": "Montessori with go-go drums in Anacostia",
-     "d": 1786053600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
      "prog": "#UMustLearn"
     },
     {
@@ -859,7 +823,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 8
+   "audio": 4
   },
   {
    "slug": "daryl-howard",
@@ -909,15 +873,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121950",
-     "t": "#UMustLearn",
-     "pithy": "Louis Armstrong refuses the State Department",
-     "d": 1789682400,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121851",
      "t": "#UMustLearn",
      "pithy": "Weathering: why sustained trauma ages Black men faster",
@@ -952,27 +907,9 @@
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121350",
-     "t": "#UMustLearn",
-     "pithy": "Montessori with go-go drums in Anacostia",
-     "d": 1786053600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121251",
-     "t": "#UMustLearn",
-     "pithy": "Real Men Teach, back to John Chavis",
-     "d": 1785448800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
     }
    ],
-   "audio": 8
+   "audio": 5
   },
   {
    "slug": "willard-jenkins",
@@ -1479,48 +1416,12 @@
    ],
    "eps": [
     {
-     "id": "122046",
-     "t": "#UMustLearn",
-     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
-     "d": 1790287200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121950",
-     "t": "#UMustLearn",
-     "pithy": "Louis Armstrong refuses the State Department",
-     "d": 1789682400,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121851",
-     "t": "#UMustLearn",
-     "pithy": "Weathering: why sustained trauma ages Black men faster",
-     "d": 1789077600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121752",
      "t": "#UMustLearn",
      "pithy": "Eighty years of exclusion in D.C. chess",
      "d": 1788472800,
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121653",
-     "t": "#UMustLearn",
-     "pithy": "Toussaint betrayed, and who finished the revolution",
-     "d": 1787868000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
      "prog": "#UMustLearn"
     },
     {
@@ -1540,18 +1441,9 @@
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121251",
-     "t": "#UMustLearn",
-     "pithy": "Real Men Teach, back to John Chavis",
-     "d": 1785448800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
     }
    ],
-   "audio": 8
+   "audio": 3
   },
   {
    "slug": "candy-shannon",
@@ -1770,30 +1662,12 @@
    ],
    "eps": [
     {
-     "id": "122046",
-     "t": "#UMustLearn",
-     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
-     "d": 1790287200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
      "d": 1789682400,
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121851",
-     "t": "#UMustLearn",
-     "pithy": "Weathering: why sustained trauma ages Black men faster",
-     "d": 1789077600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260910_180000umustlearn.mp3",
      "prog": "#UMustLearn"
     },
     {
@@ -1806,15 +1680,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121653",
-     "t": "#UMustLearn",
-     "pithy": "Toussaint betrayed, and who finished the revolution",
-     "d": 1787868000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260827_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
      "id": "121554",
      "t": "#UMustLearn",
      "pithy": "Tracing a family back to Ndongo, 1628",
@@ -1822,27 +1687,9 @@
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121350",
-     "t": "#UMustLearn",
-     "pithy": "Montessori with go-go drums in Anacostia",
-     "d": 1786053600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260806_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
-    },
-    {
-     "id": "121251",
-     "t": "#UMustLearn",
-     "pithy": "Real Men Teach, back to John Chavis",
-     "d": 1785448800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
-     "prog": "#UMustLearn"
     }
    ],
-   "audio": 8
+   "audio": 3
   },
   {
    "slug": "craig-williams",
