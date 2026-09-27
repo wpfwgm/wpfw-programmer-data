@@ -59,7 +59,7 @@
    */
   /* A page that sets this before portal.js loads wins, which is how the local
    * test injects stub data. */
-  window.WPFW_FEED_URL = window.WPFW_FEED_URL || "PASTE_YOUR_EXEC_URL_HERE";
+  window.WPFW_FEED_URL = window.WPFW_FEED_URL || "https://script.google.com/macros/s/AKfycbzwylaylbM8RBjPyJPq2q7r5LCgPaHFRIMPrAirnlhRhPJEQfFhyEi5bCCy6NeZH8VzBg/exec";
 
   /* content-dates.js */
   /* ============================================================
