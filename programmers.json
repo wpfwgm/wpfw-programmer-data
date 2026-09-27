@@ -1,13 +1,11 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-26T01:26:17.409Z",
+ "generatedAt": "2026-09-27T02:03:12.646Z",
  "count": 23,
  "cats": [
-  "Health & Fitness",
   "Music",
   "Public Access",
   "Public Affairs",
-  "Public Affairs carried Nationally",
   "Special Program"
  ],
  "programs": [
@@ -232,6 +230,15 @@
    ],
    "eps": [
     {
+     "id": "122069",
+     "t": "Southern Soul Party",
+     "d": 1790438400,
+     "len": "2:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260926_120000southesoulparty.mp3",
+     "prog": "Southern Soul Party",
+     "listen": true
+    },
+    {
      "id": "121973",
      "t": "Southern Soul Party",
      "pithy": "Kennedy Center protests, then the soul set",
@@ -247,7 +254,7 @@
      "pithy": "Jessie Terrell sings pretty for the people",
      "d": 1789228800,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_120000southesoulparty.mp3",
+     "mp3": null,
      "prog": "Southern Soul Party",
      "listen": true
     }
@@ -741,11 +748,11 @@
      "t": "Voices With Vision",
      "d": 1785243600,
      "len": "0:55:11",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_090000voiceswdiocoop.mp3",
+     "mp3": null,
      "prog": "Voices With Vision"
     }
    ],
-   "audio": 11
+   "audio": 10
   },
   {
    "slug": "daman-harris",
@@ -764,25 +771,18 @@
     {
      "name": "#UMustLearn",
      "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
-    },
-    {
-     "name": "Jam Session - Beats, Bars, and Bangers",
-     "desc": "A midnight hip-hop program on 89.3 FM, mixing beats, bars, and bangers with Kamau Harris and co-host Science live from Washington, D.C."
     }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787424509094-95HX0GSRIA8UK1P31L1Q/Daman+Harris.jpeg",
    "page": "https://www.wpfwdc.org/programmer/daman-harris",
    "links": [],
    "shows": [
-    "umustlearn",
-    "beatsbarsandbangea"
+    "umustlearn"
    ],
    "cats": [
-    "Public Affairs",
-    "Music"
+    "Public Affairs"
    ],
    "days": [
-    3,
     4
    ],
    "eps": [
@@ -796,16 +796,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "122021",
-     "t": "Jam Session - Beats, Bars, and Bangers",
-     "pithy": "Hip-hop that samples Coltrane, for his 100th",
-     "d": 1790136000,
-     "len": "2:00:00",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260923_000000beatsbarsandbangea.mp3",
-     "prog": "Jam Session - Beats, Bars, and Bangers",
-     "listen": true
-    },
-    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
@@ -813,16 +803,6 @@
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121922",
-     "t": "Jam Session - Beats, Bars, and Bangers",
-     "pithy": "Midwest hip-hop, and where the rappers really came from",
-     "d": 1789531200,
-     "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_000000beatsbarsandbangea.mp3",
-     "prog": "Jam Session - Beats, Bars, and Bangers",
-     "listen": true
     },
     {
      "id": "121851",
@@ -879,7 +859,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 10
+   "audio": 8
   },
   {
    "slug": "daryl-howard",
@@ -1213,12 +1193,12 @@
      "pithy": "A tribute to the voice of Optimus Prime",
      "d": 1789261200,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_210000deciphersat.mp3",
+     "mp3": null,
      "prog": "Decipher",
      "listen": true
     }
    ],
-   "audio": 2
+   "audio": 1
   },
   {
    "slug": "warren-scooter-magruder",
@@ -1451,7 +1431,7 @@
      "t": "Community Watch & Comment - Tuesday",
      "d": 1785254368,
      "len": "0:00:35",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_115928comcomb.mp3",
+     "mp3": null,
      "prog": "Community Watch & Comment - Tuesday"
     },
     {
@@ -1460,11 +1440,11 @@
      "pithy": "Elders using psychedelics to face mortality",
      "d": 1785251902,
      "len": "0:41:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260728_111822comcomb.mp3",
+     "mp3": null,
      "prog": "Community Watch & Comment - Tuesday"
     }
    ],
-   "audio": 10
+   "audio": 8
   },
   {
    "slug": "ayize-sabater",
@@ -1670,37 +1650,21 @@
     {
      "name": "Jazz and Justice - Sophie's Parlor",
      "desc": "Sophie's Parlor, the oldest continuous women's radio program, plays music by women and about women for everyone to hear."
-    },
-    {
-     "name": "Make It Plain",
-     "desc": "Make It Plain brings Reverend Mark Thompson's weekly examination of Black politics, education, and justice to Monday mornings on 89.3 FM."
     }
    ],
    "photo": "https://static1.squarespace.com/static/62e6d591fbd0f929e5e278f6/6a623c49203b096df6edcce5/6a8a23a021c1670907d1e910/1787438136087/",
    "page": "https://www.wpfwdc.org/programmer/urysaosgg1lugeno755gt5wwmz78rr",
    "links": [],
    "shows": [
-    "jjsophie",
-    "makeitplai"
+    "jjsophie"
    ],
    "cats": [
-    "Music",
-    "Public Affairs carried Nationally"
+    "Music"
    ],
    "days": [
-    1,
     3
    ],
    "eps": [
-    {
-     "id": "121995",
-     "t": "Make It Plain",
-     "pithy": "Glenda Glover on what Tennessee owed TSU",
-     "d": 1790002800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
     {
      "id": "121932",
      "t": "Jazz and Justice - Sophie's Parlor",
@@ -1710,72 +1674,9 @@
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_150000jjsophie.mp3",
      "prog": "Jazz and Justice - Sophie's Parlor",
      "listen": true
-    },
-    {
-     "id": "121896",
-     "t": "Make It Plain",
-     "pithy": "Errin Haines and Latasha Brown on voting rights",
-     "d": 1789398000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121797",
-     "t": "Make It Plain",
-     "pithy": "Black women and 84% of D.C. maternal deaths",
-     "d": 1788793200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260907_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121698",
-     "t": "Make It Plain",
-     "pithy": "Gabriel Prosser's plan, 1800",
-     "d": 1788188400,
-     "len": "1:00:02",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260831_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121599",
-     "t": "Make It Plain",
-     "pithy": "How D.C. residents lost the vote",
-     "d": 1787583600,
-     "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260824_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121500",
-     "t": "Make It Plain",
-     "pithy": "Seventy years without voting, and third parties",
-     "d": 1786978800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260817_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121396",
-     "t": "Make It Plain",
-     "pithy": "Black women, Gen Z, and democratic socialism",
-     "d": 1786374000,
-     "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260810_110000makeitplai.mp3",
-     "prog": "Make It Plain"
-    },
-    {
-     "id": "121296",
-     "t": "Make It Plain",
-     "pithy": "Walking out on Zuckerberg rather than sign",
-     "d": 1785769200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260803_110000makeitplai.mp3",
-     "prog": "Make It Plain"
     }
    ],
-   "audio": 9
+   "audio": 1
   },
   {
    "slug": "dj-underdog",
@@ -1851,10 +1752,6 @@
    ],
    "progInfo": [
     {
-     "name": "To Your Health",
-     "desc": "A weekly program built to inform listeners and turn their health around, hosted by Dr. Theodore Watkins alongside producer Frank Smith."
-    },
-    {
      "name": "#UMustLearn",
      "desc": "A liberatory education platform rooted in hip-hop, hosted Thursdays on WPFW, where community knowledge meets the Black radical tradition."
     }
@@ -1863,15 +1760,12 @@
    "page": "https://www.wpfwdc.org/programmer/amy-watkins",
    "links": [],
    "shows": [
-    "tohealth",
     "umustlearn"
    ],
    "cats": [
-    "Health & Fitness",
     "Public Affairs"
    ],
    "days": [
-    1,
     4
    ],
    "eps": [
@@ -1885,15 +1779,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121998",
-     "t": "To Your Health",
-     "pithy": "A veteran, a three-legged hound, and therapy",
-     "d": 1790013600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260921_140000tohealth.mp3",
-     "prog": "To Your Health"
-    },
-    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
@@ -1901,15 +1786,6 @@
      "len": "1:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121899",
-     "t": "To Your Health",
-     "pithy": "A grain of lead, one IQ point",
-     "d": 1789408800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_140000tohealth.mp3",
-     "prog": "To Your Health"
     },
     {
      "id": "121851",
@@ -1921,15 +1797,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121800",
-     "t": "To Your Health",
-     "pithy": "Lifeguarding is mostly prevention",
-     "d": 1788804000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260907_140000tohealth.mp3",
-     "prog": "To Your Health"
-    },
-    {
      "id": "121752",
      "t": "#UMustLearn",
      "pithy": "Eighty years of exclusion in D.C. chess",
@@ -1937,15 +1804,6 @@
      "len": "1:00:04",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260903_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121701",
-     "t": "To Your Health",
-     "pithy": "Why prisons banned recording equipment",
-     "d": 1788199200,
-     "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260831_140000tohealth.mp3",
-     "prog": "To Your Health"
     },
     {
      "id": "121653",
@@ -1957,15 +1815,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121602",
-     "t": "To Your Health",
-     "pithy": "The physiology of walking",
-     "d": 1787594401,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260824_140001tohealth.mp3",
-     "prog": "To Your Health"
-    },
-    {
      "id": "121554",
      "t": "#UMustLearn",
      "pithy": "Tracing a family back to Ndongo, 1628",
@@ -1973,24 +1822,6 @@
      "len": "1:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260820_180000umustlearn.mp3",
      "prog": "#UMustLearn"
-    },
-    {
-     "id": "121503",
-     "t": "To Your Health",
-     "pithy": "Off diabetes medication, on asparagus and kale",
-     "d": 1786989600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260817_140000tohealth.mp3",
-     "prog": "To Your Health"
-    },
-    {
-     "id": "121399",
-     "t": "To Your Health",
-     "pithy": "The strawberry milkshake behind the headaches",
-     "d": 1786384800,
-     "len": "0:52:27",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260810_140000tohealth.mp3",
-     "prog": "To Your Health"
     },
     {
      "id": "121350",
@@ -2002,15 +1833,6 @@
      "prog": "#UMustLearn"
     },
     {
-     "id": "121299",
-     "t": "To Your Health",
-     "pithy": "Twenty medications and a lifelong pork habit",
-     "d": 1785780000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260803_140000tohealth.mp3",
-     "prog": "To Your Health"
-    },
-    {
      "id": "121251",
      "t": "#UMustLearn",
      "pithy": "Real Men Teach, back to John Chavis",
@@ -2020,7 +1842,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 16
+   "audio": 8
   },
   {
    "slug": "craig-williams",
@@ -2036,24 +1858,12 @@
    ],
    "progInfo": [
     {
-     "name": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)",
-     "desc": "A weekly open-phones program where Ron Pinchback and Chipp Jones invite listeners to weigh in on the political stories shaping their lives."
-    },
-    {
      "name": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "desc": "Morning Brew Classic Jazz Edition, where Craig Williams guides two-plus hours of classic jazz on WPFW every Thursday morning."
     },
     {
      "name": "Coltraane in Europe - 1961-65",
      "desc": "A centennial tribute tracing John Coltrane's European recordings from 1961 to 1965, built around the live performances that reveal the music in motion."
-    },
-    {
-     "name": "Sunday Kind Of Love",
-     "desc": "A Sunday afternoon program weaving blues, jazz, and conversation about history, art, and community into two hours of music and meaning."
-    },
-    {
-     "name": "Wake Up, Stay Woke",
-     "desc": "A weekly public affairs program on WPFW where host Faye Williams brings community voices together around Black history, health, politics, and family."
     },
     {
      "name": "Buena Vista Social Club and Beyond",
@@ -2064,35 +1874,19 @@
    "page": "https://www.wpfwdc.org/programmer/craig-williams",
    "links": [],
    "shows": [
-    "comcomfri",
     "amalt",
     "coltraaineurope",
-    "sundaykilliams",
-    "wakeupstaywoke",
     "buenavistasociaclubandbeyon"
    ],
    "cats": [
-    "Public Access",
     "Music",
-    "Special Program",
-    "Public Affairs"
+    "Special Program"
    ],
    "days": [
-    0,
     3,
-    4,
-    5
+    4
    ],
    "eps": [
-    {
-     "id": "122055",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Judge Kelly ordered CNN and MSNBC access restored",
-     "d": 1790348400,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260925_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
     {
      "id": "122035",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
@@ -2113,25 +1907,6 @@
      "prog": "Coltraane in Europe - 1961-65"
     },
     {
-     "id": "121983",
-     "t": "Sunday Kind Of Love",
-     "pithy": "Dave Zirin on Howard Zinn's outsized life",
-     "d": 1789920000,
-     "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260920_120000sundaykilliams.mp3",
-     "prog": "Sunday Kind Of Love",
-     "listen": true
-    },
-    {
-     "id": "121959",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "JT says Republican Trump opponents are faking the funk",
-     "d": 1789743600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260918_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
      "id": "121940",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "pithy": "A seventy-five minute set about water",
@@ -2140,34 +1915,6 @@
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_050000amalt.mp3",
      "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "listen": true
-    },
-    {
-     "id": "121927",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "Cuba's infant mortality under sanctions",
-     "d": 1789567200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260916_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121884",
-     "t": "Sunday Kind Of Love",
-     "pithy": "Stepping, traced to the 1740 drum ban",
-     "d": 1789315200,
-     "len": "2:00:02",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_120000sundaykilliams.mp3",
-     "prog": "Sunday Kind Of Love",
-     "listen": true
-    },
-    {
-     "id": "121860",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Ron Pinchback and Chipp Jones on 9/11 questions still unanswered",
-     "d": 1789138800,
-     "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260911_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
     },
     {
      "id": "121841",
@@ -2179,78 +1926,6 @@
      "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio"
     },
     {
-     "id": "121828",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "Who actually built the U.S. Capitol",
-     "d": 1788962400,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260909_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121761",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Federal judge blocked Trump's postal ballot overhaul",
-     "d": 1788534000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260904_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
-     "id": "121729",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "Sharon Pratt on what the documentary recovers",
-     "d": 1788357600,
-     "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260902_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121662",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Ron Daniels called live from the National Mall",
-     "d": 1787929200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260828_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
-     "id": "121630",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "A delegation returns from Cuba",
-     "d": 1787752800,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260826_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121563",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Flock camera pulled 6-year-olds from an SUV at gunpoint",
-     "d": 1787324400,
-     "len": "1:00:04",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260821_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
-     "id": "121531",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "The grandmother who did three heads that morning",
-     "d": 1787148000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260819_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121463",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "South Carolina congresswoman's bill to reinstate death penalty in D.C",
-     "d": 1786719600,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260814_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
      "id": "121440",
      "t": "Buena Vista Social Club and Beyond",
      "pithy": "Kennedy Center ordered to pay Chuck Redd",
@@ -2258,54 +1933,9 @@
      "len": "3:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260813_050000buenavistasociaclubandbeyon.mp3",
      "prog": "Buena Vista Social Club and Beyond"
-    },
-    {
-     "id": "121427",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "The unopened mail that signals dementia",
-     "d": 1786543200,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260812_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121359",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Maryland kid arrested for holding Doritos by AI",
-     "d": 1786114800,
-     "len": "1:00:02",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260807_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
-     "id": "121327",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "Fatherlessness, not violence, as the root problem",
-     "d": 1785938400,
-     "len": "0:59:56",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260805_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
-    },
-    {
-     "id": "121260",
-     "t": "Community Watch & Comment - Friday / The Local Station Board Show (Last Frid",
-     "pithy": "Physician signed more death certificates before the vaccine",
-     "d": 1785510000,
-     "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260731_110000comcomfri.mp3",
-     "prog": "Community Watch & Comment - Friday / The Local Station Board Show (Last Friday of the month)"
-    },
-    {
-     "id": "121221",
-     "t": "Wake Up, Stay Woke",
-     "pithy": "Baltimore youth before the Congressional Black Caucus",
-     "d": 1785333600,
-     "len": "0:59:46",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260729_100000wakeupstaywoke.mp3",
-     "prog": "Wake Up, Stay Woke"
     }
    ],
-   "audio": 23
+   "audio": 4
   },
   {
    "slug": "dj-zee-lion",
@@ -2344,6 +1974,15 @@
    ],
    "eps": [
     {
+     "id": "122071",
+     "t": "Kulcha Shak",
+     "d": 1790452800,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260926_160000kulcha.mp3",
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
      "id": "121975",
      "t": "Kulcha Shak",
      "pithy": "Solo, with two D.C. artists in the spotlight",
@@ -2359,7 +1998,7 @@
      "pithy": "Bridging Africa and the diaspora, in two hours",
      "d": 1789243200,
      "len": "0:58:14",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260912_160000kulcha.mp3",
+     "mp3": null,
      "prog": "Kulcha Shak",
      "listen": true
     }
