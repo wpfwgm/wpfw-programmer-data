@@ -5631,6 +5631,17 @@
   
   window.WPFW_GUEST_LOG_AUTO = [
    {
+    "date": "2026-09-27",
+    "guest": "Harry Schnipper",
+    "title": "owner",
+    "organization": "Blues Alley",
+    "areas": "Latin Jazz · Afro-Cuban & Salsa · Bebop & Hard Bop",
+    "category": "Music",
+    "show": "Latin Flavor Classic Edition",
+    "episode": "122082",
+    "quote": "And I I just want to, just want to let everyone know that we're speaking with Harry Schnipper, who is the owner of Blues Alley, and he's telling us about things going on there for this National Hispanic Heritage Month that really kind of spans 2 months."
+   },
+   {
     "date": "2026-09-26",
     "guest": "Chris Toussaint",
     "title": "35-year practitioner",
