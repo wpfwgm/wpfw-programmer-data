@@ -6224,8 +6224,7 @@
         driveend: '2026-10-24',
         drivetheme: 'Renewing Our Spirit of Community and Resistance',
         drivegoal: '150000',
-        toolkitnote: 'The toolkit password is emailed to programmers at the start of each drive — ask Katea if you need it again.',
-        footernote: 'Questions about this page? Email info@wpfw.org.'
+        toolkitnote: 'The toolkit password is emailed to programmers at the start of each drive — ask Katea if you need it again.'
       },
       updated: {},
       checklist: [
