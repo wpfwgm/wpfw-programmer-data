@@ -10,6 +10,7 @@
  *   embed/content-craft.js
  *   embed/content-guests.js
  *   embed/content-guest-log.js
+ *   embed/content-drive-goals.js
  *   embed/view-portal.html
  *   embed/view-between-the-records.html
  *   embed/view-policies.html
@@ -876,6 +877,7 @@
     },
     {
       q: "How do I get a substitute host?",
+      hold: true,   /* held back until the answer is finished */
       also: "substitute sub fill in guest host cover my show vacation absent away",
       cat: "onair",
       a: "Call Katea Stitt, Program Director. Her number is on the Emergency Numbers card at the top of this page.",
@@ -913,6 +915,7 @@
     },
     {
       q: "Can I ask for money outside a pledge drive?",
+      hold: true,   /* held back until the answer is finished */
       also: "fundraising off drive sustainer ask donations money",
       cat: "money",
       a: "",
@@ -1041,6 +1044,7 @@
     },
     {
       q: "Do I have to say what I played?",
+      hold: true,   /* held back until the answer is finished */
       also: "back announce playlist logging music reporting SoundExchange credits",
       cat: "music",
       a: "",
@@ -1095,6 +1099,7 @@
     },
     {
       q: "How do I submit pre-recorded audio, and by when?",
+      hold: true,   /* held back until the answer is finished */
       also: "submit audio upload file format levels deadline 24 hours day before prerecorded pre-recorded rundown intro outro theme",
       cat: "studio",
       a: "At least 24 hours before it airs. Send it as a file, never as a link.",
@@ -1132,6 +1137,7 @@
     },
     {
       q: "What is the LSB?",
+      hold: true,   /* held back until the answer is finished */
       also: "LSB local station board governance delegates PNB bylaws elections restructuring",
       cat: "governance",
       a: "The Local Station Board. Since the April 2025 bylaws it is a committee of the Pacifica National Board, focused on fundraising, outreach and community-needs assessment rather than day-to-day management.",
@@ -5973,6 +5979,221 @@
    }
   ];
 
+  /* content-drive-goals.js */
+  /* The October 2026 pledge drive goals, one row per airing.
+   *
+   * Read straight out of "October 2026 Pledge Drive Goals.xlsx", Program Goals
+   * tab, by the same parser the Apps Script uses, so these are the workbook's
+   * own final goals and not a retyping of them. 198 airings, $149,994, which
+   * is the workbook's own total and lands six dollars under the $150,000
+   * station goal.
+   *
+   * This is a starting position, not the live figure. The moment the Drive
+   * Numbers tab in the Sheet has anything in it, the Sheet wins and this file
+   * is ignored -- that is what lets Sataria post the morning numbers without
+   * anybody rebuilding the page.
+   */
+  window.WPFW_DRIVE_GOALS = [
+    { weekday: "Sunday", date: "October 11, 2026", time: "12:00 AM-2:00 AM", program: "African Rhythms and Extensions", host: "Kofi Kissi Dompere", goal: "200" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "2:00 AM-4:00 AM", program: "Charlie Dee Show", host: "Charlie Dee", goal: "81" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "4:00 AM-6:00 AM", program: "The S.H.E.A. Train – An Old School Gospel Experience", host: "Shea Butta", goal: "896" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "6:00 AM-9:00 AM", program: "Spirit Of Jazz", host: "Lona Alias", goal: "1952" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "9:00 AM-12:00 PM", program: "G-Strings", host: "Tom Cole", goal: "6224" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "12:00 PM-2:00 PM", program: "Sunday Kind Of Love", host: "Miyuki Williams", goal: "6752" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "2:00 PM-4:00 PM", program: "Open Sky", host: "Willard Jenkins", goal: "1236" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "4:00 PM-6:00 PM", program: "Miles Ahead", host: "Miles Willis", goal: "1793" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "6:00 PM-8:00 PM", program: "Latin Flavor Classic Edition", host: "Jim Byers", goal: "2190" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "8:00 PM-10:00 PM", program: "Berimbau", host: "Roberto dos Santos", goal: "256" },
+    { weekday: "Sunday", date: "October 11, 2026", time: "10:00 PM-12:00 AM", program: "This is Reggae Music", host: "Tony Carr", goal: "446" },
+    { weekday: "Monday", date: "October 12, 2026", time: "12:00 AM-2:00 AM", program: "The Reggae Experience", host: "Andre Radio Andy", goal: "166" },
+    { weekday: "Monday", date: "October 12, 2026", time: "2:00 AM-5:00 AM", program: "Behind the Mic", host: "Coka-Lani", goal: "221" },
+    { weekday: "Monday", date: "October 12, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Jazz Notes Edition feat. Union City Radio", host: "Ellen Carter", goal: "1092" },
+    { weekday: "Monday", date: "October 12, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "192" },
+    { weekday: "Monday", date: "October 12, 2026", time: "9:00 AM-10:00 AM", program: "MALVEAUX!", host: "Dr. Julianne Malveaux", goal: "378" },
+    { weekday: "Monday", date: "October 12, 2026", time: "10:00 AM-11:00 AM", program: "To Heal DC", host: "Joni Eisenberg & Chuck Hicks", goal: "638" },
+    { weekday: "Monday", date: "October 12, 2026", time: "11:00 AM-12:00 PM", program: "Make It Plain", host: "Rev. Mark Thompson", goal: "89" },
+    { weekday: "Monday", date: "October 12, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget the Blues – Elliott Gross", host: "Elliott Gross", goal: "881" },
+    { weekday: "Monday", date: "October 12, 2026", time: "1:00 PM-2:00 PM", program: "Equal Portions", host: "Seychelle xRichardson", goal: "117" },
+    { weekday: "Monday", date: "October 12, 2026", time: "2:00 PM-3:00 PM", program: "To Your Health", host: "Dr. Ted Watkins", goal: "837" },
+    { weekday: "Monday", date: "October 12, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – African Deep Thought", host: "Brother Ka'Ba'", goal: "869" },
+    { weekday: "Monday", date: "October 12, 2026", time: "5:00 PM-6:00 PM", program: "To The East", host: "Ambrose Lane Jr.", goal: "104" },
+    { weekday: "Monday", date: "October 12, 2026", time: "6:00 PM-7:00 PM", program: "Inside Out Collective", host: "Collective Hosts", goal: "46" },
+    { weekday: "Monday", date: "October 12, 2026", time: "7:00 PM-8:00 PM", program: "Building Bridges", host: "Mimi Rosenberg with co-host Ken Nash", goal: "286" },
+    { weekday: "Monday", date: "October 12, 2026", time: "8:00 PM-10:00 PM", program: "Brother Ah's Collectors: Next Generation in Sound", host: "Herb Taylor, Craig Hall, & Black Ink", goal: "473" },
+    { weekday: "Monday", date: "October 12, 2026", time: "10:00 PM-12:00 AM", program: "Black Star Radio", host: "DJ Underdog", goal: "139" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "12:00 AM-2:00 AM", program: "Soulful House Sessions", host: "DJ Divine", goal: "83" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "2:00 AM-5:00 AM", program: "Expansions", host: "Vince Brown", goal: "32" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Yardbird Sweets Edition feat. Union City Radio", host: "Bro Jamil", goal: "1016" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "670" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "9:00 AM-10:00 AM", program: "Voices With Vision", host: "Netfa Freeman & Craig Hall", goal: "539" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "10:00 AM-11:00 AM", program: "Crossroads", host: "Roach Brown", goal: "354" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "11:00 AM-12:00 PM", program: "Community Watch & Comment – Tuesday", host: "David Rabin & Janna Parker", goal: "546" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Lady Myrrh", host: "Lady Myrrh", goal: "499" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "1:00 PM-2:00 PM", program: "Project Censored", host: "Mickey Huff & Eleanor Goldfield", goal: "25" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "2:00 PM-3:00 PM", program: "Capitalism, Race & Democracy", host: "National Program", goal: "25" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "3:00 PM-5:00 PM", program: "Something to Say", host: "Mazi Mutafa & Patrick Washington", goal: "338" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "5:00 PM-6:00 PM", program: "Black Agenda Radio", host: "Margaret Kimberly", goal: "58" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "6:00 PM-7:00 PM", program: "Full Spectrum", host: "Anthony Rogers-Wright", goal: "98" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "7:00 PM-8:00 PM", program: "Liberation on Our Minds", host: "—", goal: "25" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "8:00 PM-10:00 PM", program: "Soul Conversations", host: "Derrick Weston & RWEONTHEAIR?", goal: "263" },
+    { weekday: "Tuesday", date: "October 13, 2026", time: "10:00 PM-12:00 AM", program: "MusicRelief", host: "DJ Rahsaan", goal: "320" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Beats, Bars, and Bangers", host: "Kamau Harris", goal: "268" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "2:00 AM-5:00 AM", program: "Into The Dawn – Nate D. Skate", host: "Nate D. Skate", goal: "539" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Beyond Borders Edition feat. Union City Radio", host: "Katea Stitt", goal: "702" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "118" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "9:00 AM-10:00 AM", program: "What's At Stake", host: "Verna Avery Brown, Marsha Coleman Adebeyo, Fahima Seck, & Denise Young", goal: "328" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "10:00 AM-11:00 AM", program: "Wake Up, Stay Woke", host: "Dr. E. Faye Williams", goal: "223" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "11:00 AM-12:00 PM", program: "TBD", host: "TBD", goal: "25" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Clarence “Bluesman” Turner", host: "Clarence “Bluesman” Turner", goal: "561" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "1:00 PM-2:00 PM", program: "AfricaNow!", host: "Mwiza Munthali / James Pope", goal: "405" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "2:00 PM-3:00 PM", program: "Shay Wah Nana", host: "Zein El-Amine", goal: "344" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – Sophie's Parlor", host: "Helen Viksnins, Drea Thompson, Marietta Ulacia, Violetta Diamond, & Lakeisha Harrison", goal: "427" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "5:00 PM-6:00 PM", program: "All Eyes on DC", host: "Sam PK Collins", goal: "45" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "6:00 PM-7:00 PM", program: "New World Order", host: "Mahjai, Ama'd, Liv Grace, & Trélogy", goal: "58" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "7:00 PM-8:00 PM", program: "Konbit Lakay", host: "Eugenia Charles", goal: "156" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "8:00 PM-10:00 PM", program: "Lovethology", host: "Donald Temple", goal: "1958" },
+    { weekday: "Wednesday", date: "October 14, 2026", time: "10:00 PM-12:00 AM", program: "Late Night Jazz – Blue Notes Edition", host: "Jordan Strudwick", goal: "853" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Life Music", host: "Saïs Kamalidiin", goal: "457" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "2:00 AM-5:00 AM", program: "The Music Bed", host: "Cody Valentine", goal: "593" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Classic Jazz Edition feat. Union City Radio", host: "Craig Williams", goal: "1588" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "79" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "9:00 AM-10:00 AM", program: "On The Margin", host: "E. Ethelbert Miller", goal: "403" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "10:00 AM-11:00 AM", program: "The Collision: Sports and Politics", host: "Etan Thomas, Dave Zirin, & Chuck Modiano", goal: "551" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "11:00 AM-12:00 PM", program: "Code Pink Radio", host: "Code Pink Collective", goal: "157" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Scooter Magruder", host: "Scooter Magruder", goal: "328" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "1:00 PM-2:00 PM", program: "The Labor Heritage Power Hour", host: "Chris Garlock / Elise Bryant", goal: "26" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "2:00 PM-3:00 PM", program: "Short Money: Dissecting Racial Capitalism", host: "Jon Jeter", goal: "25" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "3:00 PM-5:00 PM", program: "Jazz & Justice – Jazz Stories", host: "Gio Russonello & Josh Meyers", goal: "438" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "5:00 PM-6:00 PM", program: "Unionism Drives Community", host: "Renee Bowser", goal: "25" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "6:00 PM-7:00 PM", program: "#UMustLearn", host: "Baba Ayize & Dr. Daryl Howard", goal: "168" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "7:00 PM-10:00 PM", program: "Jazz Masters", host: "Tim Masters", goal: "2159" },
+    { weekday: "Thursday", date: "October 15, 2026", time: "10:00 PM-12:00 AM", program: "Late Night Jazz – Rusty Hassan", host: "Rusty Hassan", goal: "662" },
+    { weekday: "Friday", date: "October 16, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Charvis Campbell", host: "Charvis Campbell", goal: "26" },
+    { weekday: "Friday", date: "October 16, 2026", time: "2:00 AM-5:00 AM", program: "Into The Dawn – After Hour Jazz", host: "Link Shields", goal: "270" },
+    { weekday: "Friday", date: "October 16, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Jazz Edition feat. Union City Radio", host: "Candy Shannon", goal: "818" },
+    { weekday: "Friday", date: "October 16, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "286" },
+    { weekday: "Friday", date: "October 16, 2026", time: "9:00 AM-10:00 AM", program: "#Climate Friday", host: "Rev. Lennox Yearwood / T.C. Muhammad", goal: "214" },
+    { weekday: "Friday", date: "October 16, 2026", time: "10:00 AM-11:00 AM", program: "On The Ground", host: "Esther Iverem", goal: "903" },
+    { weekday: "Friday", date: "October 16, 2026", time: "11:00 AM-12:00 PM", program: "Community Watch & Comment – Friday / The Local Station Board Show (last Friday of the month)", host: "Ron Pinchback & Chipp Jones / LSB members", goal: "347" },
+    { weekday: "Friday", date: "October 16, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Ida Campbell", host: "Ida Campbell", goal: "649" },
+    { weekday: "Friday", date: "October 16, 2026", time: "1:00 PM-2:00 PM", program: "Latino Media Collective", host: "Oscar Fernandez / Abigail DeRoberts", goal: "211" },
+    { weekday: "Friday", date: "October 16, 2026", time: "2:00 PM-3:00 PM", program: "Resistance Radio with John and Regan", host: "John Kane & Regan de Loggans", goal: "239" },
+    { weekday: "Friday", date: "October 16, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – Bobby Rox", host: "Bobby Rox", goal: "569" },
+    { weekday: "Friday", date: "October 16, 2026", time: "5:00 PM-6:00 PM", program: "Darker Than Blue", host: "Jacqueline Luqman", goal: "474" },
+    { weekday: "Friday", date: "October 16, 2026", time: "6:00 PM-7:00 PM", program: "News Views", host: "Garland Nixon", goal: "753" },
+    { weekday: "Friday", date: "October 16, 2026", time: "7:00 PM-10:00 PM", program: "Robyn's Place", host: "Robyn Holden", goal: "2672" },
+    { weekday: "Friday", date: "October 16, 2026", time: "10:00 PM-12:00 AM", program: "Meeting in the Ladies Room", host: "DJ Abby, DJ Rita Burns, & DJ Housecat", goal: "391" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "12:00 AM-2:00 AM", program: "Back 2 Paradise", host: "Byron “B-Note” Brown / Derrick “D Train” Coleman", goal: "30" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "2:00 AM-5:00 AM", program: "Regeneration", host: "Josh Myers", goal: "102" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "5:00 AM-7:00 AM", program: "In The Mood", host: "Arthur McCloud", goal: "885" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "7:00 AM-10:00 AM", program: "Oldies House Party", host: "Cap'n Fly & Jas. Funk", goal: "5913" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "10:00 AM-12:00 PM", program: "House Of Soul", host: "DJ Lance Reynolds", goal: "2551" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "12:00 PM-2:00 PM", program: "Southern Soul Party", host: "Lady C", goal: "1548" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "2:00 PM-4:00 PM", program: "Roots and Fruits", host: "Bill Wax", goal: "3953" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "4:00 PM-6:00 PM", program: "Kulcha Shak", host: "DJ Zee-Lion & Kim Bey", goal: "1065" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "6:00 PM-9:00 PM", program: "Caribbeana", host: "Von Martin & Bryan Bernard", goal: "1544" },
+    { weekday: "Saturday", date: "October 17, 2026", time: "9:00 PM-12:00 AM", program: "Decipher", host: "Hip Hop Collective", goal: "470" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "12:00 AM-2:00 AM", program: "African Rhythms and Extensions", host: "Kofi Kissi Dompere", goal: "200" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "2:00 AM-4:00 AM", program: "Charlie Dee Show", host: "Charlie Dee", goal: "81" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "4:00 AM-6:00 AM", program: "The S.H.E.A. Train – An Old School Gospel Experience", host: "Shea Butta", goal: "896" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "6:00 AM-9:00 AM", program: "Spirit Of Jazz", host: "Lona Alias", goal: "1952" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "9:00 AM-12:00 PM", program: "G-Strings", host: "Tom Cole", goal: "6224" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "12:00 PM-2:00 PM", program: "Sunday Kind Of Love", host: "Miyuki Williams", goal: "6752" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "2:00 PM-4:00 PM", program: "Open Sky", host: "Willard Jenkins", goal: "1236" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "4:00 PM-6:00 PM", program: "Miles Ahead", host: "Miles Willis", goal: "1793" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "6:00 PM-8:00 PM", program: "Latin Flavor Classic Edition", host: "Jim Byers", goal: "2190" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "8:00 PM-10:00 PM", program: "Berimbau", host: "Roberto dos Santos", goal: "256" },
+    { weekday: "Sunday", date: "October 18, 2026", time: "10:00 PM-12:00 AM", program: "This is Reggae Music", host: "Tony Carr", goal: "446" },
+    { weekday: "Monday", date: "October 19, 2026", time: "12:00 AM-2:00 AM", program: "The Reggae Experience", host: "Andre Radio Andy", goal: "166" },
+    { weekday: "Monday", date: "October 19, 2026", time: "2:00 AM-5:00 AM", program: "Behind the Mic", host: "Coka-Lani", goal: "221" },
+    { weekday: "Monday", date: "October 19, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Jazz Notes Edition feat. Union City Radio", host: "Ellen Carter", goal: "1092" },
+    { weekday: "Monday", date: "October 19, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "192" },
+    { weekday: "Monday", date: "October 19, 2026", time: "9:00 AM-10:00 AM", program: "MALVEAUX!", host: "Dr. Julianne Malveaux", goal: "378" },
+    { weekday: "Monday", date: "October 19, 2026", time: "10:00 AM-11:00 AM", program: "To Heal DC", host: "Joni Eisenberg & Chuck Hicks", goal: "638" },
+    { weekday: "Monday", date: "October 19, 2026", time: "11:00 AM-12:00 PM", program: "Make It Plain", host: "Rev. Mark Thompson", goal: "89" },
+    { weekday: "Monday", date: "October 19, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget the Blues – Elliott Gross", host: "Elliott Gross", goal: "881" },
+    { weekday: "Monday", date: "October 19, 2026", time: "1:00 PM-2:00 PM", program: "Equal Portions", host: "Seychelle xRichardson", goal: "117" },
+    { weekday: "Monday", date: "October 19, 2026", time: "2:00 PM-3:00 PM", program: "To Your Health", host: "Dr. Ted Watkins", goal: "837" },
+    { weekday: "Monday", date: "October 19, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – African Deep Thought", host: "Brother Ka'Ba'", goal: "869" },
+    { weekday: "Monday", date: "October 19, 2026", time: "5:00 PM-6:00 PM", program: "To The East", host: "Ambrose Lane Jr.", goal: "104" },
+    { weekday: "Monday", date: "October 19, 2026", time: "6:00 PM-7:00 PM", program: "Inside Out Collective", host: "Collective Hosts", goal: "46" },
+    { weekday: "Monday", date: "October 19, 2026", time: "7:00 PM-8:00 PM", program: "Building Bridges", host: "Mimi Rosenberg with co-host Ken Nash", goal: "286" },
+    { weekday: "Monday", date: "October 19, 2026", time: "8:00 PM-10:00 PM", program: "Brother Ah's Collectors: Next Generation in Sound", host: "Herb Taylor, Craig Hall, & Black Ink", goal: "473" },
+    { weekday: "Monday", date: "October 19, 2026", time: "10:00 PM-12:00 AM", program: "Black Star Radio", host: "DJ Underdog", goal: "139" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "12:00 AM-2:00 AM", program: "Soulful House Sessions", host: "DJ Divine", goal: "83" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "2:00 AM-5:00 AM", program: "Expansions", host: "Vince Brown", goal: "32" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Yardbird Sweets Edition feat. Union City Radio", host: "Bro Jamil", goal: "1016" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "670" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "9:00 AM-10:00 AM", program: "Voices With Vision", host: "Netfa Freeman & Craig Hall", goal: "539" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "10:00 AM-11:00 AM", program: "Crossroads", host: "Roach Brown", goal: "354" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "11:00 AM-12:00 PM", program: "Community Watch & Comment – Tuesday", host: "David Rabin & Janna Parker", goal: "546" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Lady Myrrh", host: "Lady Myrrh", goal: "499" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "1:00 PM-2:00 PM", program: "Project Censored", host: "Mickey Huff & Eleanor Goldfield", goal: "25" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "2:00 PM-3:00 PM", program: "Capitalism, Race & Democracy", host: "National Program", goal: "25" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "3:00 PM-5:00 PM", program: "Something to Say", host: "Mazi Mutafa & Patrick Washington", goal: "338" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "5:00 PM-6:00 PM", program: "Black Agenda Radio", host: "Margaret Kimberly", goal: "58" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "6:00 PM-7:00 PM", program: "Full Spectrum", host: "Anthony Rogers-Wright", goal: "98" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "7:00 PM-8:00 PM", program: "Liberation on Our Minds", host: "—", goal: "25" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "8:00 PM-10:00 PM", program: "Soul Conversations", host: "Derrick Weston & RWEONTHEAIR?", goal: "263" },
+    { weekday: "Tuesday", date: "October 20, 2026", time: "10:00 PM-12:00 AM", program: "MusicRelief", host: "DJ Rahsaan", goal: "320" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Beats, Bars, and Bangers", host: "Kamau Harris", goal: "268" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "2:00 AM-5:00 AM", program: "Into The Dawn – Nate D. Skate", host: "Nate D. Skate", goal: "539" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Beyond Borders Edition feat. Union City Radio", host: "Katea Stitt", goal: "702" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "118" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "9:00 AM-10:00 AM", program: "What's At Stake", host: "Verna Avery Brown, Marsha Coleman Adebeyo, Fahima Seck, & Denise Young", goal: "328" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "10:00 AM-11:00 AM", program: "Wake Up, Stay Woke", host: "Dr. E. Faye Williams", goal: "223" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "11:00 AM-12:00 PM", program: "TBD", host: "TBD", goal: "25" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Clarence “Bluesman” Turner", host: "Clarence “Bluesman” Turner", goal: "561" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "1:00 PM-2:00 PM", program: "AfricaNow!", host: "Mwiza Munthali / James Pope", goal: "405" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "2:00 PM-3:00 PM", program: "Shay Wah Nana", host: "Zein El-Amine", goal: "344" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – Sophie's Parlor", host: "Helen Viksnins, Drea Thompson, Marietta Ulacia, Violetta Diamond, & Lakeisha Harrison", goal: "427" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "5:00 PM-6:00 PM", program: "All Eyes on DC", host: "Sam PK Collins", goal: "45" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "6:00 PM-7:00 PM", program: "New World Order", host: "Mahjai, Ama'd, Liv Grace, & Trélogy", goal: "58" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "7:00 PM-8:00 PM", program: "Konbit Lakay", host: "Eugenia Charles", goal: "156" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "8:00 PM-10:00 PM", program: "Lovethology", host: "Donald Temple", goal: "1958" },
+    { weekday: "Wednesday", date: "October 21, 2026", time: "10:00 PM-12:00 AM", program: "Late Night Jazz – Blue Notes Edition", host: "Jordan Strudwick", goal: "853" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Life Music", host: "Saïs Kamalidiin", goal: "457" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "2:00 AM-5:00 AM", program: "The Music Bed", host: "Cody Valentine", goal: "593" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Classic Jazz Edition feat. Union City Radio", host: "Craig Williams", goal: "1588" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "79" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "9:00 AM-10:00 AM", program: "On The Margin", host: "E. Ethelbert Miller", goal: "403" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "10:00 AM-11:00 AM", program: "The Collision: Sports and Politics", host: "Etan Thomas, Dave Zirin, & Chuck Modiano", goal: "551" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "11:00 AM-12:00 PM", program: "Code Pink Radio", host: "Code Pink Collective", goal: "157" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Scooter Magruder", host: "Scooter Magruder", goal: "328" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "1:00 PM-2:00 PM", program: "The Labor Heritage Power Hour", host: "Chris Garlock / Elise Bryant", goal: "26" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "2:00 PM-3:00 PM", program: "Short Money: Dissecting Racial Capitalism", host: "Jon Jeter", goal: "25" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "3:00 PM-5:00 PM", program: "Jazz & Justice – Jazz Stories", host: "Gio Russonello & Josh Meyers", goal: "438" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "5:00 PM-6:00 PM", program: "Unionism Drives Community", host: "Renee Bowser", goal: "25" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "6:00 PM-7:00 PM", program: "#UMustLearn", host: "Baba Ayize & Dr. Daryl Howard", goal: "168" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "7:00 PM-10:00 PM", program: "Jazz Masters", host: "Tim Masters", goal: "2159" },
+    { weekday: "Thursday", date: "October 22, 2026", time: "10:00 PM-12:00 AM", program: "Late Night Jazz – Rusty Hassan", host: "Rusty Hassan", goal: "662" },
+    { weekday: "Friday", date: "October 23, 2026", time: "12:00 AM-2:00 AM", program: "Jam Session – Charvis Campbell", host: "Charvis Campbell", goal: "26" },
+    { weekday: "Friday", date: "October 23, 2026", time: "2:00 AM-5:00 AM", program: "Into The Dawn – After Hour Jazz", host: "Link Shields", goal: "270" },
+    { weekday: "Friday", date: "October 23, 2026", time: "5:00 AM-8:00 AM", program: "Morning Brew Jazz Edition feat. Union City Radio", host: "Candy Shannon", goal: "818" },
+    { weekday: "Friday", date: "October 23, 2026", time: "8:00 AM-9:00 AM", program: "Democracy Now!", host: "Amy Goodman, Juan Gonzalez, & Nermeen Shaikh", goal: "286" },
+    { weekday: "Friday", date: "October 23, 2026", time: "9:00 AM-10:00 AM", program: "#Climate Friday", host: "Rev. Lennox Yearwood / T.C. Muhammad", goal: "214" },
+    { weekday: "Friday", date: "October 23, 2026", time: "10:00 AM-11:00 AM", program: "On The Ground", host: "Esther Iverem", goal: "903" },
+    { weekday: "Friday", date: "October 23, 2026", time: "11:00 AM-12:00 PM", program: "Community Watch & Comment – Friday / The Local Station Board Show (last Friday of the month)", host: "Ron Pinchback & Chipp Jones / LSB members", goal: "347" },
+    { weekday: "Friday", date: "October 23, 2026", time: "12:00 PM-1:00 PM", program: "Don't Forget The Blues – Ida Campbell", host: "Ida Campbell", goal: "649" },
+    { weekday: "Friday", date: "October 23, 2026", time: "1:00 PM-2:00 PM", program: "Latino Media Collective", host: "Oscar Fernandez / Abigail DeRoberts", goal: "211" },
+    { weekday: "Friday", date: "October 23, 2026", time: "2:00 PM-3:00 PM", program: "Resistance Radio with John and Regan", host: "John Kane & Regan de Loggans", goal: "239" },
+    { weekday: "Friday", date: "October 23, 2026", time: "3:00 PM-5:00 PM", program: "Jazz and Justice – Bobby Rox", host: "Bobby Rox", goal: "569" },
+    { weekday: "Friday", date: "October 23, 2026", time: "5:00 PM-6:00 PM", program: "Darker Than Blue", host: "Jacqueline Luqman", goal: "474" },
+    { weekday: "Friday", date: "October 23, 2026", time: "6:00 PM-7:00 PM", program: "News Views", host: "Garland Nixon", goal: "753" },
+    { weekday: "Friday", date: "October 23, 2026", time: "7:00 PM-10:00 PM", program: "Robyn's Place", host: "Robyn Holden", goal: "2672" },
+    { weekday: "Friday", date: "October 23, 2026", time: "10:00 PM-12:00 AM", program: "Meeting in the Ladies Room", host: "DJ Abby, DJ Rita Burns, & DJ Housecat", goal: "391" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "12:00 AM-2:00 AM", program: "Back 2 Paradise", host: "Byron “B-Note” Brown / Derrick “D Train” Coleman", goal: "30" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "2:00 AM-5:00 AM", program: "Regeneration", host: "Josh Myers", goal: "102" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "5:00 AM-7:00 AM", program: "In The Mood", host: "Arthur McCloud", goal: "885" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "7:00 AM-10:00 AM", program: "Oldies House Party", host: "Cap'n Fly & Jas. Funk", goal: "5913" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "10:00 AM-12:00 PM", program: "House Of Soul", host: "DJ Lance Reynolds", goal: "2551" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "12:00 PM-2:00 PM", program: "Southern Soul Party", host: "Lady C", goal: "1548" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "2:00 PM-4:00 PM", program: "Roots and Fruits", host: "Bill Wax", goal: "3953" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "4:00 PM-6:00 PM", program: "Kulcha Shak", host: "DJ Zee-Lion & Kim Bey", goal: "1065" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "6:00 PM-9:00 PM", program: "Caribbeana", host: "Von Martin & Bryan Bernard", goal: "1544" },
+    { weekday: "Saturday", date: "October 24, 2026", time: "9:00 PM-12:00 AM", program: "Decipher", host: "Hip Hop Collective", goal: "470" }
+  ];
+
   /* view-portal.html */
   (function () {
     "use strict";
@@ -6034,14 +6255,6 @@
         { type: 'Link', label: 'Your Goals', url: '', style: 'solid' },
         { type: 'Link', label: 'Pitch Book', url: '', style: 'ghost' },
         { type: 'Link', label: 'Tally Page', url: '', style: 'ghost' }
-      ],
-      goals: [
-        { weekday: 'Sunday', date: 'October 11, 2026', time: '06:00 AM-09:00 AM', program: 'Spirit Of Jazz', host: 'Lona Alias', goal: '1800', raised: '3850' },
-        { weekday: 'Sunday', date: 'October 11, 2026', time: '09:00 AM-12:00 PM', program: 'G-Strings', host: 'Tom Cole', goal: '6500', raised: '8627' },
-        { weekday: 'Sunday', date: 'October 11, 2026', time: '12:00 PM-02:00 PM', program: 'Sunday Kind Of Love', host: 'Miyuki Williams', goal: '6500', raised: '8709' },
-        { weekday: 'Monday', date: 'October 12, 2026', time: '05:00 AM-08:00 AM', program: 'Morning Brew', host: 'Craig Williams', goal: '2400', raised: '1220' },
-        { weekday: 'Monday', date: 'October 12, 2026', time: '08:00 PM-10:00 PM', program: 'Inside Out Collective', host: '', goal: '2000', raised: '305' },
-        { weekday: 'Tuesday', date: 'October 13, 2026', time: '05:00 AM-08:00 AM', program: 'Morning Brew', host: 'Craig Williams', goal: '2400', raised: '' }
       ],
       contacts: [
         { askthemabout: 'Programming · Scheduling · Your one-on-one', name: 'Katea Stitt', role: 'Program Director', email: 'kstitt@wpfw.org', phone: '' },
@@ -6553,7 +6766,11 @@
     }
   
     function renderGoals() {
-      var rows = (D.goals || []).filter(function (r) {
+      /* The Sheet wins the moment it has anything in it. Until Sataria pastes
+         the first morning export, the page runs on the goals workbook built
+         into this file, so programmers can look their own number up today. */
+      var src = (D.goals && D.goals.length) ? D.goals : (window.WPFW_DRIVE_GOALS || []);
+      var rows = src.filter(function (r) {
         return String(r.program || r.show || '').trim();
       });
       if (!rows.length) return '';
@@ -7640,7 +7857,10 @@
   (function () {
     "use strict";
   
-    var ITEMS = window.WPFW_POLICY || [];
+    /* Anything marked hold is written but not finished, so it stays off the
+       page rather than going out half answered. Filtering here rather than at
+       render time keeps the counts, the category chips and the search honest. */
+    var ITEMS = (window.WPFW_POLICY || []).filter(function (i) { return !i.hold; });
     var CATS  = window.WPFW_POLICY_CATS || [];
     var NOTE  = window.WPFW_POLICY_NOTE || "";
   
