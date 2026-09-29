@@ -7440,12 +7440,8 @@
         })
         .catch(function () {
           /* Google could not be reached. The page keeps whatever it already
-             drew and says so quietly, rather than showing an error. */
-          var f = ROOT.querySelector('.wp-stale');
-          if (f) {
-            f.textContent = 'Showing the last saved copy — live updates could not be reached just now. ' +
-                            f.textContent;
-          }
+             drew and says nothing: a programmer mid-show cannot act on it, and
+             the page in front of them is still correct. */
         });
     }
   
