@@ -878,7 +878,7 @@
       q: "How do I get a substitute host?",
       also: "substitute sub fill in guest host cover my show vacation absent away",
       cat: "onair",
-      a: "Call Katea Stitt, Program Director. Her number is on the Emergency Numbers card at the top of this page. Substitutes are her call, not an arrangement between programmers.",
+      a: "Call Katea Stitt, Program Director. Her number is on the Emergency Numbers card at the top of this page.",
       detail: "That number is the one for no show, no host, substitute, and PSA questions.",
       rule: "WPFW Programmer Studio Guidebook v1.0, August 2026, \u00a7 1.10",
       risk: "How far ahead notice is expected, and whether there is an approved substitute list, still needs writing in here.",
