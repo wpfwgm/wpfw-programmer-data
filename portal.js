@@ -1808,7 +1808,7 @@
     { name: "Aparna Raj",
       what: "Ward 1 Democratic Council nominee, 32, and a tenant organizer for years",
       org: "Stomp Out Slumlords",
-      beat: "housing",
+      beat: "housing labor",
       caution: "Legally qualified candidate. The moment one is on the air every opponent can ask for the same treatment, and that is a Section 315 obligation on the station, not on you. Ask Katea and the General Manager before booking — see the Policies answer “A candidate wants to come on my show.” She is on the November ballot.",
       why: "Came up through Stomp Out Slumlords. Slumlord conditions, rent concessions, and building tenant unions.",
       find: "aparnafordc.com",
@@ -1817,14 +1817,14 @@
     { name: "Ashanti Martinez",
       what: "Maryland delegate for District 22 in Prince George’s, born 1996",
       org: "Maryland House of Delegates",
-      beat: "housing",
+      beat: "housing migration",
       why: "Rent stabilisation and immigrant rights, from the Maryland side of the line.",
       find: "Maryland General Assembly",
       dc: true },
   
     { name: "Tara Raghuveer",
       what: "Director of the Tenant Union Federation, and founder of KC Tenants",
-      beat: "housing",
+      beat: "housing labor",
       why: "Running coordinated rent strikes against federally backed landlords, and pushing rent caps.",
       find: "tenantfederation.org" },
   
@@ -1837,7 +1837,7 @@
   
     { name: "Makia Green",
       what: "Organizing director at the DC Working Families Party, co-chair of the Defund MPD Coalition",
-      beat: "abolition",
+      beat: "abolition queer",
       why: "Co-founded Harriet’s Wildest Dreams. Police budgets, Black queer organising, DC elections.",
       find: "Bylines at The Forge and In These Times",
       dc: true },
@@ -1868,13 +1868,13 @@
     { name: "Eugene Puryear",
       what: "Host, and co-founder of Stop Police Terror Project DC",
       org: "BreakThrough News",
-      beat: "abolition",
+      beat: "abolition housing",
       why: "Built the police accountability fight here before moving to New York. Policing, gentrification and empire.",
       find: "“The Punch Out” and “The Freedom Side LIVE”" },
   
     { name: "Niciah Mujahid",
       what: "Executive director of the Fair Budget Coalition",
-      beat: "money",
+      beat: "money housing",
       why: "The person to call about DC budget austerity and what happens to homeless services funding.",
       find: "fairbudget.org",
       dc: true },
@@ -1890,7 +1890,7 @@
     { name: "Braxton Brewington",
       what: "Press secretary and organizer; sociology PhD student, NC A&T graduate",
       org: "Debt Collective",
-      beat: "money",
+      beat: "money labor",
       why: "Student debt, debtors’ unions, and what the debt load does to HBCU borrowers specifically.",
       find: "debtcollective.org" },
   
@@ -2027,7 +2027,7 @@
     { name: "Sam Delgado",
       what: "Reporter, previously at Vox and More Perfect Union",
       org: "The 51st",
-      beat: "media",
+      beat: "media housing labor",
       why: "DC elections, housing, and the texture of everyday life in the city.",
       find: "51st.news",
       dc: true },
@@ -2059,7 +2059,7 @@
     { name: "Mitch Ryals",
       what: "Prince George’s County editor; previously managing editor at Washington City Paper",
       org: "The Baltimore Banner",
-      beat: "media",
+      beat: "media abolition",
       why: "Policing and courts, and he publishes writing by incarcerated people.",
       find: "thebanner.com",
       dc: true },
@@ -2075,7 +2075,7 @@
     { name: "Prem Thakker",
       what: "Political correspondent on the White House and Capitol Hill",
       org: "Zeteo",
-      beat: "media",
+      beat: "media world",
       why: "Congressional power, US policy on Gaza, and civil liberties. Writes the “Subtext” column.",
       find: "zeteo.com",
       dc: true },
@@ -2083,7 +2083,7 @@
     { name: "Marisa Kabas",
       what: "Independent reporter and publisher",
       org: "The Handbasket",
-      beat: "media",
+      beat: "media migration",
       why: "Federal workforce firings and the deportation machinery, broken by one person on her own newsletter.",
       find: "thehandbasket.co" },
   
@@ -2097,7 +2097,7 @@
     { name: "Hasan Piker",
       what: "Twitch streamer and commentator, 35",
       org: "Independent",
-      beat: "media",
+      beat: "media world",
       why: "Around three million Twitch followers. US politics, Gaza, and campaign surrogacy in 2026.",
       find: "twitch.tv/hasanabi" },
   
@@ -2135,7 +2135,7 @@
     { name: "Robyn Maynard",
       what: "Assistant professor of Black feminisms",
       org: "University of Toronto Scarborough",
-      beat: "black",
+      beat: "black abolition",
       why: "Borders, policing, abolition and collapse. In Canada, so remote.",
       find: "robynmaynard.com" },
   
@@ -2234,7 +2234,7 @@
     { name: "Miguel Alvelo Rivera",
       what: "Executive director",
       org: "Latino Union of Chicago",
-      beat: "migration",
+      beat: "migration labor",
       caution: "Legally qualified candidate. The moment one is on the air every opponent can ask for the same treatment, and that is a Section 315 obligation on the station, not on you. Ask Katea and the General Manager before booking — see the Policies answer “A candidate wants to come on my show.” He is the Democratic nominee for Illinois House District 40 and faces a Republican opponent on 3 November 2026. Do not air him before then. Do not link his campaign site.",
       why: "ICE raids, retaliation, and worker solidarity in Chicago.",
       find: "latinounion.org" },
@@ -2242,14 +2242,14 @@
     { name: "Tal Lavin",
       what: "Journalist and author, writing The Sword and the Sandwich",
       org: "Independent",
-      beat: "media",
+      beat: "media queer",
       why: "The Christian right’s agenda and the far right. He came out as a trans man in 2025 — Tal, he\\/him. His own about-page still carries the old framing.",
       find: "theswordandthesandwich.substack.com" },
   
     { name: "Shane Burley",
       what: "Writer, journalist and filmmaker",
       org: "Political Research Associates",
-      beat: "strategy",
+      beat: "strategy labor",
       why: "Antifascism, unions, and fighting a captured state.",
       find: "politicalresearch.org" },
   
@@ -2291,7 +2291,7 @@
     { name: "Elliott Fukui",
       what: "Organizer, trainer and facilitator",
       org: "Mad Queer Organizing Strategies",
-      beat: "health",
+      beat: "health abolition queer",
       why: "Mental health, psychiatric abolition, and keeping each other alive. His public bio discusses being institutionalised as a teenager — brief the host.",
       find: "madqueer.org" },
   
@@ -2341,7 +2341,7 @@
     { name: "Erica Woodland",
       what: "Founding director",
       org: "National Queer and Trans Therapists of Color Network",
-      beat: "health",
+      beat: "health queer",
       why: "Collective healing rather than commodified self-care. He/him — several search summaries get this wrong. The network’s address is Baltimore, so ask whether he is local.",
       find: "ericawoodland.com" },
   
@@ -2417,14 +2417,14 @@
     { name: "Tanuja Jagernauth",
       what: "In-house artist, and just culture and operations director",
       org: "Free Street Theater and LVEJO, Chicago",
-      beat: "strategy",
+      beat: "strategy climate",
       why: "Rupture and repair inside movements. No longer primarily an acupuncturist — theatre and environmental justice now.",
       find: "haymarketbooks.org" },
   
     { name: "Lewis Raven Wallace",
       what: "Abolition journalism fellow, and co-founder of Press On",
       org: "Interrupting Criminalization",
-      beat: "media",
+      beat: "media abolition",
       why: "“Radical Unlearning” (2025) is the current hook, not the older objectivity book. Movement journalism. They/ze/he.",
       find: "lewispants.com" },
   
@@ -2492,7 +2492,7 @@
     { name: "Beth Howard",
       what: "Director of the Appalachia People’s Union",
       org: "Showing Up for Racial Justice",
-      beat: "strategy",
+      beat: "strategy labor",
       why: "Her memoir “Song for a Hard-Hit People” came out in April 2026. Organising white working-class Appalachia against scapegoating.",
       find: "bethhowardky.com" },
   
@@ -2541,7 +2541,7 @@
     { name: "Zohra Ahmed",
       what: "Associate professor of law, and strategic advisor to the National Bail Fund Network",
       org: "Boston University School of Law",
-      beat: "abolition",
+      beat: "abolition world",
       why: "Co-founded Court Watch NYC. Criminal courts, bail, and US militarism.",
       find: "bu.edu" },
   
@@ -2562,7 +2562,7 @@
     { name: "S. Lamble",
       what: "Professor of criminology and queer theory, and a community organizer",
       org: "Birkbeck, University of London",
-      beat: "abolition",
+      beat: "abolition queer",
       why: "The “Practicing Everyday Abolition” lectures. Prisons, gender and sexuality in Britain. Remote only.",
       find: "lamble.net" },
   
@@ -2576,7 +2576,7 @@
     { name: "Aber Kawas",
       what: "Democratic nominee for New York State Senate District 12; organizing in Arab and Muslim New York since 2010",
       org: "Queens, New York",
-      beat: "govt",
+      beat: "govt housing",
       caution: "Legally qualified candidate. The moment one is on the air every opponent can ask for the same treatment, and that is a Section 315 obligation on the station, not on you. Ask Katea and the General Manager before booking — see the Policies answer “A candidate wants to come on my show.” She is mid-general until 3 November 2026.",
       why: "Won her June 2026 primary by about twenty points. Surveillance, Palestine, tenant organising. Mid-general until November.",
       find: "aberforsenate.com" },
@@ -2661,7 +2661,7 @@
     { name: "Liat Ben-Moshe",
       what: "Associate professor of criminology, law and justice",
       org: "University of Illinois Chicago",
-      beat: "health",
+      beat: "health abolition",
       why: "“Decarcerating Disability”. Deinstitutionalisation, disability justice, prison abolition.",
       find: "liatbenmoshe.com" },
   
@@ -2689,7 +2689,7 @@
     { name: "Sasha Costanza-Chock",
       what: "Head of research and sensemaking, and a Berkman Klein faculty associate",
       org: "One Project",
-      beat: "media",
+      beat: "media queer",
       why: "“Design Justice”, and the Design Justice Network. Trans data and airport scanners.",
       find: "www.schock.cc" },
   
@@ -2724,7 +2724,7 @@
     { name: "Rossana Rodríguez-Sánchez",
       what: "Alderwoman for the 33rd Ward, and chair of the health committee",
       org: "Chicago City Council",
-      beat: "govt",
+      beat: "govt housing",
       why: "Unseated an incumbent in 2019. Public mental health, tenants, and city budget fights.",
       find: "33rdward.org" },
   
@@ -2780,14 +2780,14 @@
     { name: "Benji Hart",
       what: "Writer, artist and educator, Chicago",
       org: "Independent",
-      beat: "queer",
+      beat: "queer abolition",
       why: "The blog Radical Faggot, and essays in “No Cop City, No Cop World”. Black radicalism, abolition and dance.",
       find: "benjihart.com" },
   
     { name: "Autumn Brown",
       what: "Co-host, organizer and facilitator",
       org: "How to Survive the End of the World",
-      beat: "strategy",
+      beat: "strategy health",
       why: "Makes the podcast with adrienne maree brown. Collapse, collective survival, and care work.",
       find: "endoftheworldshow.org" },
   
@@ -2829,7 +2829,7 @@
     { name: "Vanessa Thompson",
       what: "Distinguished professor in Black studies and social justice",
       org: "Queen’s University, Ontario",
-      beat: "abolition",
+      beat: "abolition black",
       why: "Co-editing “Abolitionismus: Ein Reader”. Policing and abolition in Europe. Remote only.",
       find: "queensu.ca" },
   
@@ -2924,7 +2924,7 @@
     { name: "Andrea J. Ritchie",
       what: "Researcher, organizer and litigator, three decades on policing",
       org: "Interrupting Criminalization",
-      beat: "abolition",
+      beat: "abolition queer",
       why: "“Practicing New Worlds” and “No More Police”. Police violence against Black women and trans people.",
       find: "andreajritchie.com" },
   
@@ -2975,7 +2975,7 @@
     { name: "Eric A. Stanley",
       what: "Associate professor and Haas Distinguished Chair in LGBT Equity",
       org: "UC Berkeley",
-      beat: "queer",
+      beat: "queer abolition",
       why: "“Atmospheres of Violence”. Anti-trans violence, prison abolition, queer undergrounds.",
       find: "gws.berkeley.edu" },
   
@@ -3026,7 +3026,7 @@
     { name: "Ajamu Baraka",
       what: "National organizer, and director of the North-South Project for People-Centered Human Rights",
       org: "Black Alliance for Peace",
-      beat: "strategy",
+      beat: "strategy world",
       why: "Founded the Black Alliance for Peace in 2017. Anti-imperialism and Black internationalism.",
       find: "ajamubaraka.com",
       dc: true },
@@ -3042,7 +3042,7 @@
     { name: "Robin D.G. Kelley",
       what: "Distinguished professor, Gary B. Nash Endowed Chair in US history",
       org: "UCLA",
-      beat: "black",
+      beat: "black money",
       why: "“Freedom Dreams”, and “Making a Killing” lands in 2026. The Black radical tradition, racial capitalism, and jazz.",
       find: "history.ucla.edu" },
   
@@ -3084,7 +3084,7 @@
     { name: "Talila A. Lewis",
       what: "Abolitionist community lawyer, educator and organizer; co-founder of HEARD",
       org: "HEARD",
-      beat: "health",
+      beat: "health abolition",
       why: "Built the national database of deaf imprisoned people, and wrote the definition of ableism most people now use.",
       find: "talilalewis.com",
       dc: true },
@@ -3100,7 +3100,7 @@
     { name: "Nick Estes",
       what: "Associate professor of American Indian studies; enrolled member of the Lower Brule Sioux Tribe",
       org: "University of Minnesota",
-      beat: "land",
+      beat: "land world",
       why: "“Our History Is the Future”, on Standing Rock. Treaty rights and Indigenous anti-imperialism.",
       find: "nickestes.substack.com" },
   
@@ -3172,7 +3172,7 @@
     { name: "Tracy Rosenthal",
       what: "Writer and tenant organizer, co-founder of the LA Tenants Union",
       org: "Independent",
-      beat: "housing",
+      beat: "housing abolition labor",
       why: "“Abolish Rent”. Tenant unions, rent strikes, and the policing of unhoused people. Co-founded the LA union in 2015, now in New York. They/them.",
       find: "tracyrosenthal.com" },
   
@@ -3272,7 +3272,7 @@
     { name: "Rebecca Vallas",
       what: "Chief executive",
       org: "National Academy of Social Insurance",
-      beat: "health",
+      beat: "health money",
       why: "Hosted “Off-Kilter” for a decade. Poverty, disability policy, Social Security.",
       find: "nasi.org",
       dc: true },
@@ -3288,7 +3288,7 @@
     { name: "Sacoby Wilson",
       what: "Professor and director of CEEJH",
       org: "University of Maryland School of Public Health",
-      beat: "climate",
+      beat: "climate health",
       why: "Air and water in the DMV, and community science. A regular on WYPR.",
       find: "sph.umd.edu",
       dc: true },
@@ -3311,7 +3311,7 @@
     { name: "Olúẹ́mi O. Táíwò",
       what: "Associate professor of philosophy, and on the Hammer & Hope editorial team",
       org: "Georgetown University",
-      beat: "black",
+      beat: "black climate",
       why: "Wrote “Elite Capture” and “Reconsidering Reparations”. Reparations, climate, and who speaks for Black politics.",
       find: "olufemiotaiwo.com",
       dc: true },
@@ -3404,7 +3404,7 @@
     { name: "Elizabeth Weill-Greenberg",
       what: "Senior reporter",
       org: "The Appeal",
-      beat: "abolition",
+      beat: "abolition health",
       why: "Eight years at the Innocence Project before this. Prison conditions and criminalised disability.",
       find: "theappeal.org" },
   
@@ -3425,14 +3425,14 @@
     { name: "Mike Ludwig",
       what: "Staff reporter",
       org: "Truthout",
-      beat: "health",
+      beat: "health migration",
       why: "Reports on overdose prevention centres and the Dilley immigration facility. Hosts “Climate Front Lines”.",
       find: "truthout.org" },
   
     { name: "Tina Vásquez",
       what: "Features editor",
       org: "Prism",
-      beat: "migration",
+      beat: "migration abolition queer",
       why: "ICE raids in North Carolina and Los Angeles, H-2A farmworker women, and anti-trans prison laws.",
       find: "prismreports.org" },
   
@@ -3453,7 +3453,7 @@
     { name: "Keeanga-Yamahtta Taylor",
       what: "Co-founder and editor, and professor of African American studies",
       org: "Hammer & Hope / Northwestern",
-      beat: "black",
+      beat: "black housing",
       why: "“Race for Profit” on predatory inclusion in Black housing, and “How We Get Free”.",
       find: "keeangataylor.com" },
   
@@ -3467,7 +3467,7 @@
     { name: "Sherronda J. Brown",
       what: "Executive director, editorial",
       org: "Scalawag",
-      beat: "queer",
+      beat: "queer abolition",
       why: "Wrote “Refusing Compulsory Sexuality”, and runs Scalawag’s Abolition Week.",
       find: "scalawagmagazine.org" },
   
@@ -3548,7 +3548,7 @@
     { name: "Alex Han",
       what: "Executive director",
       org: "In These Times",
-      beat: "labor",
+      beat: "labor migration",
       why: "Came to the magazine from SEIU and Bargaining for the Common Good. Immigrant workers and union organising.",
       find: "inthesetimes.com" },
   
@@ -3562,14 +3562,14 @@
     { name: "Daniel Denvir",
       what: "Host of The Dig",
       org: "The Dig",
-      beat: "strategy",
+      beat: "strategy housing money",
       why: "Does the longest interviews in left media. Capitalism, empire, and tenant and electoral organising.",
       find: "thedigradio.com" },
   
     { name: "Branko Marcetic",
       what: "Staff writer",
       org: "Jacobin",
-      beat: "strategy",
+      beat: "strategy world",
       why: "Wrote “Yesterday’s Man”. Democratic Party politics, foreign policy, and the cost of living.",
       find: "jacobin.com" },
   
@@ -3590,14 +3590,14 @@
     { name: "William Lawrence",
       what: "Host of Hegemonicon",
       org: "Convergence Magazine",
-      beat: "housing",
+      beat: "housing strategy",
       why: "Co-founded Sunrise, now does long interviews on tenant organising, rent control and movement strategy.",
       find: "convergencemag.com" },
   
     { name: "Maurice BP-Weeks",
       what: "Host of Indebted, and co-founder of the Action Center on Race and the Economy",
       org: "Convergence Magazine",
-      beat: "money",
+      beat: "money abolition",
       why: "Household debt — payday lending, medical debt, carceral debt.",
       find: "convergencemag.com" },
   
@@ -3611,7 +3611,7 @@
     { name: "Luis Feliz Leon",
       what: "Staff writer and organizer",
       org: "Labor Notes",
-      beat: "labor",
+      beat: "labor migration",
       why: "Reports the new union drives as they happen — immigrant and warehouse workers.",
       find: "labornotes.org" },
   
@@ -3625,7 +3625,7 @@
     { name: "Miski Noor",
       what: "Publisher, and co-founder of Black Visions",
       org: "The Forge",
-      beat: "strategy",
+      beat: "strategy queer",
       why: "Organising strategy, Black queer and trans organising, and movement infrastructure.",
       find: "forgeorganizing.org" },
   
@@ -8450,7 +8450,7 @@
         var d = esc(m[1]);
         return safe.replace(d, link("https://" + m[1], d));
       }
-      var hint = beatLabel(i.beat);
+      var hint = beatLabel(beatKeyOf(i));
       var tail = link(lookupURL(i.name, hint), "look them up");
       return (raw ? hilite(esc(raw), q) + " \u00b7 " : "") + tail;
     }
@@ -8580,10 +8580,19 @@
   
     /* ---------- the ideas, from the content block ---------- */
     IDEAS.forEach(function (i) {
-      i._hay = [i.name, i.what, i.org, i.why, i.find, i.caution, beatLabel(i.beat)]
+      i._hay = [i.name, i.what, i.org, i.why, i.find, i.caution,
+                beatsOf(i).map(beatLabel).join(" ")]
         .join(" ").toLowerCase();
       i._key = nameKey(i.name);
     });
+  
+    /* Most people work across more than one of these. A beat field can name
+       several, separated by spaces or commas, and the first one is the one
+       they lead with. */
+    function beatsOf(i) {
+      return String((i && i.beat) || "").split(/[\s,]+/).filter(Boolean);
+    }
+    function beatKeyOf(i) { return beatsOf(i)[0] || ""; }
   
     function beatLabel(k) {
       for (var i = 0; i < BEATS.length; i++) if (BEATS[i].key === k) return BEATS[i].label;
@@ -8622,7 +8631,9 @@
   
     function ideaRowHTML(i) {
       var q = query;
-      var tags = ['<span class="gs-tag">' + esc(beatLabel(i.beat)) + "</span>"];
+      var tags = beatsOf(i).map(function (k) {
+        return '<span class="gs-tag">' + esc(beatLabel(k)) + "</span>";
+      });
       if (i.dc) tags.push('<span class="gs-dc">DC area</span>');
       var had = COUNT[i._key];
       if (had) tags.push('<span class="gs-had">Already had on</span>');
@@ -8659,22 +8670,33 @@
        shows, and the suggestions tab has 22 beats. */
     var CHIP_LIMIT = 12;
   
-    function filterControl(label, attr, all, values, current) {
-      if (values.length <= CHIP_LIMIT) {
-        return '<div class="gs-filter-row"><span class="gs-filter-label">' + esc(label) +
-          '</span><div class="gs-filter-opts">' +
-          chip(all, "data-" + attr, "all", current === "all") +
-          values.map(function (v) { return chip(v, "data-" + attr, v, current === v); }).join("") +
-          "</div></div>";
-      }
+    /* Every filter row on both tabs goes through here. They used to be built
+       separately, which is how they drifted apart. */
+    function filterRow(label, inner) {
       return '<div class="gs-filter-row"><span class="gs-filter-label">' + esc(label) +
-        '</span><div class="gs-filter-opts">' +
+        '</span><div class="gs-filter-opts">' + inner + "</div></div>";
+    }
+  
+    /* values are plain strings, or {v, l} where the stored value and the words
+       on the chip differ, which is how the beats work. */
+    function filterControl(label, attr, all, values, current) {
+      var pairs = values.map(function (v) {
+        return (v && typeof v === "object") ? v : { v: v, l: v };
+      });
+      if (pairs.length <= CHIP_LIMIT) {
+        return filterRow(label,
+          chip(all, "data-" + attr, "all", current === "all") +
+          pairs.map(function (p) {
+            return chip(p.l, "data-" + attr, p.v, current === p.v);
+          }).join(""));
+      }
+      return filterRow(label,
         '<select class="gs-select" data-sel="' + esc(attr) + '">' +
         '<option value="all"' + (current === "all" ? " selected" : "") + ">" + esc(all) + "</option>" +
-        values.map(function (v) {
-          return '<option value="' + esc(v) + '"' + (current === v ? " selected" : "") +
-            ">" + esc(v) + "</option>";
-        }).join("") + "</select></div></div>";
+        pairs.map(function (p) {
+          return '<option value="' + esc(p.v) + '"' + (current === p.v ? " selected" : "") +
+            ">" + esc(p.l) + "</option>";
+        }).join("") + "</select>");
     }
   
     function chip(label, attr, value, on, cls) {
@@ -8737,11 +8759,10 @@
   
         var h = "";
         if (kinds.music && kinds.talk) {
-          h += '<div class="gs-filter-row"><span class="gs-filter-label">Kind</span>' +
+          h += filterRow("Kind",
             chip("Both", "data-kind", "all", kindFilter === "all") +
             chip("Music", "data-kind", "music", kindFilter === "music") +
-            chip("Public affairs", "data-kind", "talk", kindFilter === "talk") +
-            "</div>";
+            chip("Public affairs", "data-kind", "talk", kindFilter === "talk"));
         }
         h += filterControl("Subject", "area", "Anything", areas, areaFilter);
         if (shows.length > 1) h += filterControl("Show", "show", "Any show", shows, showFilter);
@@ -8750,27 +8771,9 @@
         return;
       }
       var used = {};
-      IDEAS.forEach(function (i) { used[i.beat] = true; });
-  
-      /* Kind, then where, then beat. "Everyone" used to sit on an unlabelled row
-         of its own even though it is the all-option for Beat, which made the
-         header read as three unrelated things. */
-      var chips =
-        '<div class="gs-filter-row"><span class="gs-filter-label">Kind</span>' +
-          '<div class="gs-filter-opts">' +
-          chip("Both", "data-kind", "all", kindFilter === "all") +
-          chip("Music", "data-kind", "music", kindFilter === "music") +
-          chip("Public affairs", "data-kind", "talk", kindFilter === "talk") +
-        "</div></div>" +
-        /* Being local is not a beat. It is the property that decides whether
-           somebody can sit in the studio, so it gets its own question. */
-        '<div class="gs-filter-row"><span class="gs-filter-label">Where</span>' +
-          '<div class="gs-filter-opts">' +
-          '<button type="button" class="gs-chip" data-dc="0" aria-pressed="' +
-            (!dcOnly) + '">Anywhere</button>' +
-          '<button type="button" class="gs-chip gs-chip-dc" data-dc="1" aria-pressed="' +
-            dcOnly + '">DC area only</button>' +
-        "</div></div>";
+      IDEAS.forEach(function (i) {
+        beatsOf(i).forEach(function (k) { used[k] = true; });
+      });
   
       var live = BEATS.filter(function (b) {
         if (!used[b.key]) return false;
@@ -8778,25 +8781,22 @@
         if (kindFilter === "talk") return b.kind === "voice";
         return true;
       });
-      if (live.length <= CHIP_LIMIT) {
-        filtersEl.innerHTML = chips +
-          '<div class="gs-filter-row"><span class="gs-filter-label">Beat</span>' +
-          '<div class="gs-filter-opts">' +
-          chip("Every beat", "data-b", "all", beatFilter === "all") +
-          live.map(function (b) {
-            return '<button type="button" class="gs-chip" data-b="' + esc(b.key) + '" aria-pressed="' +
-              (beatFilter === b.key) + '">' + esc(b.label) + "</button>";
-          }).join("") + "</div></div>";
-      } else {
-        filtersEl.innerHTML = chips +
-          '<div class="gs-filter-row"><span class="gs-filter-label">Beat</span>' +
-          '<div class="gs-filter-opts"><select class="gs-select" data-sel="beat">' +
-          '<option value="all"' + (beatFilter === "all" ? " selected" : "") + ">Every beat</option>" +
-          live.map(function (b) {
-            return '<option value="' + esc(b.key) + '"' + (beatFilter === b.key ? " selected" : "") +
-              ">" + esc(b.label) + "</option>";
-          }).join("") + "</select></div></div>";
-      }
+  
+      /* Kind, then where, then beat — the same three-row shape the log uses. */
+      filtersEl.innerHTML =
+        filterRow("Kind",
+          chip("Both", "data-kind", "all", kindFilter === "all") +
+          chip("Music", "data-kind", "music", kindFilter === "music") +
+          chip("Public affairs", "data-kind", "talk", kindFilter === "talk")) +
+        /* Being local is not a beat. It is the property that decides whether
+           somebody can sit in the studio, so it gets its own question. */
+        filterRow("Where",
+          '<button type="button" class="gs-chip" data-dc="0" aria-pressed="' +
+            (!dcOnly) + '">Anywhere</button>' +
+          '<button type="button" class="gs-chip gs-chip-dc" data-dc="1" aria-pressed="' +
+            dcOnly + '">DC area only</button>') +
+        filterControl("Beat", "b", "Every beat",
+          live.map(function (b) { return { v: b.key, l: b.label }; }), beatFilter);
     }
   
     function render() {
@@ -8846,10 +8846,12 @@
   
       /* the ideas tab */
       var list = IDEAS.filter(function (i) {
-        if (beatFilter !== "all" && i.beat !== beatFilter) return false;
+        if (beatFilter !== "all" && beatsOf(i).indexOf(beatFilter) < 0) return false;
         if (kindFilter !== "all") {
           var want = kindFilter === "music" ? "music" : "voice";
-          if (beatKind(i.beat) !== want) return false;
+          /* Somebody who is on a music beat at all counts as music, even when
+             they also carry a talk beat. */
+          if (!beatsOf(i).some(function (k) { return beatKind(k) === want; })) return false;
         }
         if (dcOnly && !i.dc) return false;
         return !query || matches(i._hay, query);
@@ -8866,10 +8868,10 @@
   
       var out = "";
       var groups = BEATS.filter(function (b) {
-        return list.some(function (i) { return i.beat === b.key; });
+        return list.some(function (i) { return beatsOf(i).indexOf(b.key) > -1; });
       });
       groups.forEach(function (b) {
-        var mine = list.filter(function (i) { return i.beat === b.key; });
+        var mine = list.filter(function (i) { return beatsOf(i).indexOf(b.key) > -1; });
         out += '<div class="gs-year">' + esc(b.label) + "</div>" +
           '<ul class="gs-list">' + mine.map(ideaRowHTML).join("") + "</ul>";
       });
@@ -8922,7 +8924,10 @@
       if (which === "area") areaFilter = sel.value;
       else if (which === "show") showFilter = sel.value;
       else if (which === "year") yearFilter = sel.value;
-      else if (which === "beat") beatFilter = sel.value;
+      /* The beat chips carry data-b, so filterControl names the select "b" to
+         match. Accept the older "beat" too rather than depend on which one a
+         given row happened to render. */
+      else if (which === "b" || which === "beat") beatFilter = sel.value;
       render();
     });
   
