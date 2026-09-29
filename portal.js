@@ -6223,6 +6223,7 @@
         drivestart: '2026-10-11',
         driveend: '2026-10-24',
         drivetheme: 'Renewing Our Spirit of Community and Resistance',
+        drivegoal: '150000',
         toolkitnote: 'The toolkit password is emailed to programmers at the start of each drive — ask Katea if you need it again.',
         footernote: 'Questions about this page? Email info@wpfw.org.'
       },
@@ -6785,6 +6786,12 @@
         if (gset(r.raised)) { anyRaised = true; totRaised += gnum(r.raised); }
       });
   
+      /* The station's goal for the drive, which is the round number everybody
+         quotes. The per-airing goals are built to land just under it rather
+         than exactly on it, so headline the station figure and let the rows
+         add up to whatever they add up to. */
+      var stationGoal = gnum((D.settings || {}).drivegoal) || totGoal;
+  
       /* Before a drive opens nothing has been raised, and a great big nought
          reads as failure rather than as not started. Lead with the goals until
          there is money to report. */
@@ -6792,10 +6799,10 @@
         '<div class="wp-lbl">' +
           (anyRaised ? 'The whole drive, everybody together' : 'What the whole drive is aiming for') +
         '</div>' +
-        '<div class="wp-n">' + esc(gmoney(anyRaised ? totRaised : totGoal)) + '</div>' +
+        '<div class="wp-n">' + esc(gmoney(anyRaised ? totRaised : stationGoal)) + '</div>' +
         '<div class="wp-of">' +
           (anyRaised
-            ? 'raised against ' + esc(gmoney(totGoal)) + ' in goals'
+            ? 'raised against a station goal of ' + esc(gmoney(stationGoal))
             : 'across ' + rows.length + ' airings. Money raised appears here once the drive opens.') +
         '</div></div>';
   
