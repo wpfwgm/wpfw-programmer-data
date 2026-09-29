@@ -1256,8 +1256,7 @@
   window.WPFW_CRAFT_GUIDES = [
     { key: "studio",
       label: "Your Home Studio",
-      blurb: "Making a room you already have sound good enough for air.",
-      intro: "You are responsible for the quality of what you send us. That sounds daunting and is not — almost all of it comes down to three decisions you make once, and then never think about again." },
+      blurb: "Making a room you already have sound good enough for air." },
     { key: "show",
       label: "Running a Good Show",
       blurb: "The clock, the guests, the questions, and the things worth getting better at." }
