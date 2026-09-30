@@ -6263,7 +6263,8 @@
         { type: 'Link', label: 'Pledge Toolkit', url: '', style: 'solid' },
         { type: 'Link', label: 'Your Goals', url: '', style: 'solid' },
         { type: 'Link', label: 'Pitch Book', url: '', style: 'ghost' },
-        { type: 'Link', label: 'Tally Page', url: '', style: 'ghost' }
+        { type: 'Link', label: 'Tally Page', url: 'https://pledge.wpfwfm.org/phone/talley.php', style: 'ghost' },
+        { type: 'Link', label: 'Tally History', url: 'https://pledge.wpfwfm.org/phone/talley_history.php', style: 'ghost' }
       ],
       contacts: [
         { askthemabout: 'Programming · Scheduling · Your one-on-one', name: 'Katea Stitt', role: 'Program Director', email: 'kstitt@wpfw.org', phone: '' },
