@@ -6232,8 +6232,7 @@
         drivestart: '2026-10-11',
         driveend: '2026-10-24',
         drivetheme: 'Renewing Our Spirit of Community and Resistance',
-        drivegoal: '150000',
-        toolkitnote: 'The toolkit password is emailed to programmers at the start of each drive — ask Katea if you need it again.'
+        drivegoal: '150000'
       },
       updated: {},
       checklist: [
