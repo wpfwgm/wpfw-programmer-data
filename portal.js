@@ -5635,6 +5635,17 @@
   
   window.WPFW_GUEST_LOG_AUTO = [
    {
+    "date": "2026-09-30",
+    "guest": "Larry Hamm",
+    "title": "founder and director",
+    "organization": "People's Organization for Progress",
+    "areas": "Black Liberation · Racial Justice · History · Palestine",
+    "category": "Public Affairs",
+    "show": "What's At Stake",
+    "episode": "122121",
+    "quote": "Today, my guest is Larry Hamm, who is the founder and director of People's Organization for Progress."
+   },
+   {
     "date": "2026-09-27",
     "guest": "Harry Schnipper",
     "title": "owner",
