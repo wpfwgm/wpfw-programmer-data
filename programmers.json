@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-27T02:21:55.169Z",
+ "generatedAt": "2026-10-02T18:45:56.929Z",
  "count": 23,
  "cats": [
   "Music",
@@ -62,6 +62,15 @@
     4
    ],
    "eps": [
+    {
+     "id": "122145",
+     "t": "Unionism Drives Community",
+     "pithy": "Dr. Rhonda Hamilton co-wrote the HEART Act",
+     "d": 1790888400,
+     "len": "0:59:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_170000unionismdrivescommunit.mp3",
+     "prog": "Unionism Drives Community"
+    },
     {
      "id": "122045",
      "t": "Unionism Drives Community",
@@ -131,7 +140,7 @@
      "pithy": "Do project labor agreements really cost more?",
      "d": 1785445200,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_170000unionismdrivescommunit.mp3",
+     "mp3": null,
      "prog": "Unionism Drives Community"
     }
    ],
@@ -175,6 +184,16 @@
    ],
    "eps": [
     {
+     "id": "122082",
+     "t": "Latin Flavor Classic Edition",
+     "pithy": "Chano Pozo brought Yoruba rhythms into bebop",
+     "d": 1790546400,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260927_180000latinflimbyers.mp3",
+     "prog": "Latin Flavor Classic Edition",
+     "listen": true
+    },
+    {
      "id": "121986",
      "t": "Latin Flavor Classic Edition",
      "pithy": "Charlie Palmieri, and the teacher both brothers shared",
@@ -190,7 +209,7 @@
      "pithy": "Tito Puente on how the Latin Grammys came to be",
      "d": 1789336800,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_180000latinflimbyers.mp3",
+     "mp3": null,
      "prog": "Latin Flavor Classic Edition",
      "listen": true
     }
@@ -232,6 +251,7 @@
     {
      "id": "122069",
      "t": "Southern Soul Party",
+     "pithy": "Calvin hands off to Lady C across the DMV",
      "d": 1790438400,
      "len": "2:00:02",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260926_120000southesoulparty.mp3",
@@ -273,30 +293,40 @@
    ],
    "progInfo": [
     {
-     "name": "A Love Supreme",
-     "desc": "A Love Supreme brings jazz rooted in spirit and history to Monday mornings on WPFW 89.3 FM."
-    },
-    {
      "name": "Morning Brew Jazz Notes Edition feat. Union City Radio",
      "desc": "A Monday morning jazz program on WPFW, pairing live music news and artist tributes with the deep familiarity of a host who has been showing up at 5 AM for her listeners week after week."
+    },
+    {
+     "name": "A Love Supreme",
+     "desc": "A Love Supreme brings jazz rooted in spirit and history to Monday mornings on WPFW 89.3 FM."
     }
    ],
    "photo": "https://images.squarespace-cdn.com/content/v1/62e6d591fbd0f929e5e278f6/1787426074218-YD8LKXFCWT0X1FQYMTPZ/ellen+carter.jpeg",
    "page": "https://www.wpfwdc.org/programmer/ellen-williams-carter",
    "links": [],
    "shows": [
-    "lovesuprem",
-    "amaltmon"
+    "amaltmon",
+    "lovesuprem"
    ],
    "cats": [
-    "Special Program",
-    "Music"
+    "Music",
+    "Special Program"
    ],
    "days": [
     1,
     3
    ],
    "eps": [
+    {
+     "id": "122087",
+     "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "pithy": "Carl Grubbs heard Coltrane practice in Philadelphia",
+     "d": 1790586000,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260928_050000amaltmon.mp3",
+     "prog": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "listen": true
+    },
     {
      "id": "122026",
      "t": "A Love Supreme",
@@ -322,7 +352,7 @@
      "pithy": "Cannonball Adderley and Joseph Jarman birthdays",
      "d": 1789376400,
      "len": "3:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_050000amaltmon.mp3",
+     "mp3": null,
      "prog": "Morning Brew Jazz Notes Edition feat. Union City Radio",
      "listen": true
     }
@@ -365,6 +395,15 @@
     3
    ],
    "eps": [
+    {
+     "id": "122130",
+     "t": "Konbit Lakay",
+     "pithy": "470 Haitians deported since the Aristide coup anniversary",
+     "d": 1790809201,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260930_190001konbitlsdayiti.mp3",
+     "prog": "Konbit Lakay"
+    },
     {
      "id": "121935",
      "t": "Konbit Lakay",
@@ -434,7 +473,7 @@
      "pithy": "State Department not consulted on Haitian TPS",
      "d": 1785366000,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260729_190000konbitlsdayiti.mp3",
+     "mp3": null,
      "prog": "Konbit Lakay"
     }
    ],
@@ -477,6 +516,16 @@
    ],
    "eps": [
     {
+     "id": "122078",
+     "t": "G-Strings",
+     "pithy": "Dave Holland at 80 from Miles Davis to Zakir Hussain",
+     "d": 1790514000,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260927_090000gstringomecole.mp3",
+     "prog": "G-Strings",
+     "listen": true
+    },
+    {
      "id": "121982",
      "t": "G-Strings",
      "pithy": "Red Mitchell, from West Coast sessions to Stockholm",
@@ -492,7 +541,7 @@
      "pithy": "Butch Warren, Blue Note's D.C. bassist",
      "d": 1789304400,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_090000gstringomecole.mp3",
+     "mp3": null,
      "prog": "G-Strings",
      "listen": true
     }
@@ -536,6 +585,15 @@
     4
    ],
    "eps": [
+    {
+     "id": "122141",
+     "t": "The Labor Heritage Power Hour",
+     "pithy": "Clifford Thompson's mother sorting mail in 1970s Washington",
+     "d": 1790874000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_130000dcpolitebarras.mp3",
+     "prog": "The Labor Heritage Power Hour"
+    },
     {
      "id": "122042",
      "t": "The Labor Heritage Power Hour",
@@ -605,7 +663,7 @@
      "pithy": "A folk award speech about $200,000 of debt",
      "d": 1785430800,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_130000dcpolitebarras.mp3",
+     "mp3": null,
      "prog": "The Labor Heritage Power Hour"
     }
    ],
@@ -652,6 +710,25 @@
    ],
    "eps": [
     {
+     "id": "122105",
+     "t": "Voices With Vision",
+     "pithy": "Margaret Kimberley explains what AFRICOM is",
+     "d": 1790686801,
+     "len": "1:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260929_090001voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "122099",
+     "t": "Brother Ah’s Collectors: Next Generation in Sound",
+     "pithy": "Black Ink spinning vinyl for Larry Person",
+     "d": 1790640000,
+     "len": "2:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260928_200000brotherahrsquocollectnextgeneratins.mp3",
+     "prog": "Brother Ah’s Collectors: Next Generation in Sound",
+     "listen": true
+    },
+    {
      "id": "122009",
      "t": "Voices With Vision",
      "pithy": "Tamayo Chaveco saw 11,000 children waiting for surgery",
@@ -685,7 +762,7 @@
      "pithy": "An all-1976 hour, with every credit named",
      "d": 1789430401,
      "len": "2:00:05",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_200001brotherahrsquocollectnextgeneratins.mp3",
+     "mp3": null,
      "prog": "Brother Ah’s Collectors: Next Generation in Sound",
      "listen": true
     },
@@ -752,7 +829,7 @@
      "prog": "Voices With Vision"
     }
    ],
-   "audio": 10
+   "audio": 11
   },
   {
    "slug": "daman-harris",
@@ -787,6 +864,15 @@
    ],
    "eps": [
     {
+     "id": "122146",
+     "t": "#UMustLearn",
+     "pithy": "Ross wrote \"Wonderful Mother\" when Lenora died",
+     "d": 1790892000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_180000umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
@@ -819,7 +905,7 @@
      "pithy": "Real Men Teach, back to John Chavis",
      "d": 1785448800,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260730_180000umustlearn.mp3",
+     "mp3": null,
      "prog": "#UMustLearn"
     }
    ],
@@ -863,6 +949,15 @@
     4
    ],
    "eps": [
+    {
+     "id": "122146",
+     "t": "#UMustLearn",
+     "pithy": "Ross wrote \"Wonderful Mother\" when Lenora died",
+     "d": 1790892000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_180000umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
     {
      "id": "122046",
      "t": "#UMustLearn",
@@ -909,7 +1004,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 5
+   "audio": 6
   },
   {
    "slug": "willard-jenkins",
@@ -962,6 +1057,16 @@
    ],
    "eps": [
     {
+     "id": "122080",
+     "t": "Open Sky",
+     "pithy": "Coltrane overdubbed his own voice on A Love Supreme",
+     "d": 1790532000,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260927_140000opensky.mp3",
+     "prog": "Open Sky",
+     "listen": true
+    },
+    {
      "id": "122028",
      "t": "The Atlantic Trane",
      "pithy": "Coltrane's Atlantic years, at 100",
@@ -986,7 +1091,7 @@
      "pithy": "The jazz centenarians of 2026",
      "d": 1789322400,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260913_140000opensky.mp3",
+     "mp3": null,
      "prog": "Open Sky",
      "listen": true
     }
@@ -1037,6 +1142,16 @@
    ],
    "eps": [
     {
+     "id": "122133",
+     "t": "Jam Session - Life Music",
+     "pithy": "Songs and readings on the Negro Leagues",
+     "d": 1790827200,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_000000jamsesslifemusi.mp3",
+     "prog": "Jam Session - Life Music",
+     "listen": true
+    },
+    {
      "id": "122033",
      "t": "Jam Session - Life Music",
      "pithy": "Kamala Dean's Coltrane Cooldown",
@@ -1052,7 +1167,7 @@
      "pithy": "Shaboozy's outlaw tales, played in full",
      "d": 1789617600,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_000000jamsesslifemusi.mp3",
+     "mp3": null,
      "prog": "Jam Session - Life Music",
      "listen": true
     },
@@ -1115,6 +1230,16 @@
    ],
    "eps": [
     {
+     "id": "122073",
+     "t": "Decipher",
+     "pithy": "Kev Brown and the 45 King salute DJ Machete",
+     "d": 1790470800,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260926_210000deciphersat.mp3",
+     "prog": "Decipher",
+     "listen": true
+    },
+    {
      "id": "121977",
      "t": "Decipher",
      "pithy": "DJ Senpai on imposter syndrome and arrival",
@@ -1135,7 +1260,7 @@
      "listen": true
     }
    ],
-   "audio": 1
+   "audio": 2
   },
   {
    "slug": "warren-scooter-magruder",
@@ -1169,6 +1294,16 @@
    ],
    "eps": [
     {
+     "id": "122140",
+     "t": "Don't Forget The Blues-Scooter Magruder",
+     "pithy": "Lattimore remembered with his \"Stormy Monday",
+     "d": 1790870400,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_120000dontforgebluesthurs.mp3",
+     "prog": "Don't Forget The Blues-Scooter Magruder",
+     "listen": true
+    },
+    {
      "id": "122041",
      "t": "Don't Forget The Blues-Scooter Magruder",
      "pithy": "Bobby Parker and Ray Charles Robinson's 96th birthday",
@@ -1184,7 +1319,7 @@
      "pithy": "Who really wrote 'Stormy Monday'",
      "d": 1789660800,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_120000dontforgebluesthurs.mp3",
+     "mp3": null,
      "prog": "Don't Forget The Blues-Scooter Magruder",
      "listen": true
     },
@@ -1233,6 +1368,16 @@
    ],
    "eps": [
     {
+     "id": "122103",
+     "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "pithy": "Farrakhan recorded calypso as The Charmer before Farrakhan",
+     "d": 1790672400,
+     "len": "3:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260929_050000amalttue.mp3",
+     "prog": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122007",
      "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
      "pithy": "Gary Bartz, Marlena Shaw, and a week of birthdays",
@@ -1248,7 +1393,7 @@
      "pithy": "Four girls, remembered 63 years on",
      "d": 1789462800,
      "len": "3:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260915_050000amalttue.mp3",
+     "mp3": null,
      "prog": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
      "listen": true
     }
@@ -1291,6 +1436,15 @@
     2
    ],
    "eps": [
+    {
+     "id": "122107",
+     "t": "Community Watch & Comment - Tuesday",
+     "pithy": "Shmuley traces the 1924 law to today's deportations",
+     "d": 1790694000,
+     "len": "1:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260929_110000comcomb.mp3",
+     "prog": "Community Watch & Comment - Tuesday"
+    },
     {
      "id": "122011",
      "t": "Community Watch & Comment - Tuesday",
@@ -1381,7 +1535,7 @@
      "prog": "Community Watch & Comment - Tuesday"
     }
    ],
-   "audio": 8
+   "audio": 9
   },
   {
    "slug": "ayize-sabater",
@@ -1416,6 +1570,15 @@
    ],
    "eps": [
     {
+     "id": "122146",
+     "t": "#UMustLearn",
+     "pithy": "Ross wrote \"Wonderful Mother\" when Lenora died",
+     "d": 1790892000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_180000umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "121752",
      "t": "#UMustLearn",
      "pithy": "Eighty years of exclusion in D.C. chess",
@@ -1443,7 +1606,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 3
+   "audio": 4
   },
   {
    "slug": "candy-shannon",
@@ -1484,6 +1647,15 @@
    ],
    "eps": [
     {
+     "id": "122151",
+     "t": "Morning Brew Jazz Edition feat. Union City Radio",
+     "d": 1790931600,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261002_050000amaltfri.mp3",
+     "prog": "Morning Brew Jazz Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122051",
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
      "pithy": "Heidi Martin traced Coltrane to a Marshall Keys mixtape",
@@ -1508,7 +1680,7 @@
      "pithy": "Emily Remler, in her own words",
      "d": 1789722000,
      "len": "3:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260918_050000amaltfri.mp3",
+     "mp3": null,
      "prog": "Morning Brew Jazz Edition feat. Union City Radio",
      "listen": true
     },
@@ -1556,8 +1728,19 @@
    "days": [
     3
    ],
-   "eps": [],
-   "audio": 0
+   "eps": [
+    {
+     "id": "122127",
+     "t": "Jazz and Justice - Sophie's Parlor",
+     "pithy": "Marietta Ulacia traces Latinidad to Chicago in 1985",
+     "d": 1790794801,
+     "len": "2:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260930_150001jjsophie.mp3",
+     "prog": "Jazz and Justice - Sophie's Parlor",
+     "listen": true
+    }
+   ],
+   "audio": 1
   },
   {
    "slug": "dj-underdog",
@@ -1597,6 +1780,16 @@
    ],
    "eps": [
     {
+     "id": "122100",
+     "t": "Black Star Radio",
+     "pithy": "Black Ink ranks Marvin Gaye's greatest albums",
+     "d": 1790647200,
+     "len": "1:59:59",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260928_220000blackstarradio.mp3",
+     "prog": "Black Star Radio",
+     "listen": true
+    },
+    {
      "id": "122004",
      "t": "Black Star Radio",
      "pithy": "Zaya Ross on what France took from Haiti",
@@ -1612,7 +1805,7 @@
      "pithy": "Black Consciousness, in archival voices",
      "d": 1789437600,
      "len": "2:00:05",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260914_220000blackstarradio.mp3",
+     "mp3": null,
      "prog": "Black Star Radio",
      "listen": true
     }
@@ -1651,6 +1844,15 @@
    ],
    "eps": [
     {
+     "id": "122146",
+     "t": "#UMustLearn",
+     "pithy": "Ross wrote \"Wonderful Mother\" when Lenora died",
+     "d": 1790892000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_180000umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "121950",
      "t": "#UMustLearn",
      "pithy": "Louis Armstrong refuses the State Department",
@@ -1678,7 +1880,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 3
+   "audio": 4
   },
   {
    "slug": "craig-williams",
@@ -1724,6 +1926,16 @@
    ],
    "eps": [
     {
+     "id": "122135",
+     "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "pithy": "Craig Williams heard two under-30 alto saxophonists in New York",
+     "d": 1790845200,
+     "len": "3:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261001_050000amalt.mp3",
+     "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122035",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "pithy": "Craig Williams finds \"Equinox\" after a CD misprint",
@@ -1748,7 +1960,7 @@
      "pithy": "A seventy-five minute set about water",
      "d": 1789635600,
      "len": "3:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260917_050000amalt.mp3",
+     "mp3": null,
      "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "listen": true
     },
@@ -1774,8 +1986,8 @@
    "audio": 4
   },
   {
-   "slug": "dj-zee-lion",
-   "name": "DJ Zee-Lion",
+   "slug": "dj-zeelion",
+   "name": "DJ ZeeLion",
    "role": "Host",
    "programs": [
     "Kulcha Shak"
@@ -1812,6 +2024,7 @@
     {
      "id": "122071",
      "t": "Kulcha Shak",
+     "pithy": "Kim Bey alone with Alton Ellis and Peter Tosh",
      "d": 1790452800,
      "len": "2:00:03",
      "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260926_160000kulcha.mp3",
