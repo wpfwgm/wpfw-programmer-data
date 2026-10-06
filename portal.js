@@ -7129,7 +7129,7 @@
           (String(r.what || '').trim()
             ? '<p class="wp-rep-what">' + esc(r.what) + '</p>' : '') +
           (url ? '' :
-            '<p class="wp-rep-gap">Link to come. Ask Katea or the General Manager if you want it now.</p>') +
+            '<p class="wp-rep-gap">Link to come.</p>') +
           '</div>';
       }).join('');
   
