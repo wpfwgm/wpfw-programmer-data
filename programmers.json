@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-20T04:02:59.505Z",
- "count": 24,
+ "generatedAt": "2026-11-20T04:11:11.322Z",
+ "count": 29,
  "cats": [
   "Music",
   "Public Access",
@@ -17,7 +17,9 @@
   "Decipher",
   "Don't Forget the Blues",
   "G-Strings",
+  "House of Soul",
   "Jam Session ~ Life Music",
+  "Jazz and Justice - African Deep Thought",
   "Konbit Lakay",
   "Kulcha Shak",
   "Labor Heritage Power Hour",
@@ -26,12 +28,143 @@
   "Morning Brew — Jazz Notes Edition",
   "Morning Brew — Yardbird Sweets Edition",
   "Open Sky",
+  "Sophie's Parlor",
   "Sophie's Parlor Women's Radio Collective",
+  "Soul Conversations",
   "The Friday Morning Brew",
   "The Southern Soul Party",
   "Unionism Drives Community!"
  ],
  "people": [
+  {
+   "slug": "sista-kim-bey",
+   "name": "Sista Kim Bey",
+   "role": "Co-Host",
+   "programs": [
+    "Kulcha Shak"
+   ],
+   "bio": [
+    "Sista Kim Bey co-hosts Kulcha Shak on Saturday afternoons with DJ Zee-Lion, who is also her husband. The pair describe the program's purpose as musically bridging the cultural gap between Africa and the diaspora, and spreading love and light toward a healthy mind, body, spirit and soul.",
+    "The pair describe their mission as musically bridging the cultural gap between Africa and its diaspora, and the program moves accordingly: reggae, R&B, soca and African music in one set, with D.C.-area artists given room alongside the established names."
+   ],
+   "progInfo": [
+    {
+     "name": "Kulcha Shak",
+     "desc": "Reggae and diaspora sounds from an award-winning musician who lived the culture before he broadcast it."
+    }
+   ],
+   "genres": [
+    "Reggae",
+    "African diaspora"
+   ],
+   "photo": "",
+   "page": "",
+   "links": [],
+   "shows": [
+    "kulcha"
+   ],
+   "cats": [
+    "Music"
+   ],
+   "days": [
+    6
+   ],
+   "eps": [
+    {
+     "id": "122767",
+     "t": "Kulcha Shak",
+     "d": 1794690001,
+     "len": "2:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261114_160001kulcha.mp3",
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122668",
+     "t": "Kulcha Shak",
+     "d": 1794085200,
+     "len": "2:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_160000kulcha.mp3",
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122566",
+     "t": "Kulcha Shak",
+     "d": 1793476800,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122467",
+     "t": "Kulcha Shak",
+     "d": 1792872000,
+     "len": "2:00:02",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122368",
+     "t": "Kulcha Shak",
+     "d": 1792267201,
+     "len": "2:00:05",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122270",
+     "t": "Kulcha Shak",
+     "d": 1791662400,
+     "len": "2:00:04",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122171",
+     "t": "Kulcha Shak",
+     "d": 1791057600,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "122071",
+     "t": "Kulcha Shak",
+     "d": 1790452800,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "121975",
+     "t": "Kulcha Shak",
+     "pithy": "Solo, with two D.C. artists in the spotlight",
+     "d": 1789848000,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
+     "id": "121876",
+     "t": "Kulcha Shak",
+     "pithy": "Bridging Africa and the diaspora, in two hours",
+     "d": 1789243200,
+     "len": "0:58:14",
+     "mp3": null,
+     "prog": "Kulcha Shak",
+     "listen": true
+    }
+   ],
+   "audio": 2
+  },
   {
    "slug": "renee-bowser",
    "name": "Renee Bowser",
@@ -194,6 +327,121 @@
     }
    ],
    "audio": 8
+  },
+  {
+   "slug": "derrick-weston-brown",
+   "name": "Derrick Weston Brown",
+   "role": "Co-Host",
+   "programs": [
+    "Soul Conversations"
+   ],
+   "bio": [
+    "Derrick Weston Brown was the first poet-in-residence at Busboys and Poets, where he founded and curated The Nine on the Ninth, a monthly poetry series that ran at the 14th and V Street location from 2005 to 2015. He holds an MFA in creative writing from American University, studied under Tony Medina at Howard and Cornelius Eady at American, and is a graduate of the Cave Canem and VONA Voices workshops. His collections are Wisdom Teeth and On All Fronts. He teaches at Prince George's Community College and on the creative writing faculty of the Duke Ellington School of the Arts, and received the Hurston/Wright Foundation's E. Lynn Harris Impact Award in 2023.",
+    "Soul Conversations runs two hours of soul from all angles, every Tuesday evening on WPFW 89.3 FM.",
+    "He adopts a different on-air name from week to week, DJ Watermark one evening and DJ Second Wind the next, and builds each set around a thread he then explains. One night he paused mid-set to credit the bass and vocals on an Erykah Badu and Thundercat collaboration before tracing the producer's other work."
+   ],
+   "progInfo": [
+    {
+     "name": "Soul Conversations",
+     "desc": "Soul Conversations brings two hours of soul from all angles, every Tuesday evening on WPFW 89.3 FM."
+    }
+   ],
+   "photo": "",
+   "page": "",
+   "links": [],
+   "shows": [
+    "soulconv"
+   ],
+   "cats": [
+    "Music"
+   ],
+   "days": [
+    3
+   ],
+   "eps": [
+    {
+     "id": "122811",
+     "t": "Soul Conversations",
+     "d": 1794963601,
+     "len": "2:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261117_200001soulconv.mp3",
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122712",
+     "t": "Soul Conversations",
+     "d": 1794358800,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261110_200000soulconv.mp3",
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122511",
+     "t": "Soul Conversations",
+     "d": 1793145600,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122412",
+     "t": "Soul Conversations",
+     "d": 1792540800,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122312",
+     "t": "Soul Conversations",
+     "d": 1791936000,
+     "len": "1:54:52",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122214",
+     "t": "Soul Conversations",
+     "d": 1791331200,
+     "len": "0:36:22",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122115",
+     "t": "Soul Conversations",
+     "d": 1790726400,
+     "len": "2:00:06",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "122019",
+     "t": "Soul Conversations",
+     "d": 1790121600,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
+     "id": "121920",
+     "t": "Soul Conversations",
+     "d": 1789516800,
+     "len": "2:00:06",
+     "mp3": null,
+     "prog": "Soul Conversations",
+     "listen": true
+    }
+   ],
+   "audio": 2
   },
   {
    "slug": "jim-byers",
@@ -877,6 +1125,27 @@
     }
    ],
    "audio": 2
+  },
+  {
+   "slug": "violetta-diamond",
+   "name": "Violetta Diamond",
+   "role": "Host",
+   "programs": [
+    "Sophie's Parlor"
+   ],
+   "bio": [
+    "Violetta Diamond's personal catchphrase is \"You Don't Know My Story,\" and she brings that same conviction to the programming she builds for Sophie's Parlor. She is energized by offering listeners a show that tells a story or explores a topic through a rich musical journey, and she has been part of the WPFW community since 2017.",
+    "She first came to the station while completing a community engagement assignment for her Communications degree. She stayed because WPFW's mission aligned with her own commitment to expanding social justice, and because she found the station to be a place where authenticity is encouraged. Her service extends well beyond the microphone: she is a committee chair and a member of the Local Station Board.",
+    "Sophie's Parlor is the longest running women's music collective in the country, founded in 1972 at Georgetown University's WGTB and on WPFW's airwaves since the station's earliest years, when its members were interviewing Sweet Honey in the Rock and Alice Walker. The collective describes its work simply: programming by women, about women, for everybody."
+   ],
+   "photo": "",
+   "page": "",
+   "links": [],
+   "shows": [],
+   "cats": [],
+   "days": [],
+   "eps": [],
+   "audio": 0
   },
   {
    "slug": "chris-garlock",
@@ -1738,6 +2007,121 @@
    "audio": 2
   },
   {
+   "slug": "brother-kaba",
+   "name": "Brother Ka'Ba'",
+   "role": "Host",
+   "programs": [
+    "Jazz and Justice - African Deep Thought"
+   ],
+   "bio": [
+    "Brother Ka'Ba' is a Pan-Afrikanist thinker-doer/cultural warrior whose public work with several community-focused organizations runs alongside and through the program. He has over 30 years of experience in media, having worked across several formats.",
+    "The show’s name is derived from “sba,” an ancient Kemetic (Egyptian) word that is transliterated as “deep thought,” “teacher,” “student,” or “star.” Sba is also the oldest known word that can be translated as “philosophy.”",
+    "On WPFW’s air since May 2016, the show’s longform conversations go to primary sources, covering world history, current events, philosophy, ideology, spirituality, politics and political education, economics, health and more. Afrikan Deep Thought airs every Monday, from 3-5PM. Tune in to hear conversations and monologues that center on viewing, interpreting and engaging the world from an Afrikan-Centered worldview."
+   ],
+   "progInfo": [
+    {
+     "name": "Jazz and Justice - African Deep Thought",
+     "desc": "Jazz, conversation, and African deep thought, hosted by Brother Ka'Ba' every Monday on WPFW."
+    }
+   ],
+   "photo": "",
+   "page": "",
+   "links": [],
+   "shows": [
+    "jjdeepthought"
+   ],
+   "cats": [
+    "Music"
+   ],
+   "days": [
+    1
+   ],
+   "eps": [
+    {
+     "id": "122791",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1794859200,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261116_150000jjdeepthought.mp3",
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122692",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1794254400,
+     "len": "2:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261109_150000jjdeepthought.mp3",
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122589",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1793649600,
+     "len": "2:00:00",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122491",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1793041200,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122392",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1792436400,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122195",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1791226800,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "122095",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1790622001,
+     "len": "2:00:05",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "121999",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1790017201,
+     "len": "1:57:33",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
+     "id": "121900",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1789412400,
+     "len": "1:59:01",
+     "mp3": null,
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    }
+   ],
+   "audio": 2
+  },
+  {
    "slug": "sais-kamalidiin",
    "name": "Saïs Kamalidiin",
    "role": "Host",
@@ -2463,6 +2847,135 @@
     }
    ],
    "audio": 9
+  },
+  {
+   "slug": "dj-lance-reynolds",
+   "name": "DJ Lance Reynolds",
+   "legalName": "Lance Reynolds",
+   "role": "Host",
+   "programs": [
+    "House of Soul"
+   ],
+   "bio": [
+    "Lance Reynolds did not come looking for WPFW. Katea Stitt found him in 2014 and brought him into House of Soul, a lineup then hosted by James Funk and Arthur McCloud, both of whom have since gone on to programs of their own. Calvin Watson later joined to form the current lineup.",
+    "Lance describes the show as completely freestyle. He plays through the music he is actually listening to at the time, letting the selections and the message flow in the moment rather than working from a fixed script. What draws him to the work is the feeling of speaking through music across such a vast area, and the chance to play something a listener may need to hear in a given situation, however big or small that moment turns out to be.",
+    "Alongside the music, he is candid about a second motivation: doing his part to help support the station's operation and its growth. House of Soul reaches one of the largest audiences on the WPFW schedule."
+   ],
+   "progInfo": [
+    {
+     "name": "House Of Soul",
+     "desc": "A completely freestyle house and soul set. No formula, no script."
+    }
+   ],
+   "genres": [
+    "House",
+    "Soul"
+   ],
+   "photo": "",
+   "page": "",
+   "links": [],
+   "shows": [
+    "soulhouse"
+   ],
+   "cats": [
+    "Music"
+   ],
+   "days": [
+    6
+   ],
+   "eps": [
+    {
+     "id": "122764",
+     "t": "House Of Soul",
+     "d": 1794668400,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261114_100000soulhouse.mp3",
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122665",
+     "t": "House Of Soul",
+     "d": 1794063600,
+     "len": "2:00:06",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_100000soulhouse.mp3",
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122563",
+     "t": "House Of Soul",
+     "d": 1793455200,
+     "len": "2:00:00",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122464",
+     "t": "House Of Soul",
+     "d": 1792850401,
+     "len": "2:00:02",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122365",
+     "t": "House Of Soul",
+     "d": 1792245600,
+     "len": "2:00:02",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122267",
+     "t": "House Of Soul",
+     "d": 1791640800,
+     "len": "2:00:05",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122168",
+     "t": "House Of Soul",
+     "d": 1791036000,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "122068",
+     "t": "House Of Soul",
+     "d": 1790431200,
+     "len": "1:44:12",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "121972",
+     "t": "House Of Soul",
+     "d": 1789826400,
+     "len": "2:00:03",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
+     "id": "121873",
+     "t": "House Of Soul",
+     "d": 1789221600,
+     "len": "2:00:06",
+     "mp3": null,
+     "prog": "House Of Soul",
+     "listen": true
+    }
+   ],
+   "audio": 2
   },
   {
    "slug": "ayize-sabater",
