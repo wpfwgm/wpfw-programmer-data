@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-20T04:28:49.544Z",
+ "generatedAt": "2026-11-20T18:59:10.783Z",
  "count": 29,
  "cats": [
   "Music",
@@ -197,6 +197,14 @@
    ],
    "eps": [
     {
+     "id": "122840",
+     "t": "Unionism Drives Community",
+     "d": 1795125600,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261119_170000unionismdrivescommunit.mp3",
+     "prog": "Unionism Drives Community"
+    },
+    {
      "id": "122741",
      "t": "Unionism Drives Community",
      "d": 1794520800,
@@ -326,7 +334,7 @@
      "prog": "Unionism Drives Community"
     }
    ],
-   "audio": 8
+   "audio": 9
   },
   {
    "slug": "derrick-weston-brown",
@@ -1630,6 +1638,14 @@
    ],
    "eps": [
     {
+     "id": "122841",
+     "t": "#UMustLearn",
+     "d": 1795129201,
+     "len": "1:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261119_180001umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "122742",
      "t": "#UMustLearn",
      "d": 1794524400,
@@ -1723,7 +1739,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 7
+   "audio": 8
   },
   {
    "slug": "daryl-howard",
@@ -1763,6 +1779,14 @@
     4
    ],
    "eps": [
+    {
+     "id": "122841",
+     "t": "#UMustLearn",
+     "d": 1795129201,
+     "len": "1:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261119_180001umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
     {
      "id": "122742",
      "t": "#UMustLearn",
@@ -1866,7 +1890,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 8
+   "audio": 9
   },
   {
    "slug": "willard-jenkins",
@@ -3010,6 +3034,14 @@
    ],
    "eps": [
     {
+     "id": "122841",
+     "t": "#UMustLearn",
+     "d": 1795129201,
+     "len": "1:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261119_180001umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "122742",
      "t": "#UMustLearn",
      "d": 1794524400,
@@ -3094,7 +3126,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 7
+   "audio": 8
   },
   {
    "slug": "candy-shannon",
@@ -3131,6 +3163,15 @@
    ],
    "eps": [
     {
+     "id": "122846",
+     "t": "Morning Brew Jazz Edition feat. Union City Radio",
+     "d": 1795168800,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261120_050000amaltfri.mp3",
+     "prog": "Morning Brew Jazz Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122747",
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
      "d": 1794564000,
@@ -3144,7 +3185,7 @@
      "t": "Morning Brew Jazz Edition feat. Union City Radio",
      "d": 1793959201,
      "len": "3:00:02",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261106_050001amaltfri.mp3",
+     "mp3": null,
      "prog": "Morning Brew Jazz Edition feat. Union City Radio",
      "listen": true
     },
@@ -3619,6 +3660,14 @@
    ],
    "eps": [
     {
+     "id": "122841",
+     "t": "#UMustLearn",
+     "d": 1795129201,
+     "len": "1:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261119_180001umustlearn.mp3",
+     "prog": "#UMustLearn"
+    },
+    {
      "id": "122742",
      "t": "#UMustLearn",
      "d": 1794524400,
@@ -3703,7 +3752,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 7
+   "audio": 8
   },
   {
    "slug": "craig-williams",
