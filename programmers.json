@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-20T18:59:10.783Z",
+ "generatedAt": "2026-11-21T17:54:36.829Z",
  "count": 29,
  "cats": [
   "Music",
@@ -629,7 +629,7 @@
      "t": "Southern Soul Party",
      "d": 1794070800,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_120000southesoulparty.mp3",
+     "mp3": null,
      "prog": "Southern Soul Party",
      "listen": true
     },
@@ -708,7 +708,7 @@
      "listen": true
     }
    ],
-   "audio": 2
+   "audio": 1
   },
   {
    "slug": "ellen-williams-carter",
@@ -1512,10 +1512,9 @@
     {
      "id": "122009",
      "t": "Voices With Vision",
-     "pithy": "Tamayo Chaveco saw 11,000 children waiting for surgery",
      "d": 1790082000,
      "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_090000voiceswdiocoop.mp3",
+     "mp3": null,
      "prog": "Voices With Vision"
     },
     {
@@ -1603,7 +1602,7 @@
      "prog": "Voices With Vision"
     }
    ],
-   "audio": 11
+   "audio": 10
   },
   {
    "slug": "daman-harris",
@@ -2786,7 +2785,7 @@
      "pithy": "Niagara Falls and the Manhattan Project's waste",
      "d": 1790089201,
      "len": "1:00:01",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260922_110001comcomb.mp3",
+     "mp3": null,
      "prog": "Community Watch & Comment - Tuesday"
     },
     {
@@ -2870,7 +2869,7 @@
      "prog": "Community Watch & Comment - Tuesday"
     }
    ],
-   "audio": 9
+   "audio": 8
   },
   {
    "slug": "dj-lance-reynolds",
@@ -2909,6 +2908,15 @@
    ],
    "eps": [
     {
+     "id": "122863",
+     "t": "House Of Soul",
+     "d": 1795273200,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261121_100000soulhouse.mp3",
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
      "id": "122764",
      "t": "House Of Soul",
      "d": 1794668400,
@@ -2922,7 +2930,7 @@
      "t": "House Of Soul",
      "d": 1794063600,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_100000soulhouse.mp3",
+     "mp3": null,
      "prog": "House Of Soul",
      "listen": true
     },
