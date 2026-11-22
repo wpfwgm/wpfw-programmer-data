@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-21T17:54:36.829Z",
+ "generatedAt": "2026-11-22T18:17:48.197Z",
  "count": 29,
  "cats": [
   "Music",
@@ -71,6 +71,15 @@
    ],
    "eps": [
     {
+     "id": "122866",
+     "t": "Kulcha Shak",
+     "d": 1795294801,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261121_160001kulcha.mp3",
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
      "id": "122767",
      "t": "Kulcha Shak",
      "d": 1794690001,
@@ -84,7 +93,7 @@
      "t": "Kulcha Shak",
      "d": 1794085200,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_160000kulcha.mp3",
+     "mp3": null,
      "prog": "Kulcha Shak",
      "listen": true
     },
@@ -616,6 +625,15 @@
    ],
    "eps": [
     {
+     "id": "122864",
+     "t": "Southern Soul Party",
+     "d": 1795280400,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261121_120000southesoulparty.mp3",
+     "prog": "Southern Soul Party",
+     "listen": true
+    },
+    {
      "id": "122765",
      "t": "Southern Soul Party",
      "d": 1794675600,
@@ -708,7 +726,7 @@
      "listen": true
     }
    ],
-   "audio": 1
+   "audio": 2
   },
   {
    "slug": "ellen-williams-carter",
@@ -1040,6 +1058,15 @@
    ],
    "eps": [
     {
+     "id": "122873",
+     "t": "G-Strings",
+     "d": 1795356000,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261122_090000gstringomecole.mp3",
+     "prog": "G-Strings",
+     "listen": true
+    },
+    {
      "id": "122774",
      "t": "G-Strings",
      "d": 1794751201,
@@ -1053,7 +1080,7 @@
      "t": "G-Strings",
      "d": 1794146400,
      "len": "3:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261108_090000gstringomecole.mp3",
+     "mp3": null,
      "prog": "G-Strings",
      "listen": true
     },
@@ -2323,6 +2350,15 @@
    ],
    "eps": [
     {
+     "id": "122868",
+     "t": "Decipher",
+     "d": 1795312800,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261121_210000deciphersat.mp3",
+     "prog": "Decipher",
+     "listen": true
+    },
+    {
      "id": "122769",
      "t": "Decipher",
      "d": 1794708001,
@@ -2336,7 +2372,7 @@
      "t": "Decipher",
      "d": 1794103200,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_210000deciphersat.mp3",
+     "mp3": null,
      "prog": "Decipher",
      "listen": true
     },
@@ -3933,6 +3969,15 @@
    ],
    "eps": [
     {
+     "id": "122866",
+     "t": "Kulcha Shak",
+     "d": 1795294801,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261121_160001kulcha.mp3",
+     "prog": "Kulcha Shak",
+     "listen": true
+    },
+    {
      "id": "122767",
      "t": "Kulcha Shak",
      "d": 1794690001,
@@ -3946,7 +3991,7 @@
      "t": "Kulcha Shak",
      "d": 1794085200,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261107_160000kulcha.mp3",
+     "mp3": null,
      "prog": "Kulcha Shak",
      "listen": true
     },
