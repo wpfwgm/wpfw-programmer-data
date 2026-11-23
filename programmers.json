@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-22T18:17:48.197Z",
+ "generatedAt": "2026-11-23T22:28:37.573Z",
  "count": 29,
  "cats": [
   "Music",
@@ -273,10 +273,9 @@
     {
      "id": "122045",
      "t": "Unionism Drives Community",
-     "pithy": "Unite Here Local 25 boycotts five D.C. restaurants",
      "d": 1790283600,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_170000unionismdrivescommunit.mp3",
+     "mp3": null,
      "prog": "Unionism Drives Community"
     },
     {
@@ -343,7 +342,7 @@
      "prog": "Unionism Drives Community"
     }
    ],
-   "audio": 9
+   "audio": 8
   },
   {
    "slug": "derrick-weston-brown",
@@ -498,6 +497,15 @@
    ],
    "eps": [
     {
+     "id": "122877",
+     "t": "Latin Flavor Classic Edition",
+     "d": 1795388401,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261122_180001latinflimbyers.mp3",
+     "prog": "Latin Flavor Classic Edition",
+     "listen": true
+    },
+    {
      "id": "122778",
      "t": "Latin Flavor Classic Edition",
      "d": 1794783601,
@@ -511,7 +519,7 @@
      "t": "Latin Flavor Classic Edition",
      "d": 1794178800,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261108_180000latinflimbyers.mp3",
+     "mp3": null,
      "prog": "Latin Flavor Classic Edition",
      "listen": true
     },
@@ -758,6 +766,15 @@
    ],
    "eps": [
     {
+     "id": "122882",
+     "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "d": 1795428000,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261123_050000amaltmon.mp3",
+     "prog": "Morning Brew Jazz Notes Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122783",
      "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
      "d": 1794823200,
@@ -771,7 +788,7 @@
      "t": "Morning Brew Jazz Notes Edition feat. Union City Radio",
      "d": 1794218400,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261109_050000amaltmon.mp3",
+     "mp3": null,
      "prog": "Morning Brew Jazz Notes Edition feat. Union City Radio",
      "listen": true
     },
@@ -1287,10 +1304,9 @@
     {
      "id": "122042",
      "t": "The Labor Heritage Power Hour",
-     "pithy": "Joe Uline walked a picket line at age six",
      "d": 1790269200,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_130000dcpolitebarras.mp3",
+     "mp3": null,
      "prog": "The Labor Heritage Power Hour"
     },
     {
@@ -1357,7 +1373,7 @@
      "prog": "The Labor Heritage Power Hour"
     }
    ],
-   "audio": 9
+   "audio": 8
   },
   {
    "slug": "craig-hall",
@@ -1873,10 +1889,9 @@
     {
      "id": "122046",
      "t": "#UMustLearn",
-     "pithy": "Atreyu Lee and Sanaa Miles testified against DC's youth curfew",
      "d": 1790287200,
      "len": "1:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260924_180000umustlearn.mp3",
+     "mp3": null,
      "prog": "#UMustLearn"
     },
     {
@@ -1916,7 +1931,7 @@
      "prog": "#UMustLearn"
     }
    ],
-   "audio": 9
+   "audio": 8
   },
   {
    "slug": "willard-jenkins",
@@ -1962,6 +1977,15 @@
    ],
    "eps": [
     {
+     "id": "122875",
+     "t": "Open Sky",
+     "d": 1795374000,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261122_140000opensky.mp3",
+     "prog": "Open Sky",
+     "listen": true
+    },
+    {
      "id": "122776",
      "t": "Open Sky",
      "d": 1794769200,
@@ -1975,7 +1999,7 @@
      "t": "Open Sky",
      "d": 1794164400,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261108_140000opensky.mp3",
+     "mp3": null,
      "prog": "Open Sky",
      "listen": true
     },
@@ -2088,6 +2112,15 @@
    ],
    "eps": [
     {
+     "id": "122890",
+     "t": "Jazz and Justice - African Deep Thought",
+     "d": 1795464000,
+     "len": "1:59:59",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261123_150000jjdeepthought.mp3",
+     "prog": "Jazz and Justice - African Deep Thought",
+     "listen": true
+    },
+    {
      "id": "122791",
      "t": "Jazz and Justice - African Deep Thought",
      "d": 1794859200,
@@ -2101,7 +2134,7 @@
      "t": "Jazz and Justice - African Deep Thought",
      "d": 1794254400,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261109_150000jjdeepthought.mp3",
+     "mp3": null,
      "prog": "Jazz and Justice - African Deep Thought",
      "listen": true
     },
