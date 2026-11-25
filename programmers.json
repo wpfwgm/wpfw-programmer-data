@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-23T22:28:37.573Z",
+ "generatedAt": "2026-11-25T20:23:47.434Z",
  "count": 29,
  "cats": [
   "Music",
@@ -376,6 +376,15 @@
    ],
    "eps": [
     {
+     "id": "122910",
+     "t": "Soul Conversations",
+     "d": 1795568400,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261124_200000soulconv.mp3",
+     "prog": "Soul Conversations",
+     "listen": true
+    },
+    {
      "id": "122811",
      "t": "Soul Conversations",
      "d": 1794963601,
@@ -389,7 +398,7 @@
      "t": "Soul Conversations",
      "d": 1794358800,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261110_200000soulconv.mp3",
+     "mp3": null,
      "prog": "Soul Conversations",
      "listen": true
     },
@@ -1416,6 +1425,23 @@
    ],
    "eps": [
     {
+     "id": "122900",
+     "t": "Voices With Vision",
+     "d": 1795528800,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261124_090000voiceswdiocoop.mp3",
+     "prog": "Voices With Vision"
+    },
+    {
+     "id": "122894",
+     "t": "Brother Ah’s Collectors: Next Generation in Sound",
+     "d": 1795482000,
+     "len": "2:00:04",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261123_200000brotherahrsquocollectnextgeneratins.mp3",
+     "prog": "Brother Ah’s Collectors: Next Generation in Sound",
+     "listen": true
+    },
+    {
      "id": "122801",
      "t": "Voices With Vision",
      "d": 1794924000,
@@ -1445,7 +1471,7 @@
      "t": "Brother Ah’s Collectors: Next Generation in Sound",
      "d": 1794272400,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261109_200000brotherahrsquocollectnextgeneratins.mp3",
+     "mp3": null,
      "prog": "Brother Ah’s Collectors: Next Generation in Sound",
      "listen": true
     },
@@ -1645,7 +1671,7 @@
      "prog": "Voices With Vision"
     }
    ],
-   "audio": 10
+   "audio": 11
   },
   {
    "slug": "daman-harris",
@@ -2653,6 +2679,15 @@
    ],
    "eps": [
     {
+     "id": "122898",
+     "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "d": 1795514400,
+     "len": "3:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261124_050000amalttue.mp3",
+     "prog": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122799",
      "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
      "d": 1794909600,
@@ -2666,7 +2701,7 @@
      "t": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
      "d": 1794304800,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261110_050000amalttue.mp3",
+     "mp3": null,
      "prog": "Morning Brew Yardbird Sweets Edition feat. Union City Radio",
      "listen": true
     },
@@ -2783,6 +2818,14 @@
     2
    ],
    "eps": [
+    {
+     "id": "122902",
+     "t": "Community Watch & Comment - Tuesday",
+     "d": 1795536000,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261124_110000comcomb.mp3",
+     "prog": "Community Watch & Comment - Tuesday"
+    },
     {
      "id": "122803",
      "t": "Community Watch & Comment - Tuesday",
@@ -2938,7 +2981,7 @@
      "prog": "Community Watch & Comment - Tuesday"
     }
    ],
-   "audio": 8
+   "audio": 9
   },
   {
    "slug": "dj-lance-reynolds",
@@ -3383,6 +3426,15 @@
    ],
    "eps": [
     {
+     "id": "122913",
+     "t": "Into The Dawn - Nate D. Skate",
+     "d": 1795590001,
+     "len": "3:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261125_020001ovjazzcc.mp3",
+     "prog": "Into The Dawn - Nate D. Skate",
+     "listen": true
+    },
+    {
      "id": "122814",
      "t": "Into The Dawn - Nate D. Skate",
      "d": 1794985200,
@@ -3396,7 +3448,7 @@
      "t": "Into The Dawn - Nate D. Skate",
      "d": 1794380400,
      "len": "2:59:52",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261111_020000ovjazzcc.mp3",
+     "mp3": null,
      "prog": "Into The Dawn - Nate D. Skate",
      "listen": true
     },
@@ -3611,6 +3663,15 @@
    ],
    "eps": [
     {
+     "id": "122895",
+     "t": "Black Star Radio",
+     "d": 1795489201,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261123_220001blackstarradio.mp3",
+     "prog": "Black Star Radio",
+     "listen": true
+    },
+    {
      "id": "122796",
      "t": "Black Star Radio",
      "d": 1794884400,
@@ -3624,7 +3685,7 @@
      "t": "Black Star Radio",
      "d": 1794279601,
      "len": "2:00:02",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261109_220001blackstarradio.mp3",
+     "mp3": null,
      "prog": "Black Star Radio",
      "listen": true
     },
