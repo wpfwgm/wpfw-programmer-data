@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-25T20:23:47.434Z",
+ "generatedAt": "2026-11-26T20:00:12.142Z",
  "count": 29,
  "cats": [
   "Music",
@@ -916,6 +916,14 @@
    ],
    "eps": [
     {
+     "id": "122925",
+     "t": "Konbit Lakay",
+     "d": 1795651200,
+     "len": "1:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261125_190000konbitlsdayiti.mp3",
+     "prog": "Konbit Lakay"
+    },
+    {
      "id": "122826",
      "t": "Konbit Lakay",
      "d": 1795046400,
@@ -1045,7 +1053,7 @@
      "prog": "Konbit Lakay"
     }
    ],
-   "audio": 7
+   "audio": 8
   },
   {
    "slug": "tom-cole",
@@ -2268,6 +2276,15 @@
    ],
    "eps": [
     {
+     "id": "122928",
+     "t": "Jam Session - Life Music",
+     "d": 1795669201,
+     "len": "2:00:02",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261126_000001jamsesslifemusi.mp3",
+     "prog": "Jam Session - Life Music",
+     "listen": true
+    },
+    {
      "id": "122829",
      "t": "Jam Session - Life Music",
      "d": 1795064400,
@@ -2281,7 +2298,7 @@
      "t": "Jam Session - Life Music",
      "d": 1794459600,
      "len": "1:59:40",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261112_000000jamsesslifemusi.mp3",
+     "mp3": null,
      "prog": "Jam Session - Life Music",
      "listen": true
     },
@@ -2544,6 +2561,15 @@
    ],
    "eps": [
     {
+     "id": "122935",
+     "t": "Don't Forget The Blues-Scooter Magruder",
+     "d": 1795712401,
+     "len": "1:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261126_120001dontforgebluesthurs.mp3",
+     "prog": "Don't Forget The Blues-Scooter Magruder",
+     "listen": true
+    },
+    {
      "id": "122836",
      "t": "Don't Forget The Blues-Scooter Magruder",
      "d": 1795107600,
@@ -2557,7 +2583,7 @@
      "t": "Don't Forget The Blues-Scooter Magruder",
      "d": 1794502800,
      "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261112_120000dontforgebluesthurs.mp3",
+     "mp3": null,
      "prog": "Don't Forget The Blues-Scooter Magruder",
      "listen": true
     },
@@ -3560,6 +3586,15 @@
    ],
    "eps": [
     {
+     "id": "122922",
+     "t": "Jazz and Justice - Sophie's Parlor",
+     "d": 1795636800,
+     "len": "2:00:04",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261125_150000jjsophie.mp3",
+     "prog": "Jazz and Justice - Sophie's Parlor",
+     "listen": true
+    },
+    {
      "id": "122823",
      "t": "Jazz and Justice - Sophie's Parlor",
      "d": 1795032000,
@@ -3573,7 +3608,7 @@
      "t": "Jazz and Justice - Sophie's Parlor",
      "d": 1794427200,
      "len": "2:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261111_150000jjsophie.mp3",
+     "mp3": null,
      "prog": "Jazz and Justice - Sophie's Parlor",
      "listen": true
     },
@@ -3924,6 +3959,15 @@
    ],
    "eps": [
     {
+     "id": "122930",
+     "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "d": 1795687200,
+     "len": "3:00:05",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261126_050000amalt.mp3",
+     "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio",
+     "listen": true
+    },
+    {
      "id": "122831",
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "d": 1795082400,
@@ -3937,7 +3981,7 @@
      "t": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "d": 1794477600,
      "len": "3:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261112_050000amalt.mp3",
+     "mp3": null,
      "prog": "Morning Brew Classic Jazz Edition feat. Union City Radio",
      "listen": true
     },
