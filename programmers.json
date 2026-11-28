@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-27T19:50:16.217Z",
+ "generatedAt": "2026-11-28T18:43:27.248Z",
  "count": 29,
  "cats": [
   "Music",
@@ -655,7 +655,7 @@
      "t": "Southern Soul Party",
      "d": 1794675600,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261114_120000southesoulparty.mp3",
+     "mp3": null,
      "prog": "Southern Soul Party",
      "listen": true
     },
@@ -743,7 +743,7 @@
      "listen": true
     }
    ],
-   "audio": 2
+   "audio": 1
   },
   {
    "slug": "ellen-williams-carter",
@@ -1571,10 +1571,9 @@
     {
      "id": "122105",
      "t": "Voices With Vision",
-     "pithy": "Margaret Kimberley on what AFRICOM does",
      "d": 1790686801,
      "len": "1:00:05",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260929_090001voiceswdiocoop.mp3",
+     "mp3": null,
      "prog": "Voices With Vision"
     },
     {
@@ -1679,7 +1678,7 @@
      "prog": "Voices With Vision"
     }
    ],
-   "audio": 11
+   "audio": 10
   },
   {
    "slug": "daman-harris",
@@ -2911,10 +2910,9 @@
     {
      "id": "122107",
      "t": "Community Watch & Comment - Tuesday",
-     "pithy": "Ending TPS for Haitians and Salvadorans, and skateparks worldwide",
      "d": 1790694000,
      "len": "1:00:06",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_260929_110000comcomb.mp3",
+     "mp3": null,
      "prog": "Community Watch & Comment - Tuesday"
     },
     {
@@ -3007,7 +3005,7 @@
      "prog": "Community Watch & Comment - Tuesday"
     }
    ],
-   "audio": 9
+   "audio": 8
   },
   {
    "slug": "dj-lance-reynolds",
@@ -3046,6 +3044,15 @@
    ],
    "eps": [
     {
+     "id": "122960",
+     "t": "House Of Soul",
+     "d": 1795878001,
+     "len": "2:00:03",
+     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261128_100001soulhouse.mp3",
+     "prog": "House Of Soul",
+     "listen": true
+    },
+    {
      "id": "122863",
      "t": "House Of Soul",
      "d": 1795273200,
@@ -3059,7 +3066,7 @@
      "t": "House Of Soul",
      "d": 1794668400,
      "len": "2:00:03",
-     "mp3": "https://archive.wpfwfm.org/mp3/wpfw_261114_100000soulhouse.mp3",
+     "mp3": null,
      "prog": "House Of Soul",
      "listen": true
     },
